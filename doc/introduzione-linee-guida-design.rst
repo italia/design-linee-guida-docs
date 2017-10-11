@@ -10,7 +10,7 @@ I cittadini al centro
  - disegnare e sviluppare flussi di interazione chiari, che rispondano con efficacia alle necessità dei diversi utenti, generando un’esperienza d’uso positiva;
  - strutturare i contenuti in modo semplice, con uno stile comunicativo coerente e una strategia editoriale sostenibile nel tempo.
 
-`Le linee guida per il design dei servizi digitali della Pubblica Amministrazione <http://design-italia.readthedocs.io/it/stable/index.html>`_ sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design, alla user research, al content design e alla user interface. Per discutere sul design dei servizi pubblici è disponibile il nostro `forum <https://forum.italia.it/c/design>`_. Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
+**Le linee guida per il design dei servizi digitali della Pubblica Amministrazione** sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design, alla user research, al content design e alla user interface. Per discutere sul design dei servizi pubblici è disponibile il nostro `forum <https://forum.italia.it/c/design>`_. Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
 
 Sviluppo collaborativo
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -27,7 +27,8 @@ I contenuti delle linee guida sono scritti in file .rst e possono essere aggiorn
 
 Sviluppo programmato
 ~~~~~~~~~~~~~~~~~~~~
-Le linee guida di design seguono le roadmap di evoluzione pubblicate in ciascuna delle sezioni di `Designers Italia <https://designers.italia.it/>`_.
+Le linee guida di design hanno senso solo se viste come un sistema in continua evoluzione, che segue le roadmap pubblicate in ciascuna delle sezioni di `Designers Italia <https://designers.italia.it/>`_. Solo adottando un’ottica di miglioramento continuo possiamo sperare di renderle efficaci e utili per tutte le Pubbliche Amministrazioni. Poiché le linee guida evolvono continuamente (diciamo con frequenza mensile) diventa fondamentale introdurre il versionamento che consente di tenere traccia delle diverse *release* nel tempo.
+Grazie al versionamento, chi realizza siti aderenti alle linee guida può fare riferimento ad una precisa versione (da citare, ad esempio, quando si partecipa ad un bando di gara).
 
 Version control e release della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +55,7 @@ Nella guida usiamo delle etichette per evidenziare alcuni passaggi, specificando
 
 Consultazione della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-`La documentazione è disponibile su **Docs Italia** <http://design-italia.readthedocs.io/it/stable/index.html>`_, la piattaforma di gestione della documentazione pubblica creata da `Team per la Trasformazione Digitale <https://teamdigitale.governo.it/>`_. Le funzioni di hosting e di ricerca sono basate su `Readhtedocs  <https://readthedocs.org/>`_ e la documentazione viene pubblicata attraverso il tool `Sphinx  <http://www.sphinx-doc.org/en/stable/>`_
+`La documentazione è disponibile su Docs Italia <http://design-italia.readthedocs.io/it/stable/index.html>`_, la piattaforma di gestione della documentazione pubblica creata da `Team per la Trasformazione Digitale <https://teamdigitale.governo.it/>`_. Le funzioni di hosting e di ricerca sono basate su `Readhtedocs  <https://readthedocs.org/>`_ e la documentazione viene pubblicata attraverso il tool `Sphinx  <http://www.sphinx-doc.org/en/stable/>`_
 e il linguaggio `RST <http://docutils.sourceforge.net/rst.html>`_.
 Tutti i documenti di Docs Italia possono essere fruiti anche in formato .epub e .pdf
 
