@@ -142,9 +142,9 @@ Le PA , “fermo restando quanto previsto per le pubblicazioni nella Gazzetta
 Ufficiale della Repubblica italiana dalla legge 11 dicembre 1984, n. 839,
 e dalle relative norme di attuazione,“pubblicano sui propri siti istituzionali
 i riferimenti normativi con i relativi link alle norme di legge statale pubblicate
-nella banca dati «Normattiva» che ne regolano l’istituzione, l’organizzazione e l’attività.
+nella banca dati «Normattiva» che ne regolano l'istituzione, l'organizzazione e l'attività.
 Sono altresì pubblicati le direttive, le circolari, i programmi e le istruzioni emanati
-dall’amministrazione e ogni atto, previsto dalla legge o comunque adottato, che dispone
+dall'amministrazione e ogni atto, previsto dalla legge o comunque adottato, che dispone
 in generale sulla organizzazione, sulle funzioni, sugli obiettivi, sui procedimenti [...]”.
 
 - Riferimento normativo: art.12 `DECRETO LEGISLATIVO 14 marzo 2013, n. 33 <http://www.normattiva.it/uri-res/N2Ls? urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_
