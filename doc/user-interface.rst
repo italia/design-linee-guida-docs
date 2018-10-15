@@ -24,7 +24,6 @@ passaggi, con diversi livelli di dettaglio dell'interfaccia stessa.
    :maxdepth: 2
 
    user-interface/principi.rst
-   user-interface/il-modello-di-un-interfaccia-e-il-wireframe-kit.rst
    user-interface/il-disegno-di-un-interfaccia-e-lo-ui-kit.rst
    user-interface/lo-sviluppo-di-un-interfaccia-e-i-web-kit.rst
    user-interface/come-contribuire-ai-kit-di-design.rst

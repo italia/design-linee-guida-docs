@@ -1,4 +1,4 @@
-Lo sviluppo di un'interfaccia e i Web Kit
+Lo sviluppo di un’interfaccia e i Web Kit
 -----------------------------------------
 
 Attività preliminari alla fase di sviluppo
@@ -6,7 +6,7 @@ Attività preliminari alla fase di sviluppo
 
 Durante le fasi iniziali dello sviluppo di un sito web professionale, è di
 fondamentale importanza dedicare tempo e risorse ad alcune attività che avranno
-impatto sull'intero ciclo di vita del progetto:
+impatto sull’intero ciclo di vita del progetto:
 
 * una analisi di **componenti** (librerie, linguaggi, documentazione, ecc.) e
   **best practices** già utilizzate e validate dalla comunità, che possano
@@ -35,7 +35,7 @@ Approccio
 ~~~~~~~~~
 
 
-Responsive Web Design
+Responsive web design
 _____________________
 
 Il sito web deve **sempre** essere progettato e sviluppato con un approccio
@@ -45,15 +45,15 @@ utilizzato, consentendo in ogni situazione facilità di lettura e navigazione.
 
 Al concetto di responsive web design vanno associate pratiche di
 semplificazione delle interfacce in ottica *mobile first*, e un’attenzione
-particolare nel fornire un'esperienza soddisfacente anche a coloro che hanno
+particolare nel fornire un’esperienza soddisfacente anche a coloro che hanno
 difficoltà visive o motorie.
 
 .. NOTE::
-   È possibile approfondire l'argomento nella `sezione dedicata all'accessibilità
-   <../service-design/accessibilita.html>`__ nell'area Service Design.
+   È possibile approfondire l’argomento nella `sezione dedicata all’accessibilità
+   <../service-design/accessibilita.html>`__ nell’area Service Design.
 
 
-Mobile First
+Mobile first
 ____________
 
 L’approccio mobile first è, assieme all’utilizzo di *progressive enhancement*
@@ -83,16 +83,16 @@ alle sue funzioni fondamentali anche man mano che viene fruita attraverso
 tecnologie meno moderne o meno interattive.
 
 In questo caso, si può pensare anche in termini di *tolleranza* del sito
-all'assenza di alcune funzionalità.
+all’assenza di alcune funzionalità.
 
 Come si potrà notare, si tratta in fondo di due risposte diverse alla stessa
 esigenza: rendere il contenuto **accessibile** su dispositivi con **diverse
 caratteristiche e potenzialità**.
 
-Feature Detection
+Feature detection
 _________________
 
-Tecnicamente, l'approccio appena analizzato può essere realizzato attraverso
+Tecnicamente, l’approccio appena analizzato può essere realizzato attraverso
 la cosiddetta feature detection: il sito web può rilevare una miriade di
 proprietà che caratterizzano il metodo di accesso al sito da parte del
 cittadino.
@@ -101,12 +101,12 @@ cittadino.
    Si prega di non confondere la feature detection con la pratica, in passato
    molto diffusa, di utilizzare lo *user-agent* (ovvero quale browser e quale
    sistema operativo è connesso) per differenziare i servizi forniti. È
-   infatti scoraggiato l'utilizzo di user-agent a tale scopo, in quanto
+   infatti scoraggiato l’utilizzo di user-agent a tale scopo, in quanto
    impreciso e difficilmente mantenibile vista la quantità di diversi
    dispositivi in costante uscita sul mercato.
 
 Attraverso una feature detection puntuale, è possibile sapere come indirizzare
-ogni aspetto dell'informazione che si vuole trasmettere. Tali caratteristiche
+ogni aspetto dell’informazione che si vuole trasmettere. Tali caratteristiche
 possono spaziare dallo schermo utilizzato, in termini di dimensioni,
 risoluzione e densità dei pixel, fino ai metodi di input (mouse, touch-screen,
 tastiera, input vocale, ecc.); senza dimenticare le **opzioni per la stampa** e
@@ -121,9 +121,9 @@ Sia CSS che Javascript permettono di rilevare la presenza puntuale di
 determinate caratteristiche nei dispositivi usati.
 
 Javascript permette di analizzare qualsiasi funzionalità presente tra le Web
-API, oltre a poter conoscere praticamente **ogni dettaglio dell'utente** che è
+API, oltre a poter conoscere praticamente **ogni dettaglio dell’utente** che è
 collegato. Ad esempio, attraverso la geo-localizzazione di un dispositivo, è
-possibile fornire un servizio più preciso a seconda della posizione dell'utente
+possibile fornire un servizio più preciso a seconda della posizione dell’utente
 nello spazio, a patto che tale *feature* sia disponibile nel dispositivo
 utilizzato. Ecco come si può realizzare::
 
@@ -163,10 +163,10 @@ una gestione ad-hoc di determinate funzionalità oppure no.
 Una volta individuati i dispositivi supportati e le feature da realizzare,
 è buona norma scegliere uno stack di sviluppo che ottimizzi il lavoro.
 
-In ambito CSS, è ormai pressoché d'obbligo l'utilizzo di **pre-processori**
+In ambito CSS, è ormai pressoché d’obbligo l’utilizzo di **pre-processori**
 (*SASS*, *LESS*, e *PostCSS* sono i più utilizzati), che migliorano la leggibilità e
-la modularità del codice sorgente, agevolando nel contempo l'applicazione di
-pratiche virtuose quali l'utilizzo di *BEM*, una metodologia per scrivere
+la modularità del codice sorgente, agevolando nel contempo l’applicazione di
+pratiche virtuose quali l’utilizzo di *BEM*, una metodologia per scrivere
 classi CSS “parlanti”, o di Autoprefixer per la gestione automatica di prefissi
 CSS a supporto dei vari motori di rendering presenti nei browser.
 
@@ -180,9 +180,9 @@ Per quanto riguarda Javascript invece, la scelta degli strumenti è talmente
 ampia e mutevole che delineare uno scenario ottimale in termini di framework o
 librerie non avrebbe senso senza un’analisi approfondita del progetto da
 realizzare. In questo ambito è necessaria una formazione continua, e
-un'attenzione particolare a ciò che permetta di ottenere codice
+un’attenzione particolare a ciò che permetta di ottenere codice
 **manutenibile**, **scalabile** e **performante**, senza appesantire
-l'esecuzione e l'interfaccia utente.
+l’esecuzione e l’interfaccia utente.
 
 Alcune risorse interessanti, in inglese:
 
@@ -207,8 +207,8 @@ necessario assicurare la compatibilità con versioni dei browser che abbiano
 una penetrazione media tra la popolazione di almeno **1 persona ogni 100
 abitanti**.
 
-Ciò significa che con i dati disponibili ad oggi (primo quadrimestre 2018), è
-necessario assicurare la compatibilità con almeno i seguenti browser:
+Ciò significa, che con i dati disponibili ad oggi, è necessario assicurare la
+compatibilità con almeno i seguenti browser:
 
 - Apple Safari 9+ (mobile e desktop)
 - Google Chrome (ultime versioni, mobile e desktop)
@@ -238,7 +238,7 @@ Misurare le prestazioni
 Così come avviene per il design di un sito, anche le sue prestazioni
 concorrono a una maggiore facilità di utilizzo. In questo senso, è bene
 differenziare due principali ambiti che possono avere impatto determinante
-sull'esperienza finale dell'utente: i **tempi di caricamento** della pagina e
+sull’esperienza finale dell’utente: i **tempi di caricamento** della pagina e
 le **performance di esecuzione** della pagina stessa.
 
 Per analizzare i tempi di caricamento e *rendering* della pagina web si possono
@@ -261,29 +261,29 @@ pagina.
   `Microsoft Edge <https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/performance>`_
 
 .. note::
-   Chrome developer tools può inoltre fornire un'analisi approfondita di una
+   Chrome developer tools può inoltre fornire un’analisi approfondita di una
    pagina web nella sua sezione *"Audits"*, permettendo di portare a galla
    problemi in ambito di *progressive web apps*, *performance*,
    *accessibilità*, e *utilizzo di best practices*.
 
 In caso di progettazione di progressive web apps ideate per essere usate
 principalmente su dispositivi mobili, è bene tenere a mente anche il concetto
-di offline first, fornendo un'esperienza di base anche in caso di limitata
+di offline first, fornendo un’esperienza di base anche in caso di limitata
 connettività.
 
-I kit di sviluppo: i Web Kit
+I kit di sviluppo: i web kit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per avvicinarci alle esigenze di PA e fornitori in questa fase, il progetto
 Designers Italia prevede la realizzazione di alcune librerie *open-source* di
-ausilio per lo sviluppo di interfacce e il mantenimento di un *Design System*
+ausilio per lo sviluppo di interfacce e il mantenimento di un *design system*
 solido e coerente: Web Toolkit, Bootstrap Italia, React Kit e Angular Kit.
 
 Come si usano i kit
 ___________________
 
 Il **Web Toolkit** è la libreria "storica" tra i Web Kit, con il più alto numero di
-componenti già pronti all'uso.
+componenti già pronti all’uso.
 
 **Bootstrap Italia** è un set di componenti costruito sulla libreria Bootstrap 4 e
 contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di
@@ -298,7 +298,7 @@ Bootstrap Italia
 ________________
 
 Bootstrap Italia recepisce e aggiorna il precedente Web Toolkit, secondo le
-nuove direttive introdotte nella versione 2.0 dello UI Kit, semplificando
+nuove direttive introdotte nella più recente versione dello UI Kit, semplificando
 moltissimo lo sviluppo di un sito web conforme con le Linee Guida di Design.
 
 Esso contiene codice pronto all’uso, e descrive in dettaglio nella propria
@@ -307,7 +307,7 @@ sito, come aggiungere nuovi componenti, organizzare spazi e contenuti, ed altro
 ancora.
 
 Bootstrap Italia permette di copiare il codice mostrato, ottenendo esattamente
-ciò che è descritto nella documentazione all'interno del proprio progetto.
+ciò che è descritto nella documentazione all’interno del proprio progetto.
 
 Bottoni
 :::::::
@@ -317,13 +317,14 @@ la classe `.btn`, associandola a classi di tipo `.btn-` per applicarne varianti
 di stile, dimensione, ed altro.
 
 È possibile consultare tutti i dettagli nella pagina dedicata al componente
-“Bottone” nella documentazione.
+`“Bottone” <https://italia.github.io/bootstrap-italia/docs/componenti/bottoni/>`_
+nella documentazione.
 
 .. figure:: images/ui-bootstrap-italia-bottone.png
-    :alt: Un esempio di componente Bottone.
-    :scale: 25%
+    :alt: Un esempio del componente Bottone di Bootstrap Italia.
+    :name: Un esempio del componente Bottone di Bootstrap Italia.
 
-    Figura 1 - Un esempio di componente “Bottone” nelle sue varianti.
+    Un esempio del componente “Bottone” nelle sue varianti.
 
 Interfaccia a Tab
 :::::::::::::::::
@@ -335,10 +336,10 @@ documentazione di Bootstrap Italia, assicurandone così il funzionamento
 anche per utenti che usino la tastiera o dispositivi di comando vocale.
 
 .. figure:: images/ui-bootstrap-italia-tab.png
-    :alt: Un esempio di componente Bottone.
-    :scale: 25%
+    :alt: Un esempio del componente Tab di Bootstrap Italia.
+    :name: Un esempio del componente Tab di Bootstrap Italia.
 
-    Figura 2 - Un esempio di componente “Bottone” nelle sue varianti.
+    Un esempio del componente “Tab” nelle sue varianti.
 
 Input Toggle
 ::::::::::::
@@ -349,10 +350,10 @@ esistono nello standard web, come l’input di tipo “Toggle” (una sorta di
 “Checkbox” rendendone l’aspetto più chiaro ed immediato.
 
 .. figure:: images/ui-bootstrap-italia-toggle.png
-    :alt: Un esempio di componente Bottone.
-    :scale: 25%
+    :alt: Un esempio del componente Toggle di Bootstrap Italia.
+    :name: Un esempio del componente Toggle di Bootstrap Italia.
 
-    Figura 3 - Un esempio di componente “Bottone” nelle sue varianti.
+    Un esempio di componente “Toggle” nelle sue varianti.
 
 React Kit e Angular Kit
 _______________________
@@ -397,9 +398,10 @@ I Web Development Kit sono disponibili a tutti:
 * `React Kit <https://italia.github.io/design-react-kit/>`_
 * `Angular Kit <https://italia.github.io/design-angular-kit/>`_
 
-Sia lo UI Kit che questi kit di sviluppo sono ancora in fase di completamento.
 
-Per questo, è suggeribile utilizzarli soltanto dopo un’analisi dei requisiti
-funzionali della propria applicazione. La Pubblica Amministrazione che utilizza
-questi framework può distribuire e mettere a disposizione della comunità i
-componenti mancanti, suggerire miglioramenti e segnalare errori.
+I kit seguono un processo di evoluzione e miglioramento continuo.
+
+Puoi verificare lo stato di avanzamento e la roadmap di ogni kit all’interno del
+repo GitHub che lo ospita. Tutti i progetti della Pubblica Amministrazione sono
+tenuti a contribuire, sempre utilizzando GitHub, segnalando componenti mancanti,
+suggerendo errori e mettendo a disposizione di tutti componenti già realizzate.

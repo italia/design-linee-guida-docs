@@ -8,16 +8,15 @@ dettagli, stile e animazioni.
 L’interfaccia viene costruita tenendo come punto di riferimento il wireframe
 contenente la struttura generale del prodotto: lo scheletro viene trasformato
 e arricchito in modo da dare una resa reale del prodotto finale, nonostante
-questa sia ancora mancante di tutta quella parte di interazione con l'utente
+questa sia ancora mancante di tutta quella parte di interazione con l’utente
 che verrà realizzata durante la fase di sviluppo.
 
 .. figure:: images/ui-design-comparazione-tra-lo-fi-e-hi-fi.png
     :alt: Un esempio di un progetto a bassa ed alta fedeltà.
-    :width: 100%
+    :name: Un esempio di un progetto a bassa ed alta fedeltà.
 
-    Figura 1 - Un esempio di un progetto di pagina web desktop a bassa fedeltà,
-    a sinistra, e, a destra, la realizzazione dell’interfaccia grafica ad alta
-    fedeltà.
+    Un esempio di un progetto di pagina web desktop a bassa fedeltà, a sinistra,
+    e, a destra, la realizzazione dell’interfaccia grafica ad alta fedeltà.
 
 Il *visual design* dell’interfaccia utente, specularmente al wireframe, sarà
 quindi composto da diversi elementi come bottoni, campi di compilazione, menù,
@@ -29,7 +28,7 @@ Uniformità ed identità
 
 Il *visual interface design* serve quindi a presentare informazioni e
 comportamenti in modo comprensibile e semplice tenendo presente non soltanto
-l'aspetto estetico, ma soprattutto le esigenze dell’utente.
+l’aspetto estetico, ma soprattutto le esigenze dell’utente.
 Tutto ciò che riguarda lo stile è soltanto una parte del prodotto.
 
 Sebbene la comunicazione visiva attiri giudizi soggettivi, la questione del
@@ -38,7 +37,7 @@ afferisce all’aspetto estetico fornisce degli indizi o crea delle emozioni, ma
 non è sufficiente.
 Una chiara rappresentazione degli obiettivi della *user experience* del
 prodotto sono invece le fondamenta imprescindibili di tutti quegli aspetti di
-UI che fanno parte dell'identità (in inglese, *branding*) e che generano una
+UI che fanno parte dell’identità (in inglese, *branding*) e che generano una
 risposta (o *feedback*) emozionale.
 
 La User Interface è di fatto una conversazione tra l’utente e il prodotto,
@@ -47,22 +46,22 @@ funzionamento è la stessa di una conversazione tra due persone: la
 comunicazione è focalizzata sull’obiettivo e deve essere efficace per ottenere
 una comprensione chiara e completa.
 
-L'uniformità di un interfaccia, realizzata attraverso *standard* visuali e di
+L’uniformità di un interfaccia, realizzata attraverso *standard* visuali e di
 comportamento), se applicati correttamente, danno importanti benefici.
 
 In primo luogo, gli utenti utilizzeranno più rapidamente e con facilità i
 percorsi che hanno già imparato a riconoscere. Possono predirre i comportamenti
-del prodotto basandosi su un'esperienza pregressa.
+del prodotto basandosi su un’esperienza pregressa.
 In secondo luogo, portano ad una riduzione dei costi di produzione attraverso
 il riuso di design e di codice già pronti e che sono il risultato di
 discussioni e decisioni già prese, favorendo anche una **riduzione dei costi di
 supporto e assistenza agli utenti** poiché gli *standard* incrementano la
-facilità d'uso e di apprendimento.
+facilità d’uso e di apprendimento.
 
 L’applicazione di un modello non basta però a costruire una buona interfaccia:
 gli *standard* rispondono a questioni relative a generali processi cognitivi e
 di percezione. Essi **devono essere inglobati nel contesto di riferimento**, che
-presuppone un'organizzazione logica e strutturale, che può richiedere specifici
+presuppone un’organizzazione logica e strutturale, che può richiedere specifici
 “comportamenti” e che sceglie percorsi (*pattern*) dedicati a particolari
 bisogni dell’utente.
 
@@ -77,7 +76,7 @@ Lo stile
 ~~~~~~~~
 
 Lo stile è il "linguaggio" del design, ed è costituito da elementi variabili
-come la forma, il colore, la tipografia, o l'applicazione di spazi coerenti.
+come la forma, il colore, la tipografia, o l’applicazione di spazi coerenti.
 Questi aspetti sono combinati insieme per creare una risposta emozionale
 (riconoscibilità, confidenza con il servizio), a dare coerenza e consistenza al
 layout, aiutando l’utente nella navigazione e nella ricerca delle
@@ -95,7 +94,7 @@ Il prototipo ad alta fedeltà può essere costruito utilizzando lo
 di cui si possono trovare i file sorgente in formato *Sketch* sul repository
 GitHub dedicato:
 
-- `Vedi i file sorgente dello UI Kit <https://https://github.com/italia/design-ui-kit>`_
+- `Vedi i file sorgente dello UI Kit <https://github.com/italia/design-ui-kit>`_
 
 Esso è inoltre pubblicato su InVision, una piattaforma di condivisione dove è
 possibile vedere tutti gli elementi disponibili:
@@ -114,7 +113,7 @@ principali categorie:
 * Icone
 * Bottoni
 * Elementi di navigazione, come menu ed esempi di footer
-* Elementi di data display, per l'organizzazione di contenuti
+* Elementi di data display, per l’organizzazione di contenuti
 * Elementi di data entry, come campi di testo ed esempi di form
 
 
@@ -128,14 +127,14 @@ UI Kit stesso.
 Il kit, così come il web stesso, è in continua evoluzione, ed è possibile
 pertanto che non tutti gli elementi di cui si ha bisogno siano presenti nel
 kit: questo non significa che non siano utilizzabili ed anzi, forniscono già
-un aiuto tangibile alla creazione di un'interfaccia.
+un aiuto tangibile alla creazione di un’interfaccia.
 
 .. figure:: images/ui-design-ui-kit-esempio-1.png
     :alt: Un esempio di componenti dello UI Kit.
-    :width: 100%
+    :name: Un esempio di componenti dello UI Kit.
 
-    Figura 2 - Un esempio di componenti dello UI Kit con le indicazioni
-    necessarie alla loro applicazione.
+    Un esempio di componenti dello UI Kit con le indicazioni necessarie alla
+    loro applicazione.
 
 
 Come si usa il kit
@@ -146,8 +145,10 @@ paragonato ad un set di pezzi componibili, dimensionati in modo da poter essere
 assemblati ed adattati.
 
 .. figure:: images/ui-kit-blocks.gif
-    :alt: Costruzione di un'interfaccia attraverso i principi di composizione.
-    :width: 100%
+    :alt: Costruzione di un’interfaccia attraverso i principi di composizione.
+    :name: Costruzione di un’interfaccia attraverso i principi di composizione.
+
+    Costruzione di un’interfaccia attraverso i principi di composizione.
 
 Ogni componente ha un numero di proprietà ad esempio la forma e il colore che
 possono essere combinati o variati per comunicare un diverso significato.
@@ -156,8 +157,10 @@ stato di “riposo” o “premuto”. Il modo in cui sono applicate queste prop
 o variazioni darà un significato differente al componente.
 
 .. figure:: images/ui-kit-overrides.gif
-    :alt: Variazioni di un'interfaccia.
-    :width: 100%
+    :alt: Variazioni di un’interfaccia.
+    :name: Variazioni di un’interfaccia.
+
+    Variazioni di un’interfaccia.
 
 Il software scelto per costruire lo UI Kit è
 `Sketch <https://www.sketchapp.com/>`_.
@@ -178,14 +181,14 @@ _____________
 
 La principale famiglia di font usata nello UI Kit è il **Titillium Web**.
 È stato scelto come typeface principale per i contenuti web, grazie alla
-x-height ampia, alla struttura lineare e alla flessibilita d’uso essendo
+x-height ampia, alla struttura lineare e alla flessibilità d’uso essendo
 composto da 11 stili.
 
 .. figure:: images/ui-font-titillium-web.png
-    :alt: Il font Titillum Web.
-    :scale: 50 %
+    :alt: Il font Titillium Web.
+    :name: Il font Titillium Web.
 
-    Figura 3 - Il font Titillum Web.
+    Il font Titillium Web.
 
 Il `Titillium Web <https://fonts.google.com/specimen/Titillium+Web>`_ è stato
 realizzato come progetto didattico dagli studenti del corso in Type Design
@@ -201,9 +204,19 @@ programmazione.
 
 .. figure:: images/ui-font-roboto-mono.png
     :alt: Il font Roboto Mono.
-    :scale: 50 %
+    :name: Il font Roboto Mono.
 
-    Figura 4 - Il font Roboto Mono.
+    Il font Roboto Mono.
+
+Un terzo typeface con grazie è il **Lora**, introdotto per la sua leggibilità,
+nato espressamente per la lettura su display.
+
+.. figure:: images/ui-font-lora.png
+    :alt: Il font Lora.
+    :name: Il font Lora.
+
+    Il font Lora.
+
 
 Corpo del testo
 :::::::::::::::
@@ -214,18 +227,18 @@ precisa seguire una **scala tipografica** studiata appositamente per creare una
 
 .. figure:: images/ui-font-scala-tipografica.png
     :alt: Un esempio di scala tipografica.
-    :scale: 50 %
+    :name: Un esempio di scala tipografica.
 
-    Figura 5 - Un esempio di scala tipografica.
+    Un esempio di scala tipografica.
 
 La gerarchia serve a gestire la trasmissione di un messaggio e il suo impatto e
 quando non viene utilizzata la comunicazione diventa inefficace.
 
 .. figure:: images/ui-kit-gerarchia.png
-    :alt: Un esempio di scala tipografica.
-    :scale: 100 %
+    :alt: Un esempio di gerarchia.
+    :name: Un esempio di gerarchia.
 
-    Figura 6 - Un esempio di scala tipografica.
+    Un esempio di gerarchia.
 
 La dimensione del corpo del testo, facendo riferimento al font *Titillium Web*,
 non può essere inferiore a 16px per uno schermo mobile e non inferiore a 18px
@@ -251,7 +264,7 @@ spaziatura delle parole e la minore leggibilità che comporta.
 
 I paragrafi possono essere distinti applicando uno spazio verticale tra di essi
 o, in alternativa, usando una indentatura di misura pari a quella
-dell'interlinea.
+dell’interlinea.
 
 L’interlinea (in inglese, *leading*), sia dei titoli che del corpo del testo,
 è calcolata tenendo conto della **griglia orizzontale di 8px**, in modo da
@@ -304,7 +317,7 @@ Tra i colori secondari si dovranno definire:
 * colori strettamente connessi al colore base
 * un eventuale colore di risalto (chiamato *accent color*), utilizzato in
   misura minore poiché è associato a elementi che prevedono un’interazione, come
-  bottoni, elementi di controllo (sliders, radio ecc) links, text fields.
+  bottoni, elementi di controllo (sliders, radio, ecc.) links, text fields.
 
 Si consiglia l’utilizzo di una palette costituita da non più di 5 colori, dove
 non più di 3 avranno un differente valore di *hue* (colore).
@@ -342,9 +355,9 @@ la saturazione (S) di 15 gradi.
 
 .. figure:: images/ui-colori-palette-estesa.png
     :alt: Un esempio di variazioni di colore.
-    :scale: 25%
+    :name: Un esempio di variazioni di colore.
 
-    Figura 7 - Un esempio di variazioni partendo dal colore base H 93, S 100,
+    Un esempio di variazioni partendo dal colore base H 93, S 100,
     B 50 verso le tinte (in alto) e verso le ombre (in basso)
 
 Per ottenere diversi **toni** è necessario diminuire contemporaneamente i
@@ -359,7 +372,7 @@ palette realizzata con il colore base **“Blu Italia”** (codice esadecimale *
 Pensata per un design semplice e minimalista, è una palette costituita dalle
 variazioni del colore base, più le tinte neutre. Sono presenti anche colori
 che possiamo definire *“utility colors”*, ossia colori da utilizzare per i
-messaggi di feedback all'utente (errori o messaggi positivi) o per la
+messaggi di feedback all’utente (errori o messaggi positivi) o per la
 realizzazione di elementi grafici.
 
 La palette dello UI Kit è piuttosto estesa: comprende molte variazioni in
@@ -368,21 +381,22 @@ neutri, permettendo così una certa flessibilità di uso.
 
 .. figure:: images/ui-colori-palette-estesa-esempio-1.png
     :alt: Un esempio di palette monocromatica estesa.
-    :scale: 75%
+    :name: Un esempio di palette monocromatica estesa.
 
-    Figura 8 - Un esempio di palette monocromatica estesa.
+    Un esempio di palette monocromatica estesa.
 
 .. figure:: images/ui-colori-palette-estesa-esempio-2.png
-    :alt: Un esempio di palette monocromatica estesa.
-    :scale: 75%
+    :alt: Un esempio di palette monocromatica di colori di accento.
+    :name: Un esempio di palette monocromatica di colori di accento.
 
-    Figura 9 - Un esempio di palette monocromatica estesa.
+    Un esempio di palette monocromatica estesa di colori per elementi in
+    evidenza
 
 .. figure:: images/ui-colori-palette-estesa-esempio-3.png
-    :alt: Un esempio di palette monocromatica estesa.
-    :scale: 75%
+    :alt: Un esempio di palette monocromatica di colori neutri.
+    :name: Un esempio di palette monocromatica di colori neutri.
 
-    Figura 10 - Un esempio di palette monocromatica estesa.
+    Un esempio di palette monocromatica estesa di colori neutri.
 
 Le Griglie
 __________
@@ -398,18 +412,17 @@ esterni.
 
 .. figure:: images/ui-griglia-esempio-1.png
     :alt: Un esempio di griglia.
-    :scale: 25%
+    :name: Un esempio di griglia.
 
-    Figura 11 - Un esempio di griglia applicata a diverse risoluzioni dello
-    schermo.
+    Un esempio di griglia applicata a diverse risoluzioni dello schermo.
 
 Le dimensioni delle colonne vanno adattate ai cambiamenti della viewport: ogni
 colonna occuperà una percentuale di spazio specifica a seconda che sia
 visualizzata su dispositivi desktop, tablet, o smartphone.
 
-La ridisposizione dei contenuti,a seconda delle dimensione dello schermo,
+La ridisposizione dei contenuti, a seconda delle dimensione dello schermo,
 garantisce che i testi siano leggibili anche sugli schermi più piccoli e
-l’interazione utente (ad esempio, l'utilizzo di form e controlli dinamici)
+l’interazione utente (ad esempio, l’utilizzo di form e controlli dinamici)
 rimanga agevole.
 
 +---------------------------------+--------------+-------------------+-------------------+--------------+
@@ -438,15 +451,15 @@ armonico.
 
 .. figure:: images/ui-griglia-esempio-2.png
     :alt: Un esempio di componente con baseline a 8px.
-    :scale: 25%
+    :name: Un esempio di componente con baseline a 8px.
 
-    Figura 12 - Un esempio di componente con baseline a 8px.
+    Un esempio di componente con baseline a 8px.
 
 .. NOTE::
-    È possibile approfondire l'argomento su un post di Designers Italia
+    È possibile approfondire l’argomento su un post di Designers Italia
     intitolato: “`Le griglie: alla scoperta dello Ui Kit di designers <https://medium.com/designers-italia/le-griglie-alla-scoperta-dello-ui-kit-di-designers-italia-partendo-dalle-basi-d7943cbdccc9>`_”.
 
-Le Icone
+Le icone
 ________
 
 Quando si utilizzano delle icone è necessario assicurare una chiara
@@ -461,7 +474,7 @@ gratuitamente su `Font Awesome <https://fontawesome.com/>`_ o il set di
 icone incluso nel `Web Toolkit <https://italia.github.io/design-web-toolkit/components/detail/icons.html>`_
 o lo stesso disponibile su `Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/utilities/icone/>`_.
 
-I Componenti
+I componenti
 ____________
 
 Di seguito sono presentati per ogni categoria degli esempi di componenti dello
@@ -476,28 +489,28 @@ ordinati secondo una funzione gerarchica.
 
 .. figure:: images/ui-componenti-bottoni-esempio-1.png
     :alt: Un esempio di componente Bottone.
-    :scale: 25%
+    :name: Un esempio di componente Bottone.
 
-    Figura 13 - Un esempio di componente “Bottone” nelle sue varianti, ordinate
+    Un esempio di componente “Bottone” nelle sue varianti, ordinate
     gerarchicamente.
 
 Tutte le azioni principali sono rappresentate dal bottone “Primary”, a cui può
 essere associata una o più azioni secondarie attraverso l’uso degli altri
 bottoni a disposizione.
 
-.. figure:: images/ui-componenti-bottoni-esempio-1.png
+.. figure:: images/ui-componenti-bottoni-esempio-2.png
     :alt: Un esempio di UI con più bottoni.
-    :scale: 25%
+    :name: Un esempio di UI con più bottoni.
 
-    Figura 14 - Un esempio d'uso del bottone “Primary” e “Secondary”. Il
+    Un esempio d’uso del bottone “Primary” e “Secondary”. Il
     primario mostra l’azione più importante della pagina, il secondario
     rappresenta un’azione alternativa.
 
-.. figure:: images/ui-componenti-bottoni-esempio-1.png
-    :alt: Un esempio di UI con più bottoni.
-    :scale: 25%
+.. figure:: images/ui-componenti-bottoni-esempio-3.png
+    :alt: Un esempio di UI con azioni diversificate.
+    :name: Un esempio di UI con azioni diversificate.
 
-    Figura 15 - Un esempio d'uso di un bottone “Primary” associato ad un
+    Un esempio d’uso di un bottone “Primary” associato ad un
     bottone gerarchicamente inferiore. In questo caso è stato usato un
     “Quaternary” dello UI Kit: l’utente cosi è indirizzato sul bottone primario
     in modo inequivocabile.
@@ -518,9 +531,9 @@ applicazione nell’ambito di filtri di ricerca.
 
 .. figure:: images/ui-componenti-tab.png
     :alt: Un esempio di componente Tab.
-    :scale: 50%
+    :name: Un esempio di componente Tab.
 
-    Figura 16 - Un esempio di componente “Tab” applicato a filtri di ricerca.
+    Un esempio di componente “Tab” applicato a filtri di ricerca.
 
 Il componente “Menu” mobile mostrato in Figura 17 ha alcune utili varianti:
 oltre alla differenza di sfondo, c’è anche una distinzione del menu in sezioni
@@ -528,11 +541,11 @@ con e senza intestazione.
 
 .. figure:: images/ui-componenti-menu-mobile.png
     :alt: Un esempio di menu per dispositivi mobili.
-    :scale: 25%
+    :name: Un esempio di menu per dispositivi mobili.
 
-    Figura 17 - Un esempio di menu per dispositivi mobili.
+    Un esempio di menu per dispositivi mobili.
 
-Data Display
+Data display
 ::::::::::::
 
 Nella categoria Data Display sono inseriti i componenti che hanno come
@@ -541,11 +554,11 @@ evidenziato, come ad esempio gli “Accordion” o i “Callout”.
 
 .. figure:: images/ui-componenti-callout.png
     :alt: Un esempio di componente Callout.
-    :scale: 50%
+    :name: Un esempio di componente Callout.
 
-    Figura 18 - Un esempio di componente “Callout”.
+    Un esempio di componente “Callout”.
 
-Data Entry
+Data entry
 ::::::::::
 
 Esempi di componenti appartenenti alla categoria Data entry sono i campi di tipo
@@ -561,9 +574,9 @@ e icone, anche i relativi messaggi.
 
 .. figure:: images/ui-componenti-form.png
     :alt: Un esempio di form contenente componenti “Input”.
-    :scale: 50%
+    :name: Un esempio di form contenente componenti “Input”.
 
-    Figura 19 - Un esempio di form contenente componenti “Input”.
+    Un esempio di form contenente componenti “Input”.
 
 
 Gli strumenti
@@ -575,7 +588,7 @@ interagire tramite messaggi (*issue*) e contributi (*pull request*).
 
 - Vedi i `file sorgente dello UI Kit <https://https://github.com/italia/design-ui-kit>`_
   oppure scopri com `caricare il kit come libreria esterna <https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries>`_
-  all'interno del tuo progetto
+  all’interno del tuo progetto
 
 Esso è inoltre pubblicato per consultazione su InVision:
 
