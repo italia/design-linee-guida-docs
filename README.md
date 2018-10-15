@@ -11,7 +11,7 @@ I contenuti delle linee guida sono scritti in file .rst e possono essere aggiorn
 Altre risorse per l'editing in formato .rst sono:
 - [Editor per il testo](http://rst.ninjs.org/)
 - [Editor per le tabelle](http://truben.no/table/)
-- [Estensione Chrome per Google spreadsheet](https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold)
+- [Estensione Chrome per Google spreadheet](https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold)
 - [Altro](http://docutils.sourceforge.net/docs/user/links.html#editors)
 
 ## Sviluppo programmato
