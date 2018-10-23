@@ -35,7 +35,7 @@ Version control e release della documentazione
 Le linee guida beneficiano del *version control system* di GitHub, per cui esiste una traccia pubblica di tutte le modifiche effettuate e dei relativi autori.
 Le linee guida di design adottano un sistema di release basato sui tag di GitHub. Ogni release è etichettata secondo un sistema basato su anno e versione. Le versioni sono espresse attraverso un numero progressivo. Il sistema delle release è in vigore dal 2017, quindi la prima release delle linee guida è 2017.1 (prima release del 2017).
 I nuovi contenuti e le modifiche a contenuti esistenti dopo essere approvati vengono pubblicati nella `versione "bozza" delle linee guida <../../../it/bozza/index.html>`_, disponibile per una discussione pubblica e revisione da parte della community ma priva di valore ufficiale.
-Solo successivamente, in occasione di una nuova release delle linee guida, il team di Designers Italia decide di consolidarle e farle confluire, dopo eventuali modifiche, nella `versione ufficiale stable delle linee guida <../../../it/stable/index.html>`_.
+Solo successivamente, in occasione di una nuova release delle linee guida, il team di Designers Italia decide di consolidarle e farle confluire, dopo eventuali modifiche, nella `versione ufficiale stabile delle linee guida <../../../it/stabile/index.html>`_.
 
 Stile della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

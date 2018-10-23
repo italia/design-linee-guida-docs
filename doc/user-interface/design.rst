@@ -488,8 +488,8 @@ L’area di navigazione e intestazione contiene:
 L’area di navigazione può essere estesa dalla presenza del menu orizzontale.
 
 Il colore di fondo dell’area navigazione e intestazione è personalizzabile
-(tenendo presente i `requisiti di accessibilità <https://design-italia.readthedocs.io/it/stable/doc/service-design/accessibilita.html>`_
-nell’utilizzo dei `colori <https://design-italia.readthedocs.io/it/stable/doc/user-interface/stile.html#colori>`_).
+(tenendo presente i `requisiti di accessibilità <../service-design/accessibilita.html>`_
+nell’utilizzo dei `colori <./stile.html#colori>`_).
 
 Area personalizzata
 ^^^^^^^^^^^^^^^^^^^
