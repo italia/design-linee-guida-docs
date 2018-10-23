@@ -332,10 +332,9 @@ a queste domande:
 |    contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura.html>`__; |
 |                                                                                                                              |
 | -  delle pratiche di organizzazione dei contenuti dal punto di vista                                                         |
-|    dell’\ `architettura                                                                                                      |
-|    dell’informazione <./architettura-dell-informazione.html>`__;                                                             |
+|    dell’`architettura dell’informazione <./architettura-dell-informazione.html>`_;                                           |
 |                                                                                                                              |
-| -  dell’ottimizzazione dei contenuti `in ottica SEO<./seo.html>`__.                                                          |
+| -  dell’ottimizzazione dei contenuti `in ottica SEO <./seo.html>`_.                                                          |
 |                                                                                                                              |
 | Lavorare sulla coerenza del sistema richiede grande attenzione:                                                              |
 | alcuni elementi possono influenzarne la solidità. Di seguito trovi                                                           |
@@ -376,7 +375,7 @@ a queste domande:
 | quantitativi più grezzi e da rielaborare – sono la ricerca interna ed                                                        |
 | esterna al sito, con strumenti come `web                                                                                     |
 | analytics <https://designers.italia.it/kit/analytics/>`__ e                                                                  |
-| `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`__.                                             |
+| `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.                                              |
 +------------------------------------------------------------------------------------------------------------------------------+
 
 .. _section-2:
