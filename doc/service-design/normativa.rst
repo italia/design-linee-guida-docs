@@ -142,9 +142,9 @@ Le PA , “fermo restando quanto previsto per le pubblicazioni nella Gazzetta
 Ufficiale della Repubblica italiana dalla legge 11 dicembre 1984, n. 839,
 e dalle relative norme di attuazione,“pubblicano sui propri siti istituzionali
 i riferimenti normativi con i relativi link alle norme di legge statale pubblicate
-nella banca dati «Normattiva» che ne regolano l'istituzione, l'organizzazione e l'attività.
+nella banca dati «Normattiva» che ne regolano l’istituzione, l’organizzazione e l’attività.
 Sono altresì pubblicati le direttive, le circolari, i programmi e le istruzioni emanati
-dall'amministrazione e ogni atto, previsto dalla legge o comunque adottato, che dispone
+dall’amministrazione e ogni atto, previsto dalla legge o comunque adottato, che dispone
 in generale sulla organizzazione, sulle funzioni, sugli obiettivi, sui procedimenti [...]”.
 
 - Riferimento normativo: art.12 `DECRETO LEGISLATIVO 14 marzo 2013, n. 33 <http://www.normattiva.it/uri-res/N2Ls? urn:nir:stato:decreto.legislativo:2013-03-14;33!vig=>`_
@@ -176,10 +176,10 @@ Accessibilità
    (aggiornata dal Decreto legislativo 10 agosto 2018, n.106) Disposizioni per
    favorire l’accesso dei soggetti disabili agli strumenti informatici.
 2. `Decreto legislativo 10 agosto 2018, n.106 <http://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg>`_
-   Attuazione della direttiva (UE) 2016/2102 relativa all'accessibilità dei siti
+   Attuazione della direttiva (UE) 2016/2102 relativa all’accessibilità dei siti
    web e delle applicazioni mobili degli enti pubblici).
 3.  `Direttiva (UE) 2016/2021 del 26 ottobre 2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32016L2102&from=EN>`_
-    relativa all'accessibilità dei siti web e delle applicazioni mobili
+    relativa all’accessibilità dei siti web e delle applicazioni mobili
     degli enti pubblici.
 4.  `Decreto del Presidente della Repubblica 1 marzo 2005, n. 75 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005-03-01;75!vig>`_
     Regolamento di attuazione della Legge per favorire l’accesso dei soggetti
@@ -237,7 +237,7 @@ Trasparenza
     <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-06-18;69>`__,
     "Disposizioni per lo sviluppo economico, la semplificazione, la
     competitività nonché in materia di processo civile" , in particolare
-    l'articolo 21 "Trasparenza sulle retribuzioni dei dirigenti e sui
+    l’articolo 21 "Trasparenza sulle retribuzioni dei dirigenti e sui
     tassi di assenza e di maggiore presenza del personale"
 4.  `Legge 6 novembre 2012, n. 190 <http://www.gazzettaufficiale.it/eli/id/2012/11/13/012G0213/sg>`_
     «Disposizioni per la prevenzione e la repressione della corruzione
@@ -293,11 +293,11 @@ Privacy
     l’acquisizione del consenso per l’uso dei cookie» dell’8 maggio 2014
     <https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/3118884>`_
 4.  `Decreto legislativo 10 agosto 2018, n. 101 <http://www.gazzettaufficiale.it/eli/id/2018/09/04/18G00129/sg>`_
-    Disposizioni per l'adeguamento della normativa nazionale alle
+    Disposizioni per l’adeguamento della normativa nazionale alle
     disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e
     del Consiglio, del 27 aprile 2016, relativo alla protezione delle
     persone fisiche con riguardo al trattamento dei dati personali,
-    nonche' alla libera circolazione di tali dati e che abroga la
+    nonché alla libera circolazione di tali dati e che abroga la
     direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
 
 GDPR
@@ -315,7 +315,7 @@ direttiva 95/46/CE (regolamento generale sulla protezione dei dati):
    enti pubblici e privati (art.37)
 2. Diritto dell’interessato di richiedere, in qualunque momento e
    secondo le modalità e alle condizioni previste dal Regolamento,
-   l'accesso ai dati personali e la rettifica o la limitazione del
+   l’accesso ai dati personali e la rettifica o la limitazione del
    trattamento (artt. 15-16-18).
 3. Diritto alla cancellazione o diritto all’oblio (art. 17)
 4. Diritto alla portabilità dei dati (art. 20)

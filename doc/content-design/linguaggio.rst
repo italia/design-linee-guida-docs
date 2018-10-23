@@ -489,9 +489,9 @@ In genere questa attività richiede:
    contenuti o di revisione di contenuti esistenti.
 
 Una corretta gestione dei contenuti è fondamentale anche per la gestione
-di attività "straordinarie", 
-come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-content-inventory>`_ 
-ad un nuovo sito web, o `la traduzione di una parte dei contenuti 
+di attività "straordinarie",
+come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-content-inventory>`_
+ad un nuovo sito web, o `la traduzione di una parte dei contenuti
 <linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
 
 L’inventario dei contenuti (content inventory)
@@ -597,7 +597,7 @@ infrastruttura tecnologica all’altra
 |    vedere se ci sono criticità sulle quali intervenire (ad esempio un |
 |    calo rilevante di traffico su un determinato contenuto);           |
 |                                                                       |
-| -  l'indicizzazione con la `Search Console di                         |
+| -  l’indicizzazione con la `Search Console di                         |
 |    Google <https://search.google.com/search-console>`__, per          |
 |    verificare se il sito ha perso traffico in relazione ad **alcune   |
 |    parole chiavi strategiche** o molto utilizzate nella precedente    |
@@ -711,7 +711,7 @@ Come pubblicare
 ---------------
 
 Il più delle volte la gestione dei contenuti avviene tramite sistemi di
-pubblicazione basati su **Content management system** (Cms), come ad
+pubblicazione basati su **Content management system** (CMS), come ad
 esempio `Wordpress <https://it.wordpress.org/>`__ o
 `Drupal <https://www.drupal.org/home>`__. Ma è possibile utilizzare
 altre modalità di pubblicazione e gestione dei contenuti. Ad esempio, la
@@ -726,18 +726,18 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
 +-----------------------------------------------------------------------+
 | .. rubric:: Approfondimento                                           |
 |                                                                       |
-| Molti Cms hanno delle funzioni in comune, il cui utilizzo va definito |
+| Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito |
 | in fase di design (o redesign) del sito, per creare un sistema        |
 | coerente e funzionale. Ad esempio:                                    |
 |                                                                       |
 | -  **Gli articoli**: sono generalmente utilizzati per produrre news o |
 |    blog post, precisando la data di pubblicazione e in alcuni casi    |
-|    l'autore. Essendo spesso organizzati attraverso delle categorie,   |
+|    l’autore. Essendo spesso organizzati attraverso delle categorie,   |
 |    possono essere adatti anche per la pubblicazione e la gestione di  |
-|    schede servizio. Anche quando il Cms non lo prevede, è bene        |
+|    schede servizio. Anche quando il CMS non lo prevede, è bene        |
 |    prevedere un sommario oltre al titolo, che spieghi il contenuto    |
 |    della pagina, mentre è sempre necessario curare i metadati per     |
-|    l'indicizzazione;                                                  |
+|    l’indicizzazione;                                                  |
 |                                                                       |
 | -  **Le pagine**: strumenti più versatili, possono contenere          |
 |    informazioni testuali, gallery, liste, wizard e form, e quindi     |
@@ -749,7 +749,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
 |    indicare all’utente che contenuti trova nella pagina.              |
 |                                                                       |
 | -  I **tag** e le **categorie**: sono due “modi” per catalogare e     |
-|    correlare i contenuti all'interno dei Cms. È opportuno pianificare |
+|    correlare i contenuti all’interno dei CMS. È opportuno pianificare |
 |    in un file condiviso **quali tag** e **quali categorie**           |
 |    utilizzare, in base alle scelte di correlazione dei contenuti      |
 |    all’interno del sito. Pianifica in che modo le categorie e i tag   |
@@ -757,7 +757,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
 |    mostrare contenuti correlati, oppure creare dei menu partendo      |
 |    dalle categorie, ecc.).                                            |
 |                                                                       |
-| -  I **menu**: quando crei un menu con un Cms, ricorda che tutte le   |
+| -  I **menu**: quando crei un menu con un CMS, ricorda che tutte le   |
 |    voci sono di fatto delle etichette di navigazione che vanno        |
 |    trattate coerentemente alla strategia adottata per il *labeling    |
 |    system*.                                                           |
@@ -792,9 +792,9 @@ culturali.
 Se ritieni utile realizzare una traduzione del tuo sito, la prima scelta
 da fare è se:
 
--  tradurre l'intero sito (o l'intera applicazione);
+-  tradurre l’intero sito (o l’intera applicazione);
 
--  tradurne solo una parte, dove l'utilizzo di altre lingue è
+-  tradurne solo una parte, dove l’utilizzo di altre lingue è
    particolarmente rilevante (es. la sezione “visti” del sito del
    Ministero degli esteri; la sezione dedicata alle emergenze del sito
    di un ospedale; ecc).
@@ -823,16 +823,16 @@ necessario organizzare un flusso di lavoro che preveda:
 -  la scelta dei contenuti da tradurre, in base agli utenti e agli
    `obiettivi da raggiungere <linguaggio.html#progettare-i-contenuti>`_;
 
--  l'organizzazione all'interno del team del lavoro di traduzione e
+-  l’organizzazione all’interno del team del lavoro di traduzione e
    localizzazione dei contenuti;
 
--  il test dell'efficacia dei contenuti tradotti (tramite `A/B
+-  il test dell’efficacia dei contenuti tradotti (tramite `A/B
    test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
    `usability test <https://designers.italia.it/kit/usability-test/>`__).
 
 Se traduci **solo alcune parti** del tuo sito:
 
--  mostra in modo evidente l'interfaccia per scegliere la propria
+-  mostra in modo evidente l’interfaccia per scegliere la propria
    lingua;
 
 -  assicurati di tradurre anche il contesto, aggiungendo dei chiarimenti
@@ -840,18 +840,18 @@ Se traduci **solo alcune parti** del tuo sito:
    per scontate altre informazioni che non sono tradotte.
 
 “Tradurre” i contenuti di un sito o di una sezione di un sito non
-significa limitarsi a cambiare il testo dall'italiano alla lingua di
+significa limitarsi a cambiare il testo dall’italiano alla lingua di
 destinazione, ma anche “localizzare” i contenuti, rendendoli
-**comprensibili ed efficaci** anche da chi parla un'altra lingua o ha
+**comprensibili ed efficaci** anche da chi parla un’altra lingua o ha
 una diversa cultura. Ad esempio:
 
 -  **alcuni concetti o nomi** possono non essere immediatamente
    comprensibili per un turista o un cittadino di altra nazionalità e
    vanno spiegati, oltre che tradotti (es. “il medico di base”; “gli
-   esami di stato”; “l'Inps”, “l'Agenzia delle entrate”, ecc);
+   esami di stato”; “l’Inps”, “l’Agenzia delle entrate”, ecc);
 
 -  alcune **espressioni** possono avere un significato diverso se
-   semplicemente tradotte in un'altra lingua (ad esempio, “timbra il
+   semplicemente tradotte in un’altra lingua (ad esempio, “timbra il
    biglietto” si potrebbe tradurre con “\ *validate your ticket by
    stamping it at the machines*\ ” invece che con un semplice “\ *stamp
    your ticket*\ ”);
@@ -900,7 +900,7 @@ Queste libertà sono subordinate al rispetto delle seguenti condizioni:
 -  **attribuzione,** ovvero dovere di riconoscere e menzionare la
    paternità dell’opera, di, fornire un link alla licenza e di indicare
    se ha subito delle modifiche;
-   
+
 Come seconda scelta, è anche utilizzabile la licenza `Creative Commons
 Attribution-ShareAlike
 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`__ (codice
@@ -942,11 +942,11 @@ distinzione:
 
       “Il presente contenuto è reso disponibile al pubblico nei termini di
       cui alla licenza `Creative Commons Attribution
-      4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ . 
+      4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ .
       Il relativo contratto di licenza si intende concluso a seguito del semplice utilizzo del contenuto.”
 
 -  Sebbene sia sempre preferibile l’adozione di `Creative Commons
-   Attiribution <https://creativecommons.org/licenses/by/3.0/it/>`__, per motivate 
+   Attiribution <https://creativecommons.org/licenses/by/3.0/it/>`__, per motivate
    e comprovate ragioni in alcuni casi è possibile utilizzare altri tipi di licenze
    aperte. In questi casi si può precisare in calce l’indicazione:
 
@@ -992,7 +992,7 @@ questo considera che:
 **Scrivi ad esempio:** *[Contenuto] di [nome autore], pubblicato sotto
 licenza [indicare licenza Creative Commons]*
 
-**Per approfondire:** `Qual è il modo giusto di attribuire un'opera
+**Per approfondire:** `Qual è il modo giusto di attribuire un’opera
 rilasciata con Creative
 Commons? <http://www.creativecommons.it/faq#32>`__
 
@@ -1068,12 +1068,12 @@ sito deve essere sempre autorizzata dai soggetti ritratti con una
 l’utilizzo <https://docs.google.com/document/d/10O1MZq7hn_LNH6aISRl5x3WPUPeVx7xMX07kaCnZma0/edit?usp=sharing>`__)
 in cui puoi specificare la destinazione del contenuto.
 
-I documenti 
+I documenti
 ============
 
 .. highlights::
-   
-   Scrivere e pubblicare i documenti amministrativi e tecnici della 
+
+   Scrivere e pubblicare i documenti amministrativi e tecnici della
    Pubblica Amministrazione
 
 La `dematerializzazione dei
@@ -1097,7 +1097,7 @@ usabilità <https://designers.italia.it/kit/usability-test/>`__ da parte
 degli utenti - cittadini, imprese e dipendenti della Pubblica
 Amministrazione.
 
-I documenti vanno sul web 
+I documenti vanno sul web
 --------------------------
 
 Principi come la trasparenza e l’\ *open government* fanno sì che
@@ -1232,12 +1232,12 @@ descrizione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it
 del documento Pdf che si intende pubblicare per favorire
 l’indicizzazione dei contenuti sul web.
 
-.. admonition:: Importante                                                    
-                                                                       
-   La soluzione più adatta è mostrare il contenuto in formato Html. Se    
-   ciò non è possibile, si possono usare altri formati, ma si deve       
-   sempre creare una pagina web corrispondente al documento che riporti  
-   titolo e descrizione del contenuto.                                  
+.. admonition:: Importante
+
+   La soluzione più adatta è mostrare il contenuto in formato Html. Se
+   ciò non è possibile, si possono usare altri formati, ma si deve
+   sempre creare una pagina web corrispondente al documento che riporti
+   titolo e descrizione del contenuto.
 
 +---------------------------------------------------------------------+
 | .. rubric:: Approfondimento                                         |
@@ -1257,7 +1257,7 @@ l’indicizzazione dei contenuti sul web.
 |    Ods <https://it.wikipedia.org/wiki/OpenDocument>`__.             |
 +---------------------------------------------------------------------+
 
-Modalità di produzione dei documenti 
+Modalità di produzione dei documenti
 -------------------------------------
 
 Le pubbliche amministrazioni hanno `l’obbligo di
@@ -1304,13 +1304,13 @@ i processi di consultazione come previsto dal CAD, art. 18
 | in ogni momento è possibile scaricare una versione Pdf o ePub. Il     |
 | contenuto, infatti, viene scritto su file di testo che vengono        |
 | compilati e trasformati in pagina web, proprio come avviene con molti |
-| sistemi di gestione dei contenuti (Cms).                              |
+| sistemi di gestione dei contenuti.                                    |
 |                                                                       |
 | È un progetto che si basa sull’approccio alla creazione della         |
 | documentazione chiamato *docs as code*, ovvero “documenti come        |
 | codice”.                                                              |
 |                                                                       |
-| **Per approfondire:** `L'approccio docs as code di Gov.uk (in         |
+| **Per approfondire:** `L’approccio docs as code di Gov.uk (in         |
 | inglese) <https://gds.blog.gov.uk/2017/01/12/growing-technical-writin |
 | g-across-government/>`__                                              |
 |                                                                       |
