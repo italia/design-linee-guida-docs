@@ -79,7 +79,7 @@ Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di 
 +----------------------------+----------------------------+
 |**Competenze manageriali**  |                            |
 +----------------------------+----------------------------+
-|Orientamento ai risultati   |Gestire l'incertezza,       |
+|Orientamento ai risultati   |Gestire l’incertezza,       |
 |                            |arrivare al risultato       |
 +----------------------------+----------------------------+
 |Capacità di ascolto e di    |Saper ascoltare gli altri e |

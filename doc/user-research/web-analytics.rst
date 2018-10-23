@@ -78,7 +78,7 @@ Principali Metriche (dati quantitativi)
 **Visite**
    *Definizione:* numero totale di visite al sito in un dato intervallo
    di tempo (anche da parte dello stesso utente)
-   
+
    *A cosa serve:* rappresenta il volume di traffico che il sito riceve
    in un determinato lasso temporale. È una delle metriche più usate per
    costruire uno storico dei volumi di traffico del sito, su cui basare
@@ -87,7 +87,7 @@ Principali Metriche (dati quantitativi)
 **Visite uniche**
    *Definizione:* numero di singoli individui (o singoli IP) che ha
    effettuato almeno una visita al sito
-   
+
    *A cosa serve:* è la metrica che restituisce in maniera accurata il
    numero di singoli individui che ha interagito con il sito in un dato
    lasso di tempo
@@ -96,7 +96,7 @@ Principali Metriche (dati quantitativi)
    *Definizione:* numero totale di pagine visitate, anche da parte dello
    stesso utente, in un dato intervallo di tempo. Comprende
    visualizzazioni ripetute della stessa pagina
-   
+
    *A cosa serve:* indica il volume complessivo dei contenuti del sito
    acceduti dagli utenti
 
@@ -104,7 +104,7 @@ Principali Metriche (dati quantitativi)
    *Definizione:* media aritmetica del numero di pagine visitate per
    visita al sito. Comprende le visualizzazioni ripetute della stessa
    pagina
-   
+
    *A cosa serve:* offre indicazioni sulla “profondità” delle visite al
    sito e sul livello di coinvolgimento dei contenuti. Tale metrica deve
    essere interpretata a seconda della natura del sito e dei suoi
@@ -114,7 +114,7 @@ Principali Metriche (dati quantitativi)
 **Durata delle visite**
    *Definizione:* media aritmetica della durata di una singola visita al
    sito
-   
+
    *A cosa serve:* indica il tempo medio trascorso dai visitatori sul
    sito. Tale metrica deve essere interpretata a seconda della natura
    del sito e dei suoi obiettivi
@@ -122,14 +122,14 @@ Principali Metriche (dati quantitativi)
 **Tempo sulla pagina**
    *Definizione:* media aritmetica del tempo trascorso dagli utenti su
    una determinata pagina (o un insieme di pagine)
-   
+
    *A cosa serve:* determina l’efficacia di un contenuto, a seconda
    della sua tipologia e dei suoi obiettivi
 
 **Frequenza di rimbalzo**
    *Definizione:* percentuale di visitatori che ha abbandonato il sito
    dopo una pagina
-   
+
    *A cosa serve:* misura la quota di utenti che arrivano al sito e lo
    abbandonano subitaneamente. La percentuale di frequenza di rimbalzo
    può essere interpretata in maniera opposta a seconda della natura del
@@ -142,7 +142,7 @@ Principali Metriche (dati quantitativi)
 **Nuove visite**
    *Definizione:* percentuale delle prime visite al sito sul totale
    delle visite
-   
+
    *A cosa serve:* metrica utile in particolare quando l’obiettivo del
    sito è quello di accrescere i volumi di traffico provenienti da nuove
    tipologie di visitatori
@@ -150,7 +150,7 @@ Principali Metriche (dati quantitativi)
 **Nuovi utenti/utenti di ritorno**
    *Definizione:* rapporto fra prime visite al sito e utenti che hanno
    già visitato il sito precedentemente, in un dato intervallo di tempo
-   
+
    *A cosa serve:* a seconda degli obiettivi del sito, serve a
    comprendere in che misura i volumi di traffico si suddividono fra
    nuovi utenti e utenti fidelizzati
@@ -159,7 +159,7 @@ Principali Metriche (dati quantitativi)
    *Definizione:* quantità di tempo media (espressa in secondi)
    impiegato da una pagina del sito per caricarsi, dall’avvio della
    visualizzazione nel browser alla fine del suo caricamento
-   
+
    *A cosa serve:* metrica fondamentale per monitorare l’efficienza del
    sito in termini di velocità, anche e soprattutto per la fruizione da
    dispositivi mobili
@@ -225,7 +225,7 @@ Ricerca esterna al sito
 **Top motori di ricerca referenti**
    *Definizione:* Principali motori di ricerca (Google, Bing, Yahoo…)
    che portano traffico al sito
-   
+
    *Azione:* Usa i relativi webmaster tools (es. `Google Search
    Console <../content-design/seo.html>`__) per ottimizzare i contenuti
    e la struttura del sito e renderli così più facilmente scansionabili
@@ -234,7 +234,7 @@ Ricerca esterna al sito
 **Top termini/frasi di ricerca**
    *Definizione:* Le principali parole e frasi digitate nei motori di
    ricerca tramite cui gli utenti arrivano al sito
-   
+
    *Azione:* Verifica che i termini utilizzati dagli utenti coincidano o
    siano simili a quelli utilizzati nel sito. Puoi prendere spunto da
    parole e frasi utilizzate dagli utenti per migliorare la terminologia
@@ -245,7 +245,7 @@ Ricerca esterna al sito
 **Top termini di ricerca con basso CTR (click through rate)**
    *Definizione:* Parole e frasi digitate nei motori di ricerca che
    portano la minore quota di traffico al sito
-   
+
    *Azione:* Revisiona e aggiorna i contenuti che gli utenti visitano
    dopo aver cercato tali termini, per renderli più appetibili e utili
 
@@ -255,7 +255,7 @@ Ricerca su sito
 **Top termini/frasi di ricerca**
    *Definizione:* Le principali parole e frasi digitate dagli utenti nel
    motore di ricerca interno del sito
-   
+
    *Azione:* Crea nuovi contenuti o aggiorna quelli già presenti,
    incorporando la terminologia degli utenti nei metadati, negli
    eventuali tag e nel testo stesso, in modo da aiutare i visitatori a
@@ -266,7 +266,7 @@ Ricerca su sito
    *Definizione:* Parole e frasi digitate dagli utenti nel motore
    interno del sito che non restituiscono risultati, per mancanza di
    contenuti associati o non rappresentati nella maniera corretta
-   
+
    *Azione:* Analizza i contenuti per capire se è il caso di aggiornarli
    o di pubblicarne di nuovi che rappresentino il bisogno espresso
    dall’utente nella ricerca
@@ -274,14 +274,14 @@ Ricerca su sito
 **Top termini di ricerca con basso CTR (click through rate)**
    *Definizione:* Parole e frasi digitate nel motore di ricerca interno
    che restituiscono il più basso numero di visualizzazioni di pagina
-   
+
    *Azione:* Incorpora la terminologia valida nei testi e nei metadati
    per rendere le pagine più rilevanti rispetto a quei termini
 
 **Principali oscillazioni nelle top ricerche**
    *Definizione:* Macro cambiamenti nel ranking dei termini più cercati
    nel motore di ricerca interno del sito
-   
+
    *Azione:* Cerca di analizzare le ragioni per cui alcuni termini
    diventano meno ricercati di altri e viceversa; assicurati che per i
    nuovi termini di ricerca diventati popolari siano presenti contenuti
@@ -290,19 +290,19 @@ Ricerca su sito
 **Utenti che utilizzano la ricerca su sito**
    *Definizione:* Percentuale dei visitatori unici del sito che utilizza
    la funzione di ricerca interna
-   
+
    *Azione:* Ti aiuta a capire se è il caso di ottimizzare le
    funzionalità di ricerca e l’architettura informativa del sito,
    facendo in modo che i contenuti più ricercati siano il più possibile
    visibili
-   
+
 La segmentazione
 ~~~~~~~~~~~~~~~~
-La segmentazione in web analytics consiste nell'isolare dal traffico web aggregato sottoinsiemi di visite (o di utenti unici) che condividono attributi (qualitativi e/o quantitativi) comuni. La segmentazione del traffico in sottogruppi, ha l’obiettivo di far emergere il “valore” di uno specifico insieme di utenti rispetto al traffico aggregato - che è tipicamente quello più rappresentato nei report, ma meno rappresentativo delle specificità dei singoli gruppi di utenza. 
+La segmentazione in web analytics consiste nell’isolare dal traffico web aggregato sottoinsiemi di visite (o di utenti unici) che condividono attributi (qualitativi e/o quantitativi) comuni. La segmentazione del traffico in sottogruppi, ha l’obiettivo di far emergere il “valore” di uno specifico insieme di utenti rispetto al traffico aggregato - che è tipicamente quello più rappresentato nei report, ma meno rappresentativo delle specificità dei singoli gruppi di utenza.
 
-Nelle principali piattaforme di web analytics la segmentazione può essere applicata utilizzando segmenti preimpostati (laddove disponibili) oppure creando dei segmenti di utenza ad hoc. Si possono creare segmenti sulla base di attributi demografici dei visitatori, delle tecnologie utilizzate per navigare il sito, del comportamento, della data di prima visita dell’utente, delle sorgenti di traffico, e così via. 
+Nelle principali piattaforme di web analytics la segmentazione può essere applicata utilizzando segmenti preimpostati (laddove disponibili) oppure creando dei segmenti di utenza ad hoc. Si possono creare segmenti sulla base di attributi demografici dei visitatori, delle tecnologie utilizzate per navigare il sito, del comportamento, della data di prima visita dell’utente, delle sorgenti di traffico, e così via.
 
-Il traffico "segmentato" può essere poi quindi comparato nei rapporti e nelle configurazioni dashboard. 
+Il traffico "segmentato" può essere poi quindi comparato nei rapporti e nelle configurazioni dashboard.
 
 Per maggiori dettagli sulla segmentazione utenti si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
 
@@ -310,7 +310,7 @@ Per maggiori dettagli sulla segmentazione utenti si rimanda al `Kit Web Analytic
 Cosa fare per adempiere alla normativa sui cookie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
-| Tipo di cookie                                                                           | Segnalarli nell'informativa | Inserire il banner e chiedere il consenso ai visitatori | Notificare al Garante                                      |
+| Tipo di cookie                                                                           | Segnalarli nell’informativa | Inserire il banner e chiedere il consenso ai visitatori | Notificare al Garante                                      |
 +==========================================================================================+=============================+=========================================================+============================================================+
 | Nessun cookie                                                                            | No                          | No                                                      | No                                                         |
 +------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+

@@ -4,9 +4,9 @@ Principi di design dei servizi
 Principi di service design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il service design è un approccio alla progettazione che si occupa di definire come si svolge la relazione tra un utente e un’organizzazione, generando un’esperienza di qualità per entrambe le parti coinvolte e agevolando il raggiungimento del risultato desiderato. 
+Il service design è un approccio alla progettazione che si occupa di definire come si svolge la relazione tra un utente e un’organizzazione, generando un’esperienza di qualità per entrambe le parti coinvolte e agevolando il raggiungimento del risultato desiderato.
 
-Quando l’organizzazione è la Pubblica Amministrazione l’utente è un cittadino: l’interazione avviene tramite una serie di canali (chiamati *touchpoint*) che definiscono le possibilità di relazione tra le due parti, fornendo da un lato al cittadino degli strumenti per svolgere attività specifiche e raggiungere i propri obiettivi, e dall’altro lato alla Pubblica Amministrazione un modo per rendere disponibili i propri servizi. 
+Quando l’organizzazione è la Pubblica Amministrazione l’utente è un cittadino: l’interazione avviene tramite una serie di canali (chiamati *touchpoint*) che definiscono le possibilità di relazione tra le due parti, fornendo da un lato al cittadino degli strumenti per svolgere attività specifiche e raggiungere i propri obiettivi, e dall’altro lato alla Pubblica Amministrazione un modo per rendere disponibili i propri servizi.
 
 In fase di progettazione dei servizi ci sono alcune raccomandazioni da seguire.
 
@@ -29,18 +29,18 @@ Sempre più spesso, il digitale è il più importante punto di contatto e di ero
 È fondamentale progettare servizi concreti, creare un rapporto di fiducia tra cittadino e Pubblica Amministrazione. Il design è punto di incontro tra tecnologie e persone: semplificare e sottrarre ogni volta che è possibile, ridurre la complessità e concentrarsi sui bisogni effettivi degli utenti.
 
 **Misurare i risultati**
-È necessario individuare gli obiettivi da raggiungere, in termini di funzionalità e processi, insieme alle metriche in grado di valutare il successo e il gradimento del progetto. I sistemi di misurazione devono essere sintetici (pochi indicatori chiave) e specifici (cioè strettamente legati al servizio che si intende misurare). 
+È necessario individuare gli obiettivi da raggiungere, in termini di funzionalità e processi, insieme alle metriche in grado di valutare il successo e il gradimento del progetto. I sistemi di misurazione devono essere sintetici (pochi indicatori chiave) e specifici (cioè strettamente legati al servizio che si intende misurare).
 
-Il processo di design dei servizi si basa sull’idea che tutte le fasi – dall’ideazione alla realizzazione di un servizio – debbano essere costruite sui bisogni degli utenti. Per lo stesso motivo, le principali metriche di valutazione della efficacia di un servizio sono il livello di adozione, che si esprime in termini di copertura del servizio (quanti lo usano) e frequenza d’uso, e il gradimento da parte degli utenti. 
+Il processo di design dei servizi si basa sull’idea che tutte le fasi – dall’ideazione alla realizzazione di un servizio – debbano essere costruite sui bisogni degli utenti. Per lo stesso motivo, le principali metriche di valutazione della efficacia di un servizio sono il livello di adozione, che si esprime in termini di copertura del servizio (quanti lo usano) e frequenza d’uso, e il gradimento da parte degli utenti.
 
-La creazione di un sistema di valutazione misurabile è fondamentale per avviare un sostenere un percorso di miglioramento continuo. 
+La creazione di un sistema di valutazione misurabile è fondamentale per avviare un sostenere un percorso di miglioramento continuo.
 
 +------------------------------------------------------------------------------+
-|**Esempi di indicatori**                                                      | 
+|**Esempi di indicatori**                                                      |
 |                                                                              |
 |La frequenza di utilizzo di un servizio digitale, la sua diffusione nella     |
 |popolazione, il costo di erogazione di una singola prestazione.               |
-|È possibile anche monitorare il livello di soddisfazione degli utenti,        | 
+|È possibile anche monitorare il livello di soddisfazione degli utenti,        |
 |per esempio effettuando periodicamente test di usabilità che consentano       |
 |di valutare la facilità d’uso di un servizio e contestualmente                |
 |intraprendere azioni di miglioramento continuo.                               |
@@ -57,10 +57,10 @@ La creazione di un sistema di valutazione misurabile è fondamentale per avviare
 **Miglioramento continuo**
 Il progetto parte dai bisogni degli utenti e prevede di usare i prototipi per esplorare rapidamente alcune possibili risposte a questi bisogni. Una volta identificata una strada, si comincia rilasciando una prima versione e gradualmente attivando nuove funzionalità derivate dai feedback degli utenti e dalla comprensione di cosa serva veramente. L’utilizzo di un approccio di data-driven design è funzionale a capire cosa serva veramente alle persone, evitare di creare servizi e funzionalità inutili, concentrarsi sull’essenziale e migliorarlo progressivamente.
 
-Principi generali per l'e-government 
+Principi generali per l’e-government
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il piano di azione della UE per l’e-government ha varato un `piano di azione 
+Il piano di azione della UE per l’e-government ha varato un `piano di azione
 2016-2020 <http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=EN>`_ che riporta i seguenti principi generali, coerenti con i principi di service design e con le linee guida di design dei servizi pubblici italiani
 
 
@@ -72,9 +72,9 @@ Il piano di azione della UE per l’e-government ha varato un `piano di azione
 
 **Apertura e trasparenza**: le pubbliche amministrazioni dovrebbero scambiarsi le informazioni e i dati e permettere a cittadini e imprese di accedere ai propri dati, di controllarli e di correggerli; permettere agli utenti di sorvegliare i processi amministrativi che li vedono coinvolti; coinvolgere e aprirsi alle parti interessate (ad esempio imprese, ricercatori e organizzazioni senza scopo di lucro) nella progettazione e nella prestazione dei servizi.
 
-**Transfrontaliero per definizione**: le pubbliche amministrazioni dovrebbero rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti e impedire un'ulteriore frammentazione, facilitando in tal modo la mobilità all'interno del mercato unico.
+**Transfrontaliero per definizione**: le pubbliche amministrazioni dovrebbero rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti e impedire un’ulteriore frammentazione, facilitando in tal modo la mobilità all’interno del mercato unico.
 
-**Interoperabile per definizione**: i servizi pubblici dovrebbero essere progettati in modo da funzionare senza problemi e senza soluzione di continuità in tutto il mercato unico e al di là dei confini organizzativi, grazie alla libera circolazione dei dati e dei servizi digitali nell'Unione europea.
+**Interoperabile per definizione**: i servizi pubblici dovrebbero essere progettati in modo da funzionare senza problemi e senza soluzione di continuità in tutto il mercato unico e al di là dei confini organizzativi, grazie alla libera circolazione dei dati e dei servizi digitali nell’Unione Europea.
 
-**Fiducia e sicurezza**: tutte le iniziative dovrebbero andare oltre la semplice conformità con il quadro normativo in materia di protezione dei dati personali, tutela della vita privata e sicurezza informatica, integrando questi elementi sin dalla fase di progettazione. Si tratta di presupposti importanti per rafforzare la fiducia nei servizi digitali e favorirne la diffusione. 
+**Fiducia e sicurezza**: tutte le iniziative dovrebbero andare oltre la semplice conformità con il quadro normativo in materia di protezione dei dati personali, tutela della vita privata e sicurezza informatica, integrando questi elementi sin dalla fase di progettazione. Si tratta di presupposti importanti per rafforzare la fiducia nei servizi digitali e favorirne la diffusione.
 

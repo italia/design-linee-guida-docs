@@ -67,7 +67,7 @@ di ricerca:
 -  la description può essere di qualsiasi lunghezza, ma generalmente i
    motori di ricerca troncano testi più lunghi di 160 caratteri (spazi
    inclusi).
-   
+
 Le parole chiave
 ^^^^^^^^^^^^^^^^
 
@@ -91,7 +91,7 @@ salienti:
 
 .. figure:: images/SEO-google-suggest.png
    :alt: google suggest
-   
+
    Google suggest
 
 .. figure:: images/SEO-google-ricerche-correlate.png
@@ -255,7 +255,7 @@ di ricerca.
 <https://support.google.com/webmasters/answer/156184?hl=it&ref_topic=4581190>`__
 
 Una sitemap è un file che ha lo scopo di elencare le pagine web di un
-sito per comunicare a Google e altri motori di ricerca l'organizzazione
+sito per comunicare a Google e altri motori di ricerca l’organizzazione
 dei contenuti. I crawler dei motori leggono questo file per eseguire una
 scansione più efficiente del sito. Una sitemap ha quindi l’obiettivo
 ultimo di migliorare la scansione di un sito da parte dei motori di
@@ -314,8 +314,8 @@ da dispositivi mobili.
 `Risorse per lo sviluppo di pagine ottimizzate per i dispositivi
 mobili <https://support.google.com/webmasters/answer/72462?hl=it&ref_topic=2370586>`__
 
-Approfondimento: le pagine AMP (Accelerated Mobile Pages) per i contenuti di tipo “news”
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Le pagine AMP per i contenuti di tipo “news”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Per determinate tipologie di contenuto - in particolare le news - è
 possibile implementare il formato AMP (Accelerated Mobile Pages) di
@@ -328,7 +328,7 @@ pagine.
 
 `Il progetto AMP <https://www.ampproject.org/it/>`__
 
-`Guida all'implementazione di pagine AMP
+`Guida all’implementazione di pagine AMP
 <https://developers.google.com/search/docs/guides/use-AMP-HTML>`__
 
 Dati strutturati

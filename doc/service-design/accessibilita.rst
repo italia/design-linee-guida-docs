@@ -4,7 +4,7 @@ Accessibilità
 .. admonition:: SI DEVE
 
    Le pubbliche amministrazioni devono rispettare i requisiti
-   tecnici di accessibilità riportati nell'`Allegato A del Decreto
+   tecnici di accessibilità riportati nell’`Allegato A del Decreto
    Ministeriale 8 luglio 2005 <http://www.agid.gov.it/dm-8-luglio-2005-allegato-A>`__
    e successive modifiche.
 
@@ -12,7 +12,7 @@ Definizione
 ~~~~~~~~~~~
 
 Lo sviluppo di soluzioni ICT, hardware, software, web-based per la PA ha
-come requisito fondamentale l'accessibilità.
+come requisito fondamentale l’accessibilità.
 
 La normativa sancisce che tutte le persone devono poter usare
 applicazioni software, siti Web, servizi on line, app, documenti
@@ -57,7 +57,7 @@ Aspetto
    dipendere unicamente da aspetto, forma, colore, dimensione,
    ubicazione visiva, orientamento o suono. Di seguito esempi di alcuni
    tra i più comuni errori:
-   
+
    -  `Identificare il contenuto solo dalla forma o dal colore
       <https://www.w3.org/TR/WCAG20-TECHS/F14.html>`__
    -  `Usare unicamente simboli grafici per veicolare informazioni
@@ -70,12 +70,12 @@ Aspetto
 
 -  **Tempo sufficiente**: deve essere possibile `rimuovere il limite di tempo
    di visualizzazione <https://www.w3.org/TR/WCAG20-TECHS/F16.html>`__ di un oggetto nella pagina, o regolarne la
-   scadenza, o estenderla facilmente prima del termine. Ad esempio 
+   scadenza, o estenderla facilmente prima del termine. Ad esempio
    attenzione a pubblicare un contenuto che “scorre” come un carousel di
    notizie.
 -  **Oggetti lampeggianti**: le pagine Web non devono contenere nulla che
    lampeggi per più di tre volte al secondo.
--  **Contenuti audio**: se un contenuto audio all'interno di una pagina Web
+-  **Contenuti audio**: se un contenuto audio all’interno di una pagina Web
    è eseguito automaticamente per più di tre secondi, allora deve essere
    fornita una funzionalità per metterlo in pausa o interromperlo.
 
@@ -102,7 +102,7 @@ Comportamento
 -  **Link e controlli**: tutti i componenti dell’interfaccia si devono poter
    utilizzare tramite comandi da tastiera analogamente a quanto si
    riesce a fare col mouse. Risulta quindi errato:
-   
+
    -  `Permettere l’interazione con link, campi di un form, menu, bottoni
       solo tramite l’uso del mouse
       <https://www.w3.org/TR/WCAG20-TECHS/F54.html>`__
@@ -114,19 +114,19 @@ Comportamento
    dell’HTML e rendere maggiormente “visibili” gli elementi che ricevono
    il focus. Se si utilizzano componenti non standard, verificare che
    valore, ruolo e stato degli elementi siano sempre resi disponibili
-   all’utente, in particolare alle tecnologie assistive (vedi 
+   all’utente, in particolare alle tecnologie assistive (vedi
    `WAI ARIA <https://www.w3.org/WAI/intro/aria>`__).
 
 Uso del colore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La scala cromatica deve garantire il rapporto di contrasto 
-minimo tra testo e sfondo di 4,5:1, come raccomandato dalle 
+La scala cromatica deve garantire il rapporto di contrasto
+minimo tra testo e sfondo di 4,5:1, come raccomandato dalle
 specifiche di accessibilità WCAG 2.0 AA.
 
-Il colore non deve mai essere significante in sé e 
-non deve essere la modalità con cui si trasmettono contenuti: 
-ipovedenti, daltonici e non vedenti non sarebbero in grado di 
+Il colore non deve mai essere significante in sé e
+non deve essere la modalità con cui si trasmettono contenuti:
+ipovedenti, daltonici e non vedenti non sarebbero in grado di
 identificarli correttamente.
 
 Il colore non può essere usato come unico mezzo per veicolare
@@ -135,7 +135,7 @@ rosso le informazioni obbligatorie, in verde quelle accessorie”, perché
 non tutti potrebbero essere in grado di percepire la differenza di
 colore in contesti di fruizione diversi ma molto frequenti, ad es.:
 
--  da smartphone o tablet, di giorno e all'aperto
+-  da smartphone o tablet, di giorno e all’aperto
 -  una stampa in bianco e nero della pagina web
 -  una pagina web videoproiettata
 -  in caso di daltonismo (`5-8% popolazione maschile <https://it.wikipedia.org/wiki/Daltonismo#Diffusione>`__)
@@ -143,10 +143,10 @@ colore in contesti di fruizione diversi ma molto frequenti, ad es.:
 Per comunicare un’informazione quindi, oltre al colore, è necessario aggiungere
 un elemento testuale o grafico.
 
-La verifica del rapporto di contrasto può essere facilmente effettuata 
+La verifica del rapporto di contrasto può essere facilmente effettuata
 attraverso molti tool online come `colour contrast check <http://snook.ca/technical/colour_contrast/colour.html>`_,
-oppure se si lavora con lo UI Kit è possibile installare il plugin di Sketch chiamato 
-Stark che permette la verifica del contrasto, la simulazione del tipo di 
+oppure se si lavora con lo UI Kit è possibile installare il plugin di Sketch chiamato
+Stark che permette la verifica del contrasto, la simulazione del tipo di
 “colorblindness” e l’esportazione del report.
 
 Normativa
