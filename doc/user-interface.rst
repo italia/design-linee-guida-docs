@@ -8,7 +8,7 @@ di tutto ciò con cui l’utente entra in relazione, nei vari contesti, per usar
 un servizio o un prodotto digitale.
 
 L’interfaccia utente (in inglese *user interface*, abbreviato UI) è l’insieme
-di quegli elementi, o *touch points*, con i quali il cittadino interagisce per
+di quegli elementi con i quali il cittadino interagisce per
 ottenere servizi digitali. Non si compone esclusivamente di elementi grafici o
 visuali, ma comprende tutto ciò con cui l’utente entra in relazione durante
 l’utilizzo di un servizio digitale.
