@@ -143,7 +143,10 @@ struttura e organizzazione dei contenuti (*content type* e *content
 pattern*).
 
 +------------------------------------------------------------------------------------------------------------------------+
-| .. rubric:: Progettare i contenuti: content type e content pattern                                                     |
+| .. admonition:: deepening                                                                                              |
+|   :class: admonition-deepening display-page                                                                            |
+| **Progettare i contenuti: content type e content pattern**                                                             |
+|                                                                                                                        |
 |                                                                                                                        |
 | In un sistema complesso come quello della Pubblica Amministrazione, è                                                  |
 | utile identificare degli elementi (che possiamo definire “pattern”)                                                    |
@@ -314,7 +317,10 @@ a queste domande:
 .. _section-1:
 
 +------------------------------------------------------------------------------------------------------------------------------+
-| .. rubric:: I testi come interfacce, il microcopy                                                                            |
+| .. admonition:: deepening                                                                                                    |
+|   :class: admonition-deepening display-page                                                                                  |
+| **I testi come interfacce, il microcopy**                                                                                    |
+|                                                                                                                              |
 |                                                                                                                              |
 | Una *label* (o etichetta) è un breve testo o un’icona che indica un                                                          |
 | insieme di contenuti con tratti in comune: attraverso le label                                                               |
@@ -433,7 +439,9 @@ trovare attraverso i motori di ricerca (Google) nel kit dedicato alla
 SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
 
 +---------------------------------------------------------------------------------------------------------------+
-| .. rubric:: Strumenti di editing collaborativo                                                                |
+| .. admonition:: deepening                                                                                     |
+|   :class: admonition-deepening display-page                                                                   |
+| **Strumenti di editing collaborativo**                                                                        |
 |                                                                                                               |
 | Gli strumenti di editing collaborativo ti permettono di creare nuovi                                          |
 | contenuti o di fare dei processi di revisione di contenuti già                                                |
@@ -511,7 +519,9 @@ specifico è il processo di migrazione dei contenuti da una
 infrastruttura tecnologica all’altra
 
 +-----------------------------------------------------------------------+
-| .. rubric:: Gestire un processo di migrazione dei contenuti           |
+| .. admonition:: deepening                                             |
+|   :class: admonition-deepening display-page                           |
+| **Gestire un processo di migrazione dei contenuti**                   |
 |                                                                       |
 | La migrazione dei contenuti di un sito web è un’operazione che spesso |
 | prevede:                                                              |
@@ -720,7 +730,9 @@ classificazione e riclassificazione dei contenuti, e seguire le regole
 per una buona indicizzazione dei contenuti sui motori di ricerca.
 
 +-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
+| .. admonition:: deepening                                             |
+|   :class: admonition-deepening display-page                           |
+| **Approfondimento**                                                   |
 |                                                                       |
 | Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito |
 | in fase di design (o redesign) del sito, per creare un sistema        |
@@ -993,7 +1005,9 @@ rilasciata con Creative
 Commons? <http://www.creativecommons.it/faq#32>`__
 
 +-----------------------------------------------------------------------+
-| .. rubric:: **Archivi di contenuti multimediali online**              |
+| .. admonition:: deepening                                             |
+|   :class: admonition-deepening display-page                           |
+| **Archivi di contenuti multimediali online**                          |
 |                                                                       |
 | Per quanto riguarda i contenuti multimediali, ovvero le immagini, i   |
 | video, e gli audio, è possibile utilizzare **archivi online con       |
@@ -1236,7 +1250,9 @@ l’indicizzazione dei contenuti sul web.
    titolo e descrizione del contenuto.
 
 +---------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                         |
+| .. admonition:: deepening                                           |
+|   :class: admonition-deepening display-page                         |
+| **Approfondimento**                                                 |
 |                                                                     |
 | Maggiori informazioni sui principali formati documentali.           |
 |                                                                     |
@@ -1289,7 +1305,9 @@ disposizione di tutte le amministrazioni per creare documenti e gestire
 i processi di consultazione come previsto dal CAD, art. 18
 
 +-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
+| .. admonition:: deepening                                             |
+|   :class: admonition-deepening display-page                           |
+| **Approfondimento**                                                   |
 |                                                                       |
 | La piattaforma di Docs Italia è a disposizione per le pubbliche       |
 | amministrazioni che intendono pubblicare documenti tecnici e          |
@@ -1337,7 +1355,9 @@ Di seguito trovi un approfondimento sulle buone pratiche per la gestione
 dei Pdf.
 
 +-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
+| .. admonition:: deepening                                             |
+|   :class: admonition-deepening display-page                           |
+| **Approfondimento**                                                   |
 |                                                                       |
 | Oltre che essere accompagnati da una pagina Html di descrizione, i    |
 | file dei documenti di testo allegati dovrebbero essere creati         |
