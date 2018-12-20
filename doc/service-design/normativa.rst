@@ -24,7 +24,7 @@ da ultimo integrato e modificato dal
    rispetto alla qualità, anche in termini di fruibilità, accessibilità e tempestività,
    del servizio reso all’utente stesso e pubblicano sui propri siti i dati risultanti,
    ivi incluse le statistiche di utilizzo. In caso di violazione di questi obblighi,
-   gli utenti hanno il diritto di rivolgersi al difensore civico digitale di cui
+   gli utenti, fermo restando il diritto di rivolgersi al difensore civico digitale di cui
    all’articolo 17, possono agire in giudizio.
 5. Partecipazione democratica elettronica viene favorita anche attraverso
    l’utilizzo di forme di consultazione preventiva per via telematica sugli schemi
@@ -36,7 +36,7 @@ da ultimo integrato e modificato dal
    l’AGID l’ufficio del difensore civico per il digitale a cui chiunque può
    presentare segnalazioni relative a presunte violazioni del CAD e di ogni altra
    norma in materia di digitalizzazione ed innovazione della pubblica amministrazione.
-7. Siti Internet delle pubbliche amministrazioni (art. 53) : individuazione
+7. Siti Internet delle pubbliche amministrazioni (art. 53): individuazione
    dei principi secondo cui devono essere costruiti.
 8. Siti pubblici e trasparenza (art. 54): obblighi di pubblicazione in
    “Amministrazione trasparente” (rinvio a `d.lgs. 33/2013 <http://www.normattiva.it/atto/caricaDettaglioAtto?atto.dataPubblicazioneGazzetta=2013-04-05&atto.codiceRedazionale=13G00076>`_).
@@ -73,8 +73,8 @@ Decreti attuativi del CAD
 - Decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 `Regole
   tecniche in materia di protocollo informatico <http://www.gazzettaufficiale.it/eli/id/2014/03/12/14A02099/sg>`_
   ai sensi del CAD (particolare rilievo assumono gli obblighi di pubblicazione
-  a carico delle P.A. di cui all’art. 5, comma 3, relativamente al manuale di
-  gestione; da art. 18, commi 2 e 3 circa l’indirizzo della casella di posta
+  a carico delle P.A., di cui all’art. 5, comma 3, relativamente al manuale di
+  gestione; da art. 18, commi 2 e 3, circa l’indirizzo della casella di posta
   elettronica certificata direttamente associata al registro di protocollo,
   da utilizzare per la protocollazione e gli altri indirizzi di posta elettronica
   istituiti).
@@ -82,8 +82,8 @@ Decreti attuativi del CAD
   tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione
   e validazione temporale dei documenti informatici <http://www.gazzettaufficiale.it/eli/id/2015/01/12/15A00107/sg>`_
   nonché di formazione e conservazione dei documenti informatici delle pubbliche
-  amministrazioni ai sensi del CAD: (particolare rilievo assume obbligo di pubblicazione
-  a carico delle P.A. di cui all’art. 10 per cui ai fini della trasmissione telematica
+  amministrazioni ai sensi del CAD (particolare rilievo assume obbligo di pubblicazione
+  a carico delle P.A. di cui all’art. 10 per cui, ai fini della trasmissione telematica
   di documenti amministrativi informatici, le PA pubblicano sui loro siti gli
   standard tecnici di riferimento, le codifiche utilizzate e le specifiche per
   lo sviluppo degli applicativi software di colloquio).
