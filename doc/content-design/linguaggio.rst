@@ -38,9 +38,7 @@ Quando realizzi una pagina, come prima cosa definisci a cosa serve e in
 che modo risponde a un bisogno dei cittadini (o di specifiche categorie
 di cittadini). Per individuare chi sono i tuoi utenti e quali sono i
 loro bisogni, utilizza in modo appropriato tutti gli strumenti della
-`user
-research <../user-research.html>`__,
-come ad esempio:
+`user research <../user-research.html>`__, come ad esempio:
 
 -  sessioni partecipative con gli utenti (puoi usare `il kit per le User
    interviews <https://designers.italia.it/kit/user-interviews/>`__);
@@ -142,100 +140,101 @@ pattern*, che offrono linee guida ben precise relativamente alla
 struttura e organizzazione dei contenuti (*content type* e *content
 pattern*).
 
-.. admonition:: deepening                                                                                              
-   :class: admonition-deepening display-page                                                                            
-   **Progettare i contenuti: content type e content pattern**                                                             
-                                                                                                                        
-                                                                                                                        
-   In un sistema complesso come quello della Pubblica Amministrazione, è                                                  
-   utile identificare degli elementi (che possiamo definire “pattern”)                                                    
-   in grado di offrire risposte standard a classi di bisogni simili. I                                                    
-   pattern relativi ai contenuti possono essere di due tipi:                                                              
-                                                                                                                          
-   -  stilistici e sintattici;                                                                                            
-                                                                                                                          
-   -  pagine web.                                                                                                         
-                                                                                                                          
-   Per approfondire le regole stilistiche e sintattiche, puoi consultare                                                  
-   la `guida al linguaggio della Pubblica                                                                                 
-   Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re                                                  
-   adthedocs.io/it/latest/>`__                                                                                            
-                                                                                                                          
-   Qui approfondiamo il tema della costruzione di pagine web che possano                                                  
-   offrire una struttura standard per rispondere a specifici bisogni                                                      
-   degli utenti. Spesso si fa riferimento a queste tipologie di pagine                                                    
-   come “\ *content type*\ ”.                                                                                             
-                                                                                                                          
-   In fase di progettazione, i contenuti di un sito web sono organizzati                                                  
-   in diverse tipologie, o *content type*. Questa “classificazione”                                                       
-   permette di inquadrare meglio la funzione narrativa di ogni tipo di                                                    
-   contenuto, per strutturarlo in modo tale da renderlo il più efficace                                                   
-   possibile.                                                                                                             
-                                                                                                                          
-   **All’interno del design system di Designers Italia esiste un luogo                                                    
-   in cui si sta progressivamente costruendo una libreria di content                                                      
-   type: è il** `wireframe                                                                                                
-   kit <https://designers.italia.it/kit/wireframe-kit/>`__.                                                               
-                                                                                                                          
-   La diversa funzione che ha ogni *content type* è rilevante non solo                                                    
-   per chi si occupa del design del sito, ma anche per chi si occupa di                                                   
-   produrre contenuti, che deve tenere bene a mente lo scopo della                                                        
-   pagina su cui andrà a pubblicare il suo contenuto.                                                                     
-                                                                                                                          
-   Per esempio, è compito di chi scrive contenuti stabilire che in tutte                                                  
-   **le pagine di lista** del sito potrebbe essere previsto un titolo,                                                    
-   un sommario e un breve testo di introduzione, per spiegare in modo                                                     
-   chiaro all’utente che tipo di informazioni, articoli o schede                                                          
-   servizio sono elencate.                                                                                                
-                                                                                                                          
-   Alcuni esempi dei più comuni *content type* in un sito sono:                                                           
-                                                                                                                          
-   -  **Search**: la funzione principale di un motore di ricerca è                                                        
-      permettere all’utente di trovare all’interno del sito o di una                                                      
-      sezione le informazioni che sta cercando tramite parole chiave.                                                     
-                                                                                                                          
-   -  **Scheda servizio**: la funzione principale è descrivere                                                            
-      all’utente un servizio, spiegandogli di cosa si tratta, chi ne ha                                                   
-      diritto, come fruirne.                                                                                              
-                                                                                                                          
-   -  **Liste**: le pagine di lista permettono all’utente di orientarsi                                                   
-      all’interno di alcune sezioni, organizzate per tag, per categoria,                                                  
-      per argomento.                                                                                                      
-                                                                                                                          
-   -  **Homepage**: l’homepage ha in genere la funzione principale di                                                     
-      orientare l’utente all’interno dei contenuti del sito, per                                                          
-      permettergli di raggiungere rapidamente le informazioni che sta                                                     
-      cercando.                                                                                                           
-                                                                                                                          
-   -  **Form e wizard**: questi *content type* accompagnano l’utente                                                      
-      nell’esecuzione di un’azione, compilando alcuni campi o                                                             
-      interagendo con elementi dell’interfaccia (etichette, bottoni).                                                     
-                                                                                                                          
-   -  **Contenuti di servizio**: queste pagine hanno la funzione di                                                       
-      presentare informazioni (chi siamo, contatti, dicono di noi, ecc).                                                  
-                                                                                                                          
-   -  **Carrello**: permette all’utente di portare facilmente a termine                                                   
-      un acquisto.                                                                                                        
-                                                                                                                          
-   -  **Articoli**: in genere hanno la funzione di offrire all’utente                                                     
-      un’informazione precisa, in modo chiaro e sintetico.                                                                
-                                                                                                                          
-   -  **Area personale**: la funzione tipica è quella di orientare                                                        
-      l’utente tra alcune funzioni riservate, come le preferenze, la                                                      
-      gestione delle notifiche, dei propri dati, ecc.                                                                     
-                                                                                                                          
-   Anche nel `modello di analisi dei                                                                                      
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **Progettare i contenuti: content type e content pattern** 
+                                                             
+   In un sistema complesso come quello della Pubblica Amministrazione, è 
+   utile identificare degli elementi (che possiamo definire “pattern”)   
+   in grado di offrire risposte standard a classi di bisogni simili. I   
+   pattern relativi ai contenuti possono essere di due tipi:             
+                                                                         
+   -  stilistici e sintattici;                                           
+                                                                         
+   -  pagine web.                                                        
+                                                                         
+   Per approfondire le regole stilistiche e sintattiche, puoi consultare 
+   la `guida al linguaggio della Pubblica                                
+   Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re 
+   adthedocs.io/it/latest/>`__                                           
+                                                                         
+   Qui approfondiamo il tema della costruzione di pagine web che possano 
+   offrire una struttura standard per rispondere a specifici bisogni     
+   degli utenti. Spesso si fa riferimento a queste tipologie di pagine   
+   come “\ *content type*\ ”.                                            
+                                                                         
+   In fase di progettazione, i contenuti di un sito web sono organizzati 
+   in diverse tipologie, o *content type*. Questa “classificazione”      
+   permette di inquadrare meglio la funzione narrativa di ogni tipo di   
+   contenuto, per strutturarlo in modo tale da renderlo il più efficace  
+   possibile.                                                            
+                                                                         
+   **All’interno del design system di Designers Italia esiste un luogo   
+   in cui si sta progressivamente costruendo una libreria di content     
+   type: è il** `wireframe                                               
+   kit <https://designers.italia.it/kit/wireframe-kit/>`__.              
+                                                                         
+   La diversa funzione che ha ogni *content type* è rilevante non solo   
+   per chi si occupa del design del sito, ma anche per chi si occupa di  
+   produrre contenuti, che deve tenere bene a mente lo scopo della       
+   pagina su cui andrà a pubblicare il suo contenuto.                    
+                                                                         
+   Per esempio, è compito di chi scrive contenuti stabilire che in tutte 
+   **le pagine di lista** del sito potrebbe essere previsto un titolo,   
+   un sommario e un breve testo di introduzione, per spiegare in modo    
+   chiaro all’utente che tipo di informazioni, articoli o schede         
+   servizio sono elencate.                                               
+                                                                         
+   Alcuni esempi dei più comuni *content type* in un sito sono:
+   
+   - **Search**: la funzione principale di un motore di ricerca è       
+     permettere all’utente di trovare all’interno del sito o di una     
+     sezione le informazioni che sta cercando tramite parole chiave.    
+                                                                        
+   - **Scheda servizio**: la funzione principale è descrivere           
+     all’utente un servizio, spiegandogli di cosa si tratta, chi ne ha  
+     diritto, come fruirne.                                             
+                                                                        
+   - **Liste**: le pagine di lista permettono all’utente di orientarsi  
+     all’interno di alcune sezioni, organizzate per tag, per categoria, 
+     per argomento.                                                     
+                                                                        
+   - **Homepage**: l’homepage ha in genere la funzione principale di    
+     orientare l’utente all’interno dei contenuti del sito, per         
+     permettergli di raggiungere rapidamente le informazioni che sta    
+     cercando.                                                          
+                                                                        
+   - **Form e wizard**: questi *content type* accompagnano l’utente     
+     nell’esecuzione di un’azione, compilando alcuni campi o            
+     interagendo con elementi dell’interfaccia (etichette, bottoni).    
+                                                                        
+   - **Contenuti di servizio**: queste pagine hanno la funzione di      
+     presentare informazioni (chi siamo, contatti, dicono di noi, ecc). 
+                                                                        
+   - **Carrello**: permette all’utente di portare facilmente a termine  
+     un acquisto.                                                       
+                                                                        
+   - **Articoli**: in genere hanno la funzione di offrire all’utente    
+     un’informazione precisa, in modo chiaro e sintetico.               
+                                                                        
+   - **Area personale**: la funzione tipica è quella di orientare       
+     l’utente tra alcune funzioni riservate, come le preferenze, la     
+     gestione delle notifiche, dei propri dati, ecc.                    
+
+   Anche nel `modello di analisi dei 
    contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__ 
-   che abbiamo pubblicato all’interno del `Content                                                                        
-   kit <https://designers.italia.it/kit/content-kit/>`__, per ogni                                                        
-   pagina presa in considerazione è necessario domandarsi di che tipo di                                                  
-   *content type* si tratti. In questo modo è possibile assicurarsi:                                                      
-                                                                                                                          
+   che abbiamo pubblicato all’interno del `Content 
+   kit <https://designers.italia.it/kit/content-kit/>`__, per ogni 
+   pagina presa in considerazione è necessario domandarsi di che tipo di 
+   *content type* si tratti. In questo modo è possibile assicurarsi:
+   
    -  che tutti i *content type* uguali siano trattati in maniera                                                         
       coerente all’interno del sito;                                                                                      
                                                                                                                           
    -  che le pagine rispondano effettivamente alla funzione narrativa                                                     
       che dovrebbero assolvere.                                                                                           
+
 
 Scrivere e riscrivere
 =====================
@@ -316,8 +315,8 @@ a queste domande:
 
 .. admonition:: deepening                                                                                                    
    :class: admonition-deepening display-page                                                                                  
+   
    **I testi come interfacce, il microcopy**                                                                                    
-                                                                                                                                
                                                                                                                                 
    Una *label* (o etichetta) è un breve testo o un’icona che indica un                                                          
    insieme di contenuti con tratti in comune: attraverso le label                                                               
@@ -436,7 +435,8 @@ SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SE
 
 .. admonition:: deepening                                                                                     
    :class: admonition-deepening display-page                                                                   
-   **Strumenti di editing collaborativo**                                                                        
+
+   **Strumenti di editing collaborativo**
                                                                                                                  
    Gli strumenti di editing collaborativo ti permettono di creare nuovi                                          
    contenuti o di fare dei processi di revisione di contenuti già                                                
@@ -514,6 +514,7 @@ infrastruttura tecnologica all’altra
 
 .. admonition:: deepening                                             
    :class: admonition-deepening display-page                           
+
    **Gestire un processo di migrazione dei contenuti**                   
                                                                          
    La migrazione dei contenuti di un sito web è un’operazione che spesso 
@@ -547,7 +548,7 @@ infrastruttura tecnologica all’altra
    un nuovo sito. Un altro aspetto di grande impatto è la gestione in    
    ottica SEO                                                            
                                                                          
-   .. rubric:: **La gestione SEO di una migrazione**                     
+   **La gestione SEO di una migrazione**                     
                                                                          
    Le attività da fare per gestire una corretta migrazione riguardano    
    **la** **corretta gestione SEO**, con strumenti come `il modello per  
@@ -995,6 +996,7 @@ Commons? <http://www.creativecommons.it/faq#32>`__
 
 .. admonition:: deepening                                             
    :class: admonition-deepening display-page                           
+
    **Archivi di contenuti multimediali online**                          
                                                                          
    Per quanto riguarda i contenuti multimediali, ovvero le immagini, i   
@@ -1236,9 +1238,9 @@ l’indicizzazione dei contenuti sul web.
    sempre creare una pagina web corrispondente al documento che riporti
    titolo e descrizione del contenuto.
 
+
 .. admonition:: deepening                                           
    :class: admonition-deepening display-page                         
-   **Approfondimento**                                                 
                                                                        
    Maggiori informazioni sui principali formati documentali.           
                                                                        
@@ -1272,8 +1274,8 @@ documenti della PA vengono pubblicati sul web, anche la modalità di
 creazione dei contenuti deve tener conto di questo fatto. Come abbiamo
 visto in precedenza, esistono essenzialmente due strade.
 
-1. Creazione di un contenuto in formato Html in modo nativo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1\. Creazione di un contenuto in formato Html in modo nativo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con questo approccio, è possibile per esempio:
 
@@ -1291,7 +1293,6 @@ i processi di consultazione come previsto dal CAD, art. 18
 
 .. admonition:: deepening                                             
    :class: admonition-deepening display-page                           
-   **Approfondimento**                                                   
                                                                          
    La piattaforma di Docs Italia è a disposizione per le pubbliche       
    amministrazioni che intendono pubblicare documenti tecnici e          
@@ -1324,8 +1325,9 @@ i processi di consultazione come previsto dal CAD, art. 18
    e `Guida alla                                                         
    pubblicazione <http://guida-docs-italia.readthedocs.io/it/latest/>`__.
 
-2. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2\. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questo caso, è necessario `accompagnare sempre i documenti con una
 pagina
@@ -1338,7 +1340,6 @@ dei Pdf.
 
 .. admonition:: deepening                                             
    :class: admonition-deepening display-page                           
-   **Approfondimento**                                                   
                                                                          
    Oltre che essere accompagnati da una pagina Html di descrizione, i    
    file dei documenti di testo allegati dovrebbero essere creati         
