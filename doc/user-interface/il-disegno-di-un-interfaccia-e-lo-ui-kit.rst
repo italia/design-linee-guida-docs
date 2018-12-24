@@ -78,7 +78,7 @@ Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie 
 
 La costruzione degli elementi segue una `roadmap <https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit?usp=sharing>`_ dove si può osservare e commentare il progetto in corso di realizzazione.
 
-Poiché l’approccio è open-source, le pubbliche amministrazioni, le agenzie e singoli cittadini possono contribuire alla discussione e alla modifica dello UI Kit stesso.
+Poiché l’approccio è *open source*, le Pubbliche Amministrazioni, le agenzie e singoli cittadini possono contribuire alla discussione e alla modifica dello UI Kit stesso.
 
 .. figure:: images/ui-design-ui-kit-esempio-1.png
     :alt: Un esempio di componenti dello UI Kit.

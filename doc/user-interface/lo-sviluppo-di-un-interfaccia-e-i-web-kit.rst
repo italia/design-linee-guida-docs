@@ -153,7 +153,7 @@ In caso di progettazione di progressive web apps ideate per essere usate princip
 I Web Kit per lo sviluppo dell’interfaccia
 ================================================================================
 
-Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa fase, il progetto Designers Italia ha supportato la realizzazione di alcune librerie *open-source* di ausilio per lo sviluppo di interfacce e il mantenimento di un *design system* solido e coerente: Bootstrap Italia, Web Toolkit, React Kit e Angular Kit.
+Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa fase, il progetto Designers Italia ha supportato la realizzazione di alcune librerie *open source* di ausilio per lo sviluppo di interfacce e il mantenimento di un *design system* solido e coerente: Bootstrap Italia, Web Toolkit, React Kit e Angular Kit.
 
 **Bootstrap Italia** è il più moderno set di componenti disponibile per la costruzione di interfacce per servizi della PA, costruito sulle basi delle più recenti modifiche allo `UI Kit <./il-disegno-di-un-interfaccia-e-lo-ui-kit.html>`__. e sulla libreria `Bootstrap 4 <https://getbootstrap.com/>`_. Esso contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di tipografia, bottoni ed altri pattern di interfaccia conformi alle attuali Linee Guida.
 
@@ -163,7 +163,7 @@ Il **Web Toolkit** è la libreria “storica” tra i kit per lo sviluppo web, c
 
 * Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
 
-**React Kit** e **Angular Kit** (in lavorazione) contengono componenti programmati in linguaggio JavaScript, costruiti rispettivamente sulle basi di *React* e *AngularJS*, due librerie *open-source* per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
+**React Kit** e **Angular Kit** (in lavorazione) contengono componenti programmati in linguaggio JavaScript, costruiti rispettivamente sulle basi di *React* e *AngularJS*, due librerie *open source* per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
 
 * Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
 * Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
@@ -180,9 +180,9 @@ Bootstrap Italia permette di copiare il codice mostrato, ottenendo esattamente c
 Bottoni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Ad esempio, per aggiungere un bottone personalizzato è sufficiente aggiungere una classe `.btn`, associandola a classi di tipo `.btn-` per applicarne varianti di stile, dimensione, ed altro.
+Ad esempio, per aggiungere un bottone personalizzato è sufficiente aggiungere una classe ``.btn``, associandola a classi di tipo ``.btn-*`` per applicarne varianti di stile, dimensione, ed altro.
 
-È possibile consultare tutti i dettagli nella pagina dedicata al componente `“Bottone” <https://italia.github.io/bootstrap-italia/docs/componenti/bottoni/>`_ nella documentazione.
+È possibile consultare tutti i dettagli nella pagina dedicata al componente “`Bottone <https://italia.github.io/bootstrap-italia/docs/componenti/bottoni/>`_” nella documentazione.
 
 .. figure:: images/ui-bootstrap-italia-bottone.png
     :alt: Un esempio del componente Bottone di Bootstrap Italia.
@@ -193,7 +193,7 @@ Ad esempio, per aggiungere un bottone personalizzato è sufficiente aggiungere u
 Interfaccia a Tab
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Così come per i Bottoni, anche componenti più complessi come interfacce “a pannelli” (o “Tab”), che mostrano il contenuto relativo al tab selezionato, possono essere realizzate semplicemente copiando il codice visibile nella documentazione di Bootstrap Italia, assicurandone così il funzionamento anche per utenti che usino la tastiera o dispositivi di comando vocale.
+Così come per i Bottoni, anche componenti più complessi come interfacce a “`Tab <https://italia.github.io/bootstrap-italia/docs/componenti/tab/>`_” (o a “schede”), che mostrano il contenuto relativo al tab selezionato, possono essere realizzate semplicemente copiando il codice visibile nella documentazione di Bootstrap Italia, assicurandone così il funzionamento anche per utenti che usino la tastiera o dispositivi di comando vocale.
 
 .. figure:: images/ui-bootstrap-italia-tab.png
     :alt: Un esempio del componente Tab di Bootstrap Italia.
@@ -204,7 +204,7 @@ Così come per i Bottoni, anche componenti più complessi come interfacce “a p
 Input Toggle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Bootstrap Italia recepisce anche scelte di design su componenti che non esistono nello standard web, come l’input di tipo “Toggle” (una sorta di “interruttore” a due stati), un componente che si sostituisce al più usato “Checkbox” rendendone l’aspetto più chiaro ed immediato.
+Bootstrap Italia recepisce anche scelte di design su componenti che non esistono nello standard web, come l’input di tipo “`Toggle <https://italia.github.io/bootstrap-italia/docs/form/form-toggles/>`_” (una sorta di “interruttore” a due stati), un componente che si sostituisce al più usato “Checkbox” rendendone l’aspetto più chiaro ed immediato.
 
 .. figure:: images/ui-bootstrap-italia-toggle.png
     :alt: Un esempio del componente Toggle di Bootstrap Italia.
@@ -215,7 +215,7 @@ Bootstrap Italia recepisce anche scelte di design su componenti che non esistono
 React Kit e Angular Kit
 --------------------------------------------------------------------------------
 
-I kit React e Angular dipendono da Bootstrap Italia per quanto riguarda lo stile, ma espongono componenti già pronti all’utilizzo all’interno di applicazioni complesse basate su queste librerie. Entrambe le librerie sono disponibili come pacchetti `npm`, per cui gli sviluppatori React ed Angular troveranno codice già ottimizzato per essere incluso come dipendenza nelle loro applicazioni web.
+I kit React e Angular dipendono da Bootstrap Italia per quanto riguarda lo stile, ma espongono componenti già pronti all’utilizzo all’interno di applicazioni complesse basate su queste librerie. Entrambe le librerie sono disponibili come pacchetti ``npm``, per cui gli sviluppatori React ed Angular troveranno codice già ottimizzato per essere incluso come dipendenza nelle loro applicazioni web.
 
 Bottoni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

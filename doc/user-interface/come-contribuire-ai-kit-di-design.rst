@@ -4,7 +4,7 @@ Come contribuire ai Kit di Design
 
 I modelli di design e i blocchi di codice presenti nel Wireframe Kit, nello UI Kit e nei Web Kit, proprio per la natura della loro utilità, hanno bisogno di evolversi in conseguenza dell’evoluzione della tecnologia, delle capacità di interazione degli utenti e dell’evoluzione del loro stesso obiettivo.
 
-Per questo, essi sono tutti progetti *open-source* che favoriscono il confronto e la collaborazione di chi vuole partecipare, non solo su tutto quanto è ancora in fase di realizzazione, ma anche su tutta la documentazione già pubblicata.
+Per questo, essi sono tutti progetti *open source* che favoriscono il confronto e la collaborazione di chi vuole partecipare, non solo su tutto quanto è ancora in fase di realizzazione, ma anche su tutta la documentazione già pubblicata.
 
 Si ritiene doveroso per la Pubblica Amministrazione, dovendo fornire dei servizi digitali accessibili ed usabili, interessarsi alle varie fasi dalla progettazione alla realizzazione, fornendo un proprio contributo all’implementazione e al miglioramento degli strumenti condivisi.
 
