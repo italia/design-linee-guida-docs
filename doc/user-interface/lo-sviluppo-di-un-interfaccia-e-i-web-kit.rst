@@ -1,8 +1,9 @@
+================================================================================
 Lo sviluppo di un’interfaccia e i Web Kit
------------------------------------------
+================================================================================
 
-Attività preliminari alla fase di sviluppo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alcune attività preliminari alla fase di sviluppo
+================================================================================
 
 Durante le fasi iniziali dello sviluppo di un sito web professionale, è di fondamentale importanza dedicare tempo e risorse ad alcune attività che avranno impatto sull’intero ciclo di vita del progetto:
 
@@ -15,11 +16,10 @@ Contestualmente a questa fase di *kick-off* tecnico, è auspicabile avviare sin 
 In caso di applicazioni ad alta interattività o di grandi dimensioni, anche la metodologia di lavoro è fondamentale: un approccio `BDD <https://it.wikipedia.org/wiki/Behavior-driven_development>`_ per la stesura delle funzionalità, e l’uso della stessa metodologia per l’applicazione di test funzionali, unit test e test di integrazione, possono essere elementi chiave per il buon funzionamento e la solidità dell’applicazione.
 
 Approccio
-~~~~~~~~~
-
+--------------------------------------------------------------------------------
 
 Web design responsivo
-_____________________
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il sito web deve **sempre** essere progettato e sviluppato con un approccio *responsive*, con l’obiettivo di fornire un’esperienza d’uso ottimale indipendentemente dalla risoluzione dello schermo e dal tipo di dispositivo utilizzato, consentendo in ogni situazione facilità di lettura e navigazione.
 
@@ -30,7 +30,7 @@ Al concetto di responsive web design vanno associate pratiche di semplificazione
 
 
 Mobile first
-____________
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 L’approccio *mobile first* è, assieme all’utilizzo di *progressive enhancement* trattato di seguito, una pratica oramai consolidata: consiste nel valutare in prima istanza l’esperienza e le necessità per gli utilizzatori di dispositivi mobili, per poi arricchire di elementi e funzionalità la composizione della pagina mano a mano che la dimensione, le capacità computazionali e di rete del dispositivo aumentano.
 
@@ -51,7 +51,7 @@ Al contrario, nel caso della *graceful degradation*, con la programmazione ci si
 Come si potrà notare, si tratta in fondo di due risposte diverse alla stessa esigenza: rendere il contenuto **accessibile** su dispositivi con **diverse caratteristiche e potenzialità**.
 
 Feature detection
-_________________
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Tecnicamente, l’approccio appena analizzato può essere realizzato attraverso la cosiddetta *feature detection* (riconoscimento delle caratteristiche): il sito web può rilevare una miriade di proprietà che caratterizzano il metodo di accesso al sito da parte del cittadino.
 
@@ -86,7 +86,7 @@ Esistono moltissimi strumenti per la feature detection e per le pratiche di *pol
 differenze tra i vari Browser nel pieno supporto di alcune funzionalità); di seguito ne sono riportate alcuni.
 
 Strumenti
-_________
+--------------------------------------------------------------------------------
 
 Una fonte di dati molto utile invece per una verifica a monte delle feature disponibili nei browser è `caniuse.com <https://caniuse.com/>`_. Tale strumento permette di ricercare e verificare se per i browser supportati è necessaria una gestione ad-hoc di determinate funzionalità oppure no.
 
@@ -94,46 +94,46 @@ Una volta individuati i dispositivi supportati e le feature da realizzare, è bu
 
 In ambito CSS, è ormai pressoché d’obbligo l’utilizzo di **pre-processori** (*SASS*, *LESS*, e *PostCSS* sono i più utilizzati), che migliorano la leggibilità e la modularità del codice sorgente, agevolando nel contempo l’applicazione di pratiche virtuose quali l’utilizzo di *BEM*, una metodologia per scrivere classi CSS “parlanti”, o di Autoprefixer per la gestione automatica di prefissi CSS a supporto dei vari motori di rendering presenti nei browser.
 
-- `SASS <https://sass-lang.com/>`_
-- `LESS <http://lesscss.org/>`_
-- `PostCSS <http://postcss.org/>`_
-- `BEM <http://getbem.com/>`_
-- `Autoprefixer <https://autoprefixer.github.io/>`_
+* `SASS <https://sass-lang.com/>`_
+* `LESS <http://lesscss.org/>`_
+* `PostCSS <http://postcss.org/>`_
+* `BEM <http://getbem.com/>`_
+* `Autoprefixer <https://autoprefixer.github.io/>`_
 
 Per quanto riguarda Javascript invece, la scelta degli strumenti è talmente ampia e mutevole che delineare uno scenario ottimale in termini di framework o librerie non avrebbe senso senza un’analisi approfondita del progetto da realizzare. In questo ambito è necessaria una formazione continua, e un’attenzione particolare a ciò che permetta di ottenere codice **modulare**, **scalabile** e **performante**, senza appesantire l’esecuzione e l’interfaccia utente.
 
 Alcune risorse interessanti, in inglese:
 
-- `guida di MDN <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>`_
-- `You don’t know JS <https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details>`_
+* `guida di MDN <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>`_
+* `You don’t know JS <https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details>`_
 
 Alcune pratiche sono comunque sempre auspicabili, come la **compressione** del codice e il caricamento dei file Javascript stessi in modo **asincrono** oppure al termine della pagina HTML, al fine di non bloccare il rendering della pagina stessa; o ancora, l’utilizzo di strumenti di **analisi della sintassi** come *ESLint* o *StyleLint* per rendere il codice leggibile e coerente con regole condivise dalla comunità degli sviluppatori.
 
-- `ESLint <https://eslint.org/>`_
-- `StyleLint <https://stylelint.io/>`_
+* `ESLint <https://eslint.org/>`_
+* `StyleLint <https://stylelint.io/>`_
 
 Supporto browser
-~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Come regola generale, per la realizzazione di un servizio web per la PA, è necessario assicurare la compatibilità con versioni dei browser che abbiano una penetrazione media tra la popolazione di almeno **1 persona ogni 100 abitanti**.
 
 Ciò significa che, con i dati disponibili ad oggi, è necessario assicurare la compatibilità con almeno i seguenti browser:
 
-- Apple Safari 11+ (mobile e desktop)
-- Google Chrome (ultime versioni, mobile e desktop)
-- Microsoft Edge (tutte le versioni, mobile e desktop)
-- Microsoft Internet Explorer 11
-- Mozilla Firefox (ultime versioni, mobile e desktop)
-- Samsung Internet 7+
+* Apple Safari 11+ (mobile e desktop)
+* Google Chrome (ultime versioni, mobile e desktop)
+* Microsoft Edge (tutte le versioni, mobile e desktop)
+* Microsoft Internet Explorer 11
+* Mozilla Firefox (ultime versioni, mobile e desktop)
+* Samsung Internet 7+
 
 È buona norma analizzare regolarmente le statistiche sull’utilizzo dei dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere al sito, con lo scopo di abbracciare una base di utenti che copra più del **95% delle versioni utilizzate in Italia**. Per fare questo, ci si può avvalere di diverse sorgenti di dati: una delle più usate è *StatCounter.com*, che permette di filtrare i dati per Paese:
 
-- `Versioni browser più usate in Italia secondo StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_
+* `Versioni browser più usate in Italia secondo StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_
 
 Come ampiamente descritto nel paragrafo precedente, non è necessario che l’interfaccia di un sito web sia assolutamente identica sui diversi dispositivi; graceful degradation significa tuttavia garantire un’esperienza utente **equivalente**, graficamente **coerente**, e **completa** nelle sue funzionalità. Vediamo come sia possibile farlo.
 
 Misurare le prestazioni
-~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Così come avviene per il design di un sito, anche le sue prestazioni concorrono a una maggiore facilità di utilizzo. In questo senso, è bene differenziare due principali ambiti che possono avere impatto determinante sull’esperienza finale dell’utente: i **tempi di caricamento** della pagina e le **performance di esecuzione** della pagina stessa.
 
@@ -150,26 +150,26 @@ Per ottenere invece informazioni più dettagliate riguardo eventuali inefficienz
 
 In caso di progettazione di progressive web apps ideate per essere usate principalmente su dispositivi mobili, è bene tenere a mente anche il concetto di *offline first*, fornendo un’esperienza di base anche in caso di limitata connettività.
 
-I kit di sviluppo: i Web Kit
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I Web Kit per lo sviluppo dell’interfaccia
+================================================================================
 
 Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa fase, il progetto Designers Italia ha supportato la realizzazione di alcune librerie *open-source* di ausilio per lo sviluppo di interfacce e il mantenimento di un *design system* solido e coerente: Bootstrap Italia, Web Toolkit, React Kit e Angular Kit.
 
 **Bootstrap Italia** è il più moderno set di componenti disponibile per la costruzione di interfacce per servizi della PA, costruito sulle basi delle più recenti modifiche allo `UI Kit <./il-disegno-di-un-interfaccia-e-lo-ui-kit.html>`__. e sulla libreria `Bootstrap 4 <https://getbootstrap.com/>`_. Esso contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di tipografia, bottoni ed altri pattern di interfaccia conformi alle attuali Linee Guida.
 
-- Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
+* Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
 
 Il **Web Toolkit** è la libreria “storica” tra i kit per lo sviluppo web, con la quale sono stati costruiti alcuni siti di Enti centrali e locali. Essa è basata su una versione ormai obsoleta delle Linee Guida di design, per cui non ne è consigliata l’adozione per nuovi progetti.
 
-- Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
+* Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
 
 **React Kit** e **Angular Kit** (in lavorazione) contengono componenti programmati in linguaggio JavaScript, costruiti rispettivamente sulle basi di *React* e *AngularJS*, due librerie *open-source* per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
 
-- Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
-- Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
+* Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
+* Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
 
 Bootstrap Italia
-________________
+--------------------------------------------------------------------------------
 
 Bootstrap Italia recepisce e aggiorna il precedente Web Toolkit, secondo le nuove direttive introdotte nella più recente versione dello UI Kit, semplificando moltissimo lo sviluppo di un sito web conforme con le Linee Guida di Design.
 
@@ -178,7 +178,7 @@ Esso contiene codice pronto all’uso, e descrive in dettaglio nella propria doc
 Bootstrap Italia permette di copiare il codice mostrato, ottenendo esattamente ciò che è mostrato nella `documentazione <https://italia.github.io/bootstrap-italia/docs/come-iniziare/introduzione/>`_ del progetto.
 
 Bottoni
-:::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Ad esempio, per aggiungere un bottone personalizzato è sufficiente aggiungere una classe `.btn`, associandola a classi di tipo `.btn-` per applicarne varianti di stile, dimensione, ed altro.
 
@@ -191,7 +191,7 @@ Ad esempio, per aggiungere un bottone personalizzato è sufficiente aggiungere u
     Un esempio del componente “Bottone” nelle sue varianti.
 
 Interfaccia a Tab
-:::::::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Così come per i Bottoni, anche componenti più complessi come interfacce “a pannelli” (o “Tab”), che mostrano il contenuto relativo al tab selezionato, possono essere realizzate semplicemente copiando il codice visibile nella documentazione di Bootstrap Italia, assicurandone così il funzionamento anche per utenti che usino la tastiera o dispositivi di comando vocale.
 
@@ -202,7 +202,7 @@ Così come per i Bottoni, anche componenti più complessi come interfacce “a p
     Un esempio del componente “Tab” nelle sue varianti.
 
 Input Toggle
-::::::::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Bootstrap Italia recepisce anche scelte di design su componenti che non esistono nello standard web, come l’input di tipo “Toggle” (una sorta di “interruttore” a due stati), un componente che si sostituisce al più usato “Checkbox” rendendone l’aspetto più chiaro ed immediato.
 
@@ -213,12 +213,12 @@ Bootstrap Italia recepisce anche scelte di design su componenti che non esistono
     Un esempio di componente “Toggle” nelle sue varianti.
 
 React Kit e Angular Kit
-_______________________
+--------------------------------------------------------------------------------
 
 I kit React e Angular dipendono da Bootstrap Italia per quanto riguarda lo stile, ma espongono componenti già pronti all’utilizzo all’interno di applicazioni complesse basate su queste librerie. Entrambe le librerie sono disponibili come pacchetti `npm`, per cui gli sviluppatori React ed Angular troveranno codice già ottimizzato per essere incluso come dipendenza nelle loro applicazioni web.
 
 Bottoni
-:::::::
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A titolo di esempio, l’inclusione di un bottone di *colore primario nei bordi*, di *piccola dimensione*, e *disabilitato* sarà semplice come scrivere il codice che segue.
 
@@ -236,15 +236,16 @@ Per l’Angular Kit:
 
 La maggior parte di questi componenti prevedono già anche le funzionalità di ascolto e di modifica del proprio stato in base a valori impostati dinamicamente dall’esterno.
 
+
 Gli strumenti
-_____________
+================================================================================
 
 I Web Kit sono disponibili a tutti sui repository dedicati:
 
-- Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
-- Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
-- Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
-- Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
+* Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
+* Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
+* Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
+* Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
 
 
 I kit seguono un processo di evoluzione e miglioramento continuo, e sono aggiornati secondo le regole del `versionamento semantico <https://semver.org/lang/it/>`_.

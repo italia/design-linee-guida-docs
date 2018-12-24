@@ -1,8 +1,9 @@
+================================================================================
 Principi
---------
+================================================================================
 
 Progettiamo Servizi, non interfacce
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+================================================================================
 
 Lo scopo primario dell’interfaccia di un servizio è quello di aiutare l’utente a raggiungere ciò che cerca in modo naturale ed immediato, in modo quasi **trasparente**. Per questo, la **coerenza** dei vari elementi che la compongono, anche su diversi dispositivi, è un elemento fondante per la creazione di prodotti funzionali e semplici da usare.
 
@@ -13,7 +14,7 @@ In quest’ambito, il designer ha lo scopo di progettare interfacce che sappiano
 In questa parte delle linee guida ci concentriamo sugli elementi più classici della costruzione d’interfaccia, partendo da un prototipo grezzo fino ad arrivare ad un sito o ad una app funzionante e pronta per essere usata da chiunque.
 
 Il modello di un’interfaccia
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------------------------------
 
 Il livello di dettaglio più basso viene definito attraverso la creazione di un modello (chiamato anche prototipo o, in inglese *wireframe*) dell’interfaccia utente, definendo una struttura di massima dell’esperienza utente durante il suo percorso nella ricerca ed utilizzo del servizio.
 
