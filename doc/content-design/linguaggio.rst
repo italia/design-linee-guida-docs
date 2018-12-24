@@ -229,11 +229,11 @@ pattern*).
    pagina presa in considerazione è necessario domandarsi di che tipo di 
    *content type* si tratti. In questo modo è possibile assicurarsi:
    
-   -  che tutti i *content type* uguali siano trattati in maniera                                                         
-      coerente all’interno del sito;                                                                                      
-                                                                                                                          
-   -  che le pagine rispondano effettivamente alla funzione narrativa                                                     
-      che dovrebbero assolvere.                                                                                           
+   - che tutti i *content type* uguali siano trattati in maniera     
+     coerente all’interno del sito;                                  
+                                                                     
+   - che le pagine rispondano effettivamente alla funzione narrativa 
+     che dovrebbero assolvere.                                       
 
 
 Scrivere e riscrivere
