@@ -1363,8 +1363,8 @@ dei Pdf.
    -  Accompagna ogni immagine con un testo alternativo (*alt text*).
 
    -  `Verifica l’accessibilità del documento
-       Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
-       pubblicarlo.
+      Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
+      pubblicarlo.
 
    -  Mantieni ridotte le dimensioni del file, dividendo, se necessario,
       i file troppo grossi in capitoli.
