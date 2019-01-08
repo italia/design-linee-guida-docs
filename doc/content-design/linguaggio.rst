@@ -1344,51 +1344,49 @@ dei Pdf.
    Oltre che essere accompagnati da una pagina Html di descrizione, i
    file dei documenti di testo allegati dovrebbero essere creati
    rispettando alcune buone pratiche.
-   
-   .. container: more
 
-      **Rendi il documento accessibile**
+   **Rendi il documento accessibile**
 
-      -  Il documento Pdf deve essere creato digitalmente, non deve essere
-         una scansione di un documento cartaceo.
+   -  Il documento Pdf deve essere creato digitalmente, non deve essere
+      una scansione di un documento cartaceo.
 
-      -  Quando scrivi il documento in un editor di testo, usa le opzioni
-         di titolo, sottotitolo e corpo del testo per creare una gerarchia
-         delle informazioni.
+   -  Quando scrivi il documento in un editor di testo, usa le opzioni
+      di titolo, sottotitolo e corpo del testo per creare una gerarchia
+      delle informazioni.
 
-      -  Inserisci all’inizio del documento un indice navigabile per
-         permettere a chi legge di raggiungere facilmente le varie sezioni.
+   -  Inserisci all’inizio del documento un indice navigabile per
+      permettere a chi legge di raggiungere facilmente le varie sezioni.
 
-      -  Usa le opzioni di elenco puntato e numerato, invece di indicare
-         gli elenchi con un trattino o un numero.
+   -  Usa le opzioni di elenco puntato e numerato, invece di indicare
+      gli elenchi con un trattino o un numero.
 
-      -  Accompagna ogni immagine con un testo alternativo (*alt text*).
+   -  Accompagna ogni immagine con un testo alternativo (*alt text*).
 
-      -  `Verifica l’accessibilità del documento
-         Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
-         pubblicarlo.
+   -  `Verifica l’accessibilità del documento
+       Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
+       pubblicarlo.
 
-      -  Mantieni ridotte le dimensioni del file, dividendo, se necessario,
-         i file troppo grossi in capitoli.
+   -  Mantieni ridotte le dimensioni del file, dividendo, se necessario,
+      i file troppo grossi in capitoli.
 
-      **Inserisci i metadati**
+   **Inserisci i metadati**
 
-      I metadati sono informazioni aggiuntive che vengono associate al
-      documento automaticamente in fase di creazione, oppure manualmente.
-      Aggiungi dei metadati al documento Pdf per aiutare gli utenti a
-      **trovare più facilmente il documento**.
+   I metadati sono informazioni aggiuntive che vengono associate al
+   documento automaticamente in fase di creazione, oppure manualmente.
+   Aggiungi dei metadati al documento Pdf per aiutare gli utenti a
+   **trovare più facilmente il documento**.
 
-      I principali metadati che possono essere associati a un documento
-      sono:
+   I principali metadati che possono essere associati a un documento
+   sono:
 
-      -  titolo;
+   -  titolo;
 
-      -  autore;
+   -  autore;
 
-      -  descrizione;
+   -  descrizione;
 
-      -  parole chiave.
+   -  parole chiave.
 
-      Naturalmente, più sono specifiche e dettagliate le informazioni che
-      fornisci, più il documento risulterà rilevante nelle ricerche degli
-      utenti.
+   Naturalmente, più sono specifiche e dettagliate le informazioni che
+   fornisci, più il documento risulterà rilevante nelle ricerche degli
+   utenti.
