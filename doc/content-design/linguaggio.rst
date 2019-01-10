@@ -38,9 +38,7 @@ Quando realizzi una pagina, come prima cosa definisci a cosa serve e in
 che modo risponde a un bisogno dei cittadini (o di specifiche categorie
 di cittadini). Per individuare chi sono i tuoi utenti e quali sono i
 loro bisogni, utilizza in modo appropriato tutti gli strumenti della
-`user
-research <../user-research.html>`__,
-come ad esempio:
+`user research <../user-research.html>`__, come ad esempio:
 
 -  sessioni partecipative con gli utenti (puoi usare `il kit per le User
    interviews <https://designers.italia.it/kit/user-interviews/>`__);
@@ -142,99 +140,101 @@ pattern*, che offrono linee guida ben precise relativamente alla
 struttura e organizzazione dei contenuti (*content type* e *content
 pattern*).
 
-+------------------------------------------------------------------------------------------------------------------------+
-| .. rubric:: Progettare i contenuti: content type e content pattern                                                     |
-|                                                                                                                        |
-| In un sistema complesso come quello della Pubblica Amministrazione, è                                                  |
-| utile identificare degli elementi (che possiamo definire “pattern”)                                                    |
-| in grado di offrire risposte standard a classi di bisogni simili. I                                                    |
-| pattern relativi ai contenuti possono essere di due tipi:                                                              |
-|                                                                                                                        |
-| -  stilistici e sintattici;                                                                                            |
-|                                                                                                                        |
-| -  pagine web.                                                                                                         |
-|                                                                                                                        |
-| Per approfondire le regole stilistiche e sintattiche, puoi consultare                                                  |
-| la `guida al linguaggio della Pubblica                                                                                 |
-| Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re                                                  |
-| adthedocs.io/it/latest/>`__                                                                                            |
-|                                                                                                                        |
-| Qui approfondiamo il tema della costruzione di pagine web che possano                                                  |
-| offrire una struttura standard per rispondere a specifici bisogni                                                      |
-| degli utenti. Spesso si fa riferimento a queste tipologie di pagine                                                    |
-| come “\ *content type*\ ”.                                                                                             |
-|                                                                                                                        |
-| In fase di progettazione, i contenuti di un sito web sono organizzati                                                  |
-| in diverse tipologie, o *content type*. Questa “classificazione”                                                       |
-| permette di inquadrare meglio la funzione narrativa di ogni tipo di                                                    |
-| contenuto, per strutturarlo in modo tale da renderlo il più efficace                                                   |
-| possibile.                                                                                                             |
-|                                                                                                                        |
-| **All’interno del design system di Designers Italia esiste un luogo                                                    |
-| in cui si sta progressivamente costruendo una libreria di content                                                      |
-| type: è il** `wireframe                                                                                                |
-| kit <https://designers.italia.it/kit/wireframe-kit/>`__.                                                               |
-|                                                                                                                        |
-| La diversa funzione che ha ogni *content type* è rilevante non solo                                                    |
-| per chi si occupa del design del sito, ma anche per chi si occupa di                                                   |
-| produrre contenuti, che deve tenere bene a mente lo scopo della                                                        |
-| pagina su cui andrà a pubblicare il suo contenuto.                                                                     |
-|                                                                                                                        |
-| Per esempio, è compito di chi scrive contenuti stabilire che in tutte                                                  |
-| **le pagine di lista** del sito potrebbe essere previsto un titolo,                                                    |
-| un sommario e un breve testo di introduzione, per spiegare in modo                                                     |
-| chiaro all’utente che tipo di informazioni, articoli o schede                                                          |
-| servizio sono elencate.                                                                                                |
-|                                                                                                                        |
-| Alcuni esempi dei più comuni *content type* in un sito sono:                                                           |
-|                                                                                                                        |
-| -  **Search**: la funzione principale di un motore di ricerca è                                                        |
-|    permettere all’utente di trovare all’interno del sito o di una                                                      |
-|    sezione le informazioni che sta cercando tramite parole chiave.                                                     |
-|                                                                                                                        |
-| -  **Scheda servizio**: la funzione principale è descrivere                                                            |
-|    all’utente un servizio, spiegandogli di cosa si tratta, chi ne ha                                                   |
-|    diritto, come fruirne.                                                                                              |
-|                                                                                                                        |
-| -  **Liste**: le pagine di lista permettono all’utente di orientarsi                                                   |
-|    all’interno di alcune sezioni, organizzate per tag, per categoria,                                                  |
-|    per argomento.                                                                                                      |
-|                                                                                                                        |
-| -  **Homepage**: l’homepage ha in genere la funzione principale di                                                     |
-|    orientare l’utente all’interno dei contenuti del sito, per                                                          |
-|    permettergli di raggiungere rapidamente le informazioni che sta                                                     |
-|    cercando.                                                                                                           |
-|                                                                                                                        |
-| -  **Form e wizard**: questi *content type* accompagnano l’utente                                                      |
-|    nell’esecuzione di un’azione, compilando alcuni campi o                                                             |
-|    interagendo con elementi dell’interfaccia (etichette, bottoni).                                                     |
-|                                                                                                                        |
-| -  **Contenuti di servizio**: queste pagine hanno la funzione di                                                       |
-|    presentare informazioni (chi siamo, contatti, dicono di noi, ecc).                                                  |
-|                                                                                                                        |
-| -  **Carrello**: permette all’utente di portare facilmente a termine                                                   |
-|    un acquisto.                                                                                                        |
-|                                                                                                                        |
-| -  **Articoli**: in genere hanno la funzione di offrire all’utente                                                     |
-|    un’informazione precisa, in modo chiaro e sintetico.                                                                |
-|                                                                                                                        |
-| -  **Area personale**: la funzione tipica è quella di orientare                                                        |
-|    l’utente tra alcune funzioni riservate, come le preferenze, la                                                      |
-|    gestione delle notifiche, dei propri dati, ecc.                                                                     |
-|                                                                                                                        |
-| Anche nel `modello di analisi dei                                                                                      |
-| contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__ |
-| che abbiamo pubblicato all’interno del `Content                                                                        |
-| kit <https://designers.italia.it/kit/content-kit/>`__, per ogni                                                        |
-| pagina presa in considerazione è necessario domandarsi di che tipo di                                                  |
-| *content type* si tratti. In questo modo è possibile assicurarsi:                                                      |
-|                                                                                                                        |
-| -  che tutti i *content type* uguali siano trattati in maniera                                                         |
-|    coerente all’interno del sito;                                                                                      |
-|                                                                                                                        |
-| -  che le pagine rispondano effettivamente alla funzione narrativa                                                     |
-|    che dovrebbero assolvere.                                                                                           |
-+------------------------------------------------------------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **Progettare i contenuti: content type e content pattern**
+
+   In un sistema complesso come quello della Pubblica Amministrazione, è
+   utile identificare degli elementi (che possiamo definire “pattern”)
+   in grado di offrire risposte standard a classi di bisogni simili. I
+   pattern relativi ai contenuti possono essere di due tipi:
+
+   -  stilistici e sintattici;
+
+   -  pagine web.
+
+   Per approfondire le regole stilistiche e sintattiche, puoi consultare
+   la `guida al linguaggio della Pubblica
+   Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re
+   adthedocs.io/it/latest/>`__
+
+   Qui approfondiamo il tema della costruzione di pagine web che possano
+   offrire una struttura standard per rispondere a specifici bisogni
+   degli utenti. Spesso si fa riferimento a queste tipologie di pagine
+   come “\ *content type*\ ”.
+
+   In fase di progettazione, i contenuti di un sito web sono organizzati
+   in diverse tipologie, o *content type*. Questa “classificazione”
+   permette di inquadrare meglio la funzione narrativa di ogni tipo di
+   contenuto, per strutturarlo in modo tale da renderlo il più efficace
+   possibile.
+
+   **All’interno del design system di Designers Italia esiste un luogo
+   in cui si sta progressivamente costruendo una libreria di content
+   type: è il** `wireframe
+   kit <https://designers.italia.it/kit/wireframe-kit/>`__.
+
+   La diversa funzione che ha ogni *content type* è rilevante non solo
+   per chi si occupa del design del sito, ma anche per chi si occupa di
+   produrre contenuti, che deve tenere bene a mente lo scopo della
+   pagina su cui andrà a pubblicare il suo contenuto.
+
+   Per esempio, è compito di chi scrive contenuti stabilire che in tutte
+   **le pagine di lista** del sito potrebbe essere previsto un titolo,
+   un sommario e un breve testo di introduzione, per spiegare in modo
+   chiaro all’utente che tipo di informazioni, articoli o schede
+   servizio sono elencate.
+
+   Alcuni esempi dei più comuni *content type* in un sito sono:
+
+   - **Search**: la funzione principale di un motore di ricerca è
+     permettere all’utente di trovare all’interno del sito o di una
+     sezione le informazioni che sta cercando tramite parole chiave.
+
+   - **Scheda servizio**: la funzione principale è descrivere
+     all’utente un servizio, spiegandogli di cosa si tratta, chi ne ha
+     diritto, come fruirne.
+
+   - **Liste**: le pagine di lista permettono all’utente di orientarsi
+     all’interno di alcune sezioni, organizzate per tag, per categoria,
+     per argomento.
+
+   - **Homepage**: l’homepage ha in genere la funzione principale di
+     orientare l’utente all’interno dei contenuti del sito, per
+     permettergli di raggiungere rapidamente le informazioni che sta
+     cercando.
+
+   - **Form e wizard**: questi *content type* accompagnano l’utente
+     nell’esecuzione di un’azione, compilando alcuni campi o
+     interagendo con elementi dell’interfaccia (etichette, bottoni).
+
+   - **Contenuti di servizio**: queste pagine hanno la funzione di
+     presentare informazioni (chi siamo, contatti, dicono di noi, ecc).
+
+   - **Carrello**: permette all’utente di portare facilmente a termine
+     un acquisto.
+
+   - **Articoli**: in genere hanno la funzione di offrire all’utente
+     un’informazione precisa, in modo chiaro e sintetico.
+
+   - **Area personale**: la funzione tipica è quella di orientare
+     l’utente tra alcune funzioni riservate, come le preferenze, la
+     gestione delle notifiche, dei propri dati, ecc.
+
+   Anche nel `modello di analisi dei
+   contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__
+   che abbiamo pubblicato all’interno del `Content
+   kit <https://designers.italia.it/kit/content-kit/>`__, per ogni
+   pagina presa in considerazione è necessario domandarsi di che tipo di
+   *content type* si tratti. In questo modo è possibile assicurarsi:
+
+   - che tutti i *content type* uguali siano trattati in maniera
+     coerente all’interno del sito;
+
+   - che le pagine rispondano effettivamente alla funzione narrativa
+     che dovrebbero assolvere.
+
 
 Scrivere e riscrivere
 =====================
@@ -313,70 +313,71 @@ a queste domande:
 
 .. _section-1:
 
-+------------------------------------------------------------------------------------------------------------------------------+
-| .. rubric:: I testi come interfacce, il microcopy                                                                            |
-|                                                                                                                              |
-| Una *label* (o etichetta) è un breve testo o un’icona che indica un                                                          |
-| insieme di contenuti con tratti in comune: attraverso le label                                                               |
-| l’utente si orienta nell’ambiente facendosi un’idea                                                                          |
-| dell’organizzazione e del sistema di navigazione. Le label dovrebbero                                                        |
-| guidare gli utenti con chiarezza nei nuovi concetti e aiutarli a                                                             |
-| identificare quelli già familiari con facilità.                                                                              |
-|                                                                                                                              |
-| **Le label sono un sistema** che guadagna solidità dalla coerenza dei                                                        |
-| suoi elementi: per questo non si progettano singole label, ma sistemi                                                        |
-| di label. Nel progettare un *labeling system* è importante tenere                                                            |
-| conto:                                                                                                                       |
-|                                                                                                                              |
-| -  delle `buone pratiche su linguaggio e composizione dei                                                                    |
-|    contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura.html>`__; |
-|                                                                                                                              |
-| -  delle pratiche di organizzazione dei contenuti dal punto di vista                                                         |
-|    dell’`architettura dell’informazione <./architettura-dell-informazione.html>`_;                                           |
-|                                                                                                                              |
-| -  dell’ottimizzazione dei contenuti `in ottica SEO <./seo.html>`_.                                                          |
-|                                                                                                                              |
-| Lavorare sulla coerenza del sistema richiede grande attenzione:                                                              |
-| alcuni elementi possono influenzarne la solidità. Di seguito trovi                                                           |
-| una checklist per verificare l’uniformità di alcuni elementi che – se                                                        |
-| incoerenti – possono rischiare di rendere incoerente (e quindi                                                               |
-| ambiguo) il *labeling system*.                                                                                               |
-|                                                                                                                              |
-| -  **Stile e ortografia:** verifica, per esempio, l’uniformità delle                                                         |
-|    varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.                                                                           |
-|                                                                                                                              |
-| -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,                                                         |
-|    sfondi possono rinforzare la coerenza di un labeling system.                                                              |
-|                                                                                                                              |
-| -  **Sintassi:** evita di avere nello stesso sistema label a base                                                            |
-|    verbale (“Scarica il documento”), nominale (“Documenti                                                                    |
-|    scaricabili”) e domande (“Devi scaricare il documento?”). Scegli                                                          |
-|    un approccio sintattico e mantienilo.                                                                                     |
-|                                                                                                                              |
-| -  **Livello di granularità:** all’interno del sistema è meglio avere                                                        |
-|    label di pari livello di specificità. “Modulo per la richiesta di                                                         |
-|    cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa                                                          |
-|    area del sito e allo stesso livello, genererebbe confusione.                                                              |
-|                                                                                                                              |
-| -  **Completezza:** l’assenza evidente di una voce nel sistema di                                                            |
-|    etichette potrebbe confondere l’utente. Per esempio: la mancanza                                                          |
-|    della voce “Anagrafe” sul sito di un Comune potrebbe far pensare a                                                        |
-|    un errore e di conseguenza l’incertezza per l’utente nel capire                                                           |
-|    come muoversi nell’ambiente.                                                                                              |
-|                                                                                                                              |
-| -  **Utente di riferimento:** tieni sempre presenti i bisogni emersi                                                         |
-|    dalla ricerca sugli utenti, in modo che il sistema sia efficace e                                                         |
-|    meno ambiguo possibile.                                                                                                   |
-|                                                                                                                              |
-| La **ricerca sugli utenti** può fornire utili risposte per la                                                                |
-| progettazione del *labeling system*. I metodi diretti sono `il card                                                          |
-| sorting <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Card%20sorting.pdf>`__                                |
-| e il *free listing*; quelli indiretti – che forniscono dati                                                                  |
-| quantitativi più grezzi e da rielaborare – sono la ricerca interna ed                                                        |
-| esterna al sito, con strumenti come `web                                                                                     |
-| analytics <https://designers.italia.it/kit/analytics/>`__ e                                                                  |
-| `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.                                              |
-+------------------------------------------------------------------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **I testi come interfacce, il microcopy**
+
+   Una *label* (o etichetta) è un breve testo o un’icona che indica un
+   insieme di contenuti con tratti in comune: attraverso le label
+   l’utente si orienta nell’ambiente facendosi un’idea
+   dell’organizzazione e del sistema di navigazione. Le label dovrebbero
+   guidare gli utenti con chiarezza nei nuovi concetti e aiutarli a
+   identificare quelli già familiari con facilità.
+
+   **Le label sono un sistema** che guadagna solidità dalla coerenza dei
+   suoi elementi: per questo non si progettano singole label, ma sistemi
+   di label. Nel progettare un *labeling system* è importante tenere
+   conto:
+
+   -  delle `buone pratiche su linguaggio e composizione dei
+      contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura.html>`__;
+
+   -  delle pratiche di organizzazione dei contenuti dal punto di vista
+      dell’`architettura dell’informazione <./architettura-dell-informazione.html>`_;
+
+   -  dell’ottimizzazione dei contenuti `in ottica SEO <./seo.html>`_.
+
+   Lavorare sulla coerenza del sistema richiede grande attenzione:
+   alcuni elementi possono influenzarne la solidità. Di seguito trovi
+   una checklist per verificare l’uniformità di alcuni elementi che – se
+   incoerenti – possono rischiare di rendere incoerente (e quindi
+   ambiguo) il *labeling system*.
+
+   -  **Stile e ortografia:** verifica, per esempio, l’uniformità delle
+      varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.
+
+   -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,
+      sfondi possono rinforzare la coerenza di un labeling system.
+
+   -  **Sintassi:** evita di avere nello stesso sistema label a base
+      verbale (“Scarica il documento”), nominale (“Documenti
+      scaricabili”) e domande (“Devi scaricare il documento?”). Scegli
+      un approccio sintattico e mantienilo.
+
+   -  **Livello di granularità:** all’interno del sistema è meglio avere
+      label di pari livello di specificità. “Modulo per la richiesta di
+      cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa
+      area del sito e allo stesso livello, genererebbe confusione.
+
+   -  **Completezza:** l’assenza evidente di una voce nel sistema di
+      etichette potrebbe confondere l’utente. Per esempio: la mancanza
+      della voce “Anagrafe” sul sito di un Comune potrebbe far pensare a
+      un errore e di conseguenza l’incertezza per l’utente nel capire
+      come muoversi nell’ambiente.
+
+   -  **Utente di riferimento:** tieni sempre presenti i bisogni emersi
+      dalla ricerca sugli utenti, in modo che il sistema sia efficace e
+      meno ambiguo possibile.
+
+   La **ricerca sugli utenti** può fornire utili risposte per la
+   progettazione del *labeling system*. I metodi diretti sono `il card
+   sorting <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Card%20sorting.pdf>`__
+   e il *free listing*; quelli indiretti – che forniscono dati
+   quantitativi più grezzi e da rielaborare – sono la ricerca interna ed
+   esterna al sito, con strumenti come `web
+   analytics <https://designers.italia.it/kit/analytics/>`__ e
+   `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.
 
 .. _section-2:
 
@@ -432,36 +433,39 @@ Se il tuo focus è fare in modo che il tuo servizio sia più facile da
 trovare attraverso i motori di ricerca (Google) nel kit dedicato alla
 SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
 
-+---------------------------------------------------------------------------------------------------------------+
-| .. rubric:: Strumenti di editing collaborativo                                                                |
-|                                                                                                               |
-| Gli strumenti di editing collaborativo ti permettono di creare nuovi                                          |
-| contenuti o di fare dei processi di revisione di contenuti già                                                |
-| esistenti con **altri membri del tuo team**. In questo modo puoi                                              |
-| avere più punti di vista sui contenuti, per verificare la chiarezza e                                         |
-| l’efficacia delle informazioni e ottenere il miglior risultato                                                |
-| possibile.                                                                                                    |
-|                                                                                                               |
-| All’interno del `Content                                                                                      |
-| kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un                                         |
-| esercizio di `editing collaborativo “Prima e                                                                  |
-| dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ” |
-| che ti mostra in che modo utilizzare:                                                                         |
-|                                                                                                               |
-| -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e                                         |
-|    `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di                                           |
-|    fare una revisione dei contenuti direttamente nel loro contesto                                            |
-|    d’uso, online (nel caso di contenuti già pubblicati) oppure in un                                          |
-|    prototipo (nel caso di nuovi contenuti). Questo approccio è                                                |
-|    particolarmente utile per analizzare e migliorare label, voci di                                           |
-|    menu e testi che accompagnanano le interfacce grafiche attraverso                                          |
-|    cui si fruisce un servizio                                                                                 |
-|                                                                                                               |
-| -  degli strumenti di scrittura collaborativa come `Google                                                    |
-|    Docs <https://docs.google.com/document/u/0/>`__, che ti permettono                                         |
-|    di fare interventi condivisi sulle parti testuali del tuo                                                  |
-|    contenuto.                                                                                                 |
-+---------------------------------------------------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **Strumenti di editing collaborativo**
+
+   Gli strumenti di editing collaborativo ti permettono di creare nuovi
+   contenuti o di fare dei processi di revisione di contenuti già
+   esistenti con **altri membri del tuo team**. In questo modo puoi
+   avere più punti di vista sui contenuti, per verificare la chiarezza e
+   l’efficacia delle informazioni e ottenere il miglior risultato
+   possibile.
+
+   .. container:: more
+
+      All’interno del `Content
+      kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+      esercizio di `editing collaborativo “Prima e
+      dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ”
+      che ti mostra in che modo utilizzare:
+
+      -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e
+         `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di
+         fare una revisione dei contenuti direttamente nel loro contesto
+         d’uso, online (nel caso di contenuti già pubblicati) oppure in un
+         prototipo (nel caso di nuovi contenuti). Questo approccio è
+         particolarmente utile per analizzare e migliorare label, voci di
+         menu e testi che accompagnanano le interfacce grafiche attraverso
+         cui si fruisce un servizio
+
+      -  degli strumenti di scrittura collaborativa come `Google
+         Docs <https://docs.google.com/document/u/0/>`__, che ti permettono
+         di fare interventi condivisi sulle parti testuali del tuo
+         contenuto.
 
 Gestire i contenuti
 ===================
@@ -510,108 +514,111 @@ contenuti o introdurre nuovi criteri di classificazione. Un caso
 specifico è il processo di migrazione dei contenuti da una
 infrastruttura tecnologica all’altra
 
-+-----------------------------------------------------------------------+
-| .. rubric:: Gestire un processo di migrazione dei contenuti           |
-|                                                                       |
-| La migrazione dei contenuti di un sito web è un’operazione che spesso |
-| prevede:                                                              |
-|                                                                       |
-| -  cambiamento della tecnologia                                       |
-|                                                                       |
-| -  riclassificazione dei contenuti                                    |
-|                                                                       |
-| -  cambio di dominio                                                  |
-|                                                                       |
-| Obiettivi:                                                            |
-|                                                                       |
-| -  **gestire correttamente i contenuti esistenti** e non perderli nel |
-|    passaggio al nuovo sito;                                           |
-|                                                                       |
-| -  evitare che gli utenti trovino online dei **link non               |
-|    funzionanti**;                                                     |
-|                                                                       |
-| -  mantenere tutti i contenuti **ben indicizzati** e quindi           |
-|    facilmente reperibili.                                             |
-|                                                                       |
-| In vista di una migrazione, bisogna fare un inventario dei contenuti  |
-| e lavorare alla riclassificazione delle singole pagine, se necessaria |
-| (content type e tag corrispondenti a ciascuna pagina. A volte la      |
-| migrazione può richiedere la riscrittura di alcune pagine del sito    |
-| (per esempio scrivere una descrizione prima non prevista) o la        |
-| creazione dei contenuti di nuove pagine che non esistevano nel        |
-| precedente sito. Questo processo può richiedere tempo, ma è           |
-| funzionale alla migrazione automatica dei contenuti da un vecchio a   |
-| un nuovo sito. Un altro aspetto di grande impatto è la gestione in    |
-| ottica SEO                                                            |
-|                                                                       |
-| .. rubric:: **La gestione SEO di una migrazione**                     |
-|                                                                       |
-| Le attività da fare per gestire una corretta migrazione riguardano    |
-| **la** **corretta gestione SEO**, con strumenti come `il modello per  |
-| l’ottimizzazione                                                      |
-| SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl |
-| X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__                              |
-| del `SEO kit <https://designers.italia.it/kit/SEO/>`__ o la `Search   |
-| Console di Google <https://search.google.com/search-console>`__.      |
-|                                                                       |
-| Durante un processo di migrazione, oltre ai contenuti è necessario    |
-| **mappare tutti i link** (puoi usare `il modello per l’ottimizzazione |
-| SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl |
-| X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__                              |
-| che abbiamo pubblicato nel `SEO                                       |
-| kit <https://designers.italia.it/kit/SEO/>`__ per farlo). Quando fai  |
-| una migrazione, devi mappare anche **i link delle foto, dei documenti |
-| o di altri oggetti multimediali**, che potrebbero essere linkati o    |
-| indicizzati autonomamente.                                            |
-|                                                                       |
-| Prima della migrazione del tuo sito, utilizza la `Search Console di   |
-| Google <https://search.google.com/search-console>`__ per ottenere     |
-| degli elenchi di:                                                     |
-|                                                                       |
-| -  **tutte le pagine e gli oggetti multimediali** che appaiono nei    |
-|    risultati di ricerca;                                              |
-|                                                                       |
-| -  **i backlink** che puntano al tuo vecchio sito.                    |
-|                                                                       |
-| La mappatura di tutti i link del vecchio sito ti permette di creare   |
-| dei *redirect*, dai vecchi url ai nuovi, facendo attenzione che:      |
-|                                                                       |
-| -  il redirect di ogni contenuto rimandi allo stesso contenuto nel    |
-|    nuovo sito (e non ad esempio alla homepage);                       |
-|                                                                       |
-| -  se non ci sono contenuti corrispondenti, il *redirect* rimandi in  |
-|    ogni caso ad un contenuto analogo, che risponde allo stesso scopo  |
-|    informativo.                                                       |
-|                                                                       |
-| Ricorda di tenere online il vecchio dominio (e il vecchio server) per |
-| più tempo possibile, per garantire il corretto funzionamento dei      |
-| *redirect*.                                                           |
-|                                                                       |
-| Una volta online il nuovo sito, monitora attentamente:                |
-|                                                                       |
-| -  il traffico, attraverso `strumenti di                              |
-|    analytics <https://designers.italia.it/kit/analytics/>`__, per     |
-|    vedere se ci sono criticità sulle quali intervenire (ad esempio un |
-|    calo rilevante di traffico su un determinato contenuto);           |
-|                                                                       |
-| -  l’indicizzazione con la `Search Console di                         |
-|    Google <https://search.google.com/search-console>`__, per          |
-|    verificare se il sito ha perso traffico in relazione ad **alcune   |
-|    parole chiavi strategiche** o molto utilizzate nella precedente    |
-|    versione.                                                          |
-|                                                                       |
-| **Per approfondire:**                                                 |
-|                                                                       |
-| `Checklist per il                                                     |
-| SEO <https://trello.com/b/CPIl9SxJ/seokitdesigners-italia>`__         |
-|                                                                       |
-| `Modello per l’ottimizzazione                                         |
-| SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl |
-| X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__                              |
-|                                                                       |
-| `Linee guida per i servizi digitali della Pubblica                    |
-| Amministrazione <./seo.html#migrazione-seo-di-un-sito>`__             |
-+-----------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **Gestire un processo di migrazione dei contenuti**
+
+   La migrazione dei contenuti di un sito web è un’operazione che spesso
+   prevede:
+
+   -  cambiamento della tecnologia
+
+   -  riclassificazione dei contenuti
+
+   -  cambio di dominio
+
+   Obiettivi:
+
+   -  **gestire correttamente i contenuti esistenti** e non perderli nel
+      passaggio al nuovo sito;
+
+   -  evitare che gli utenti trovino online dei **link non
+      funzionanti**;
+
+   -  mantenere tutti i contenuti **ben indicizzati** e quindi
+      facilmente reperibili.
+
+   .. container:: more 
+
+      In vista di una migrazione, bisogna fare un inventario dei contenuti
+      e lavorare alla riclassificazione delle singole pagine, se necessaria
+      (content type e tag corrispondenti a ciascuna pagina. A volte la
+      migrazione può richiedere la riscrittura di alcune pagine del sito
+      (per esempio scrivere una descrizione prima non prevista) o la
+      creazione dei contenuti di nuove pagine che non esistevano nel
+      precedente sito. Questo processo può richiedere tempo, ma è
+      funzionale alla migrazione automatica dei contenuti da un vecchio a
+      un nuovo sito. Un altro aspetto di grande impatto è la gestione in
+      ottica SEO
+
+      **La gestione SEO di una migrazione**
+
+      Le attività da fare per gestire una corretta migrazione riguardano
+      **la** **corretta gestione SEO**, con strumenti come `il modello per
+      l’ottimizzazione
+      SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
+      X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+      del `SEO kit <https://designers.italia.it/kit/SEO/>`__ o la `Search
+      Console di Google <https://search.google.com/search-console>`__.
+
+      Durante un processo di migrazione, oltre ai contenuti è necessario
+      **mappare tutti i link** (puoi usare `il modello per l’ottimizzazione
+      SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
+      X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+      che abbiamo pubblicato nel `SEO
+      kit <https://designers.italia.it/kit/SEO/>`__ per farlo). Quando fai
+      una migrazione, devi mappare anche **i link delle foto, dei documenti
+      o di altri oggetti multimediali**, che potrebbero essere linkati o
+      indicizzati autonomamente.
+
+      Prima della migrazione del tuo sito, utilizza la `Search Console di
+      Google <https://search.google.com/search-console>`__ per ottenere
+      degli elenchi di:
+
+      -  **tutte le pagine e gli oggetti multimediali** che appaiono nei
+         risultati di ricerca;
+
+      -  **i backlink** che puntano al tuo vecchio sito.
+
+      La mappatura di tutti i link del vecchio sito ti permette di creare
+      dei *redirect*, dai vecchi url ai nuovi, facendo attenzione che:
+
+      -  il redirect di ogni contenuto rimandi allo stesso contenuto nel
+         nuovo sito (e non ad esempio alla homepage);
+
+      -  se non ci sono contenuti corrispondenti, il *redirect* rimandi in
+         ogni caso ad un contenuto analogo, che risponde allo stesso scopo
+         informativo.
+
+      Ricorda di tenere online il vecchio dominio (e il vecchio server) per
+      più tempo possibile, per garantire il corretto funzionamento dei
+      *redirect*.
+
+      Una volta online il nuovo sito, monitora attentamente:
+
+      -  il traffico, attraverso `strumenti di
+         analytics <https://designers.italia.it/kit/analytics/>`__, per
+         vedere se ci sono criticità sulle quali intervenire (ad esempio un
+         calo rilevante di traffico su un determinato contenuto);
+
+      -  l’indicizzazione con la `Search Console di
+         Google <https://search.google.com/search-console>`__, per
+         verificare se il sito ha perso traffico in relazione ad **alcune
+         parole chiavi strategiche** o molto utilizzate nella precedente
+         versione.
+
+      **Per approfondire:**
+
+      `Checklist per il
+      SEO <https://trello.com/b/CPIl9SxJ/seokitdesigners-italia>`__
+
+      `Modello per l’ottimizzazione
+      SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
+      X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+
+      `Linee guida per i servizi digitali della Pubblica
+      Amministrazione <./seo.html#migrazione-seo-di-un-sito>`__
 
 Analizzare i contenuti
 ----------------------
@@ -719,52 +726,51 @@ contenuti, in modo da governare i processi di aggiornamento,
 classificazione e riclassificazione dei contenuti, e seguire le regole
 per una buona indicizzazione dei contenuti sui motori di ricerca.
 
-+-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
-|                                                                       |
-| Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito |
-| in fase di design (o redesign) del sito, per creare un sistema        |
-| coerente e funzionale. Ad esempio:                                    |
-|                                                                       |
-| -  **Gli articoli**: sono generalmente utilizzati per produrre news o |
-|    blog post, precisando la data di pubblicazione e in alcuni casi    |
-|    l’autore. Essendo spesso organizzati attraverso delle categorie,   |
-|    possono essere adatti anche per la pubblicazione e la gestione di  |
-|    schede servizio. Anche quando il CMS non lo prevede, è bene        |
-|    prevedere un sommario oltre al titolo, che spieghi il contenuto    |
-|    della pagina, mentre è sempre necessario curare i metadati per     |
-|    l’indicizzazione;                                                  |
-|                                                                       |
-| -  **Le pagine**: strumenti più versatili, possono contenere          |
-|    informazioni testuali, gallery, liste, wizard e form, e quindi     |
-|    sono adatte a qualsiasi tipo di *content type*. Per ogni pagina    |
-|    valuta con attenzione il titolo, che deve essere pertinente,       |
-|    indicizzato e può divenire un bottone di navigazione. In base      |
-|    all’utilizzo delle pagine per i content type, definisci quando     |
-|    prevedere anche un sommario e/o un testo introduttivo, per         |
-|    indicare all’utente che contenuti trova nella pagina.              |
-|                                                                       |
-| -  I **tag** e le **categorie**: sono due “modi” per catalogare e     |
-|    correlare i contenuti all’interno dei CMS. È opportuno pianificare |
-|    in un file condiviso **quali tag** e **quali categorie**           |
-|    utilizzare, in base alle scelte di correlazione dei contenuti      |
-|    all’interno del sito. Pianifica in che modo le categorie e i tag   |
-|    saranno utilizzati dagli utenti durante la navigazione (potrai     |
-|    mostrare contenuti correlati, oppure creare dei menu partendo      |
-|    dalle categorie, ecc.).                                            |
-|                                                                       |
-| -  I **menu**: quando crei un menu con un CMS, ricorda che tutte le   |
-|    voci sono di fatto delle etichette di navigazione che vanno        |
-|    trattate coerentemente alla strategia adottata per il *labeling    |
-|    system*.                                                           |
-|                                                                       |
-| -  I **widget** sono oggetti molto versatili, da utilizzare           |
-|    all’interno delle pagine o di altre parti del sito (footer,        |
-|    sidebar) per inserire elementi come contenuti multimediali,        |
-|    widget, form, ecc. Anche nel gestire i widget ricorda di           |
-|    rispettare la corretta gestione delle etichette di navigazione,    |
-|    del microcopy, dei metadati, dei tag e delle categorie.            |
-+-----------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito
+   in fase di design (o redesign) del sito, per creare un sistema
+   coerente e funzionale. Ad esempio:
+
+   -  **Gli articoli**: sono generalmente utilizzati per produrre news o
+      blog post, precisando la data di pubblicazione e in alcuni casi
+      l’autore. Essendo spesso organizzati attraverso delle categorie,
+      possono essere adatti anche per la pubblicazione e la gestione di
+      schede servizio. Anche quando il CMS non lo prevede, è bene
+      prevedere un sommario oltre al titolo, che spieghi il contenuto
+      della pagina, mentre è sempre necessario curare i metadati per
+      l’indicizzazione;
+
+   -  **Le pagine**: strumenti più versatili, possono contenere
+      informazioni testuali, gallery, liste, wizard e form, e quindi
+      sono adatte a qualsiasi tipo di *content type*. Per ogni pagina
+      valuta con attenzione il titolo, che deve essere pertinente,
+      indicizzato e può divenire un bottone di navigazione. In base
+      all’utilizzo delle pagine per i content type, definisci quando
+      prevedere anche un sommario e/o un testo introduttivo, per
+      indicare all’utente che contenuti trova nella pagina.
+
+   -  I **tag** e le **categorie**: sono due “modi” per catalogare e
+      correlare i contenuti all’interno dei CMS. È opportuno pianificare
+      in un file condiviso **quali tag** e **quali categorie**
+      utilizzare, in base alle scelte di correlazione dei contenuti
+      all’interno del sito. Pianifica in che modo le categorie e i tag
+      saranno utilizzati dagli utenti durante la navigazione (potrai
+      mostrare contenuti correlati, oppure creare dei menu partendo
+      dalle categorie, ecc.).
+
+   -  I **menu**: quando crei un menu con un CMS, ricorda che tutte le
+      voci sono di fatto delle etichette di navigazione che vanno
+      trattate coerentemente alla strategia adottata per il *labeling
+      system*.
+
+   -  I **widget** sono oggetti molto versatili, da utilizzare
+      all’interno delle pagine o di altre parti del sito (footer,
+      sidebar) per inserire elementi come contenuti multimediali,
+      widget, form, ecc. Anche nel gestire i widget ricorda di
+      rispettare la corretta gestione delle etichette di navigazione,
+      del microcopy, dei metadati, dei tag e delle categorie.
 
 Gestire un sito multilingua
 ---------------------------
@@ -913,10 +919,10 @@ pubblico**, le licenze di utilizzo possono essere indicate scrivendo nel
 footer:
 
    “Tutti i contenuti presenti su questo sito web, salvo diversa
-   specifica, si intendono rilasciati con licenza* `Creative Commons
+   specifica, si intendono rilasciati con licenza `Creative Commons
    Attribution
    4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ . I testi
-   degli atti ufficiali sono, invece, in pubblico dominio* (`Creative
+   degli atti ufficiali sono, invece, in pubblico dominio (`Creative
    Commons
    Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__).”
 
@@ -992,40 +998,41 @@ licenza [indicare licenza Creative Commons]*
 rilasciata con Creative
 Commons? <http://www.creativecommons.it/faq#32>`__
 
-+-----------------------------------------------------------------------+
-| .. rubric:: **Archivi di contenuti multimediali online**              |
-|                                                                       |
-| Per quanto riguarda i contenuti multimediali, ovvero le immagini, i   |
-| video, e gli audio, è possibile utilizzare **archivi online con       |
-| licenze di utilizzo aperte**:                                         |
-|                                                                       |
-| -  Per le **immagini** alcuni archivi non richiedono alcuna           |
-|    attribuzione (es. `Unsplash <https://unsplash.com/>`__ e le        |
-|    relative informazioni sul `tipo di licenza                         |
-|    offerta <https://unsplash.com/license>`__). Tra le fonti di        |
-|    immagini con licenze aperte, segnaliamo `Google                    |
-|    Images <https://www.google.com/advanced_image_search>`__,          |
-|    `Flickr <https://www.flickr.com/>`__ e `Getty                      |
-|    Images <http://www.gettyimages.it/>`__ in cui usando la ricerca    |
-|    avanzata è possibile filtrare le ricerche in base alla licenza.    |
-|    `CC search <https://search.creativecommons.org/>`__, infine, è un  |
-|    motore di ricerca di immagini, con la possibilità di cercare solo  |
-|    contenuti Creative Commons.                                        |
-|                                                                       |
-| -  Sebbene sia meno frequente farne uso, esistono anche degli archivi |
-|    di **video** con licenze di utilizzo aperte. Su YouTube si possono |
-|    trovare video Creative Commons `utilizzando i                      |
-|    filtri <https://support.google.com/youtube/answer/111997>`__ del   |
-|    motore di ricerca.                                                 |
-|                                                                       |
-| -  Esistono diversi archivi di **audio e musica** utilizzabili con    |
-|    licenze Creative Commons (es. `Free Music                          |
-|    Archive <http://freemusicarchive.org/>`__,                         |
-|    `Jamendo <https://www.jamendo.com/search>`__,                      |
-|    `NoiseTrade <https://www.noisetrade.com>`__). Applicando i filtri  |
-|    Creative Commons, è possibile trovare una vasta scelta di brani    |
-|    anche su `SoundCloud <https://soundcloud.com/>`__.                 |
-+-----------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   **Archivi di contenuti multimediali online**
+
+   Per quanto riguarda i contenuti multimediali, ovvero le immagini, i
+   video, e gli audio, è possibile utilizzare **archivi online con
+   licenze di utilizzo aperte**:
+
+   -  Per le **immagini** alcuni archivi non richiedono alcuna
+      attribuzione (es. `Unsplash <https://unsplash.com/>`__ e le
+      relative informazioni sul `tipo di licenza
+      offerta <https://unsplash.com/license>`__). Tra le fonti di
+      immagini con licenze aperte, segnaliamo `Google
+      Images <https://www.google.com/advanced_image_search>`__,
+      `Flickr <https://www.flickr.com/>`__ e `Getty
+      Images <http://www.gettyimages.it/>`__ in cui usando la ricerca
+      avanzata è possibile filtrare le ricerche in base alla licenza.
+      `CC search <https://search.creativecommons.org/>`__, infine, è un
+      motore di ricerca di immagini, con la possibilità di cercare solo
+      contenuti Creative Commons.
+
+   -  Sebbene sia meno frequente farne uso, esistono anche degli archivi
+      di **video** con licenze di utilizzo aperte. Su YouTube si possono
+      trovare video Creative Commons `utilizzando i
+      filtri <https://support.google.com/youtube/answer/111997>`__ del
+      motore di ricerca.
+
+   -  Esistono diversi archivi di **audio e musica** utilizzabili con
+      licenze Creative Commons (es. `Free Music
+      Archive <http://freemusicarchive.org/>`__,
+      `Jamendo <https://www.jamendo.com/search>`__,
+      `NoiseTrade <https://www.noisetrade.com>`__). Applicando i filtri
+      Creative Commons, è possibile trovare una vasta scelta di brani
+      anche su `SoundCloud <https://soundcloud.com/>`__.
 
 Consenso dei soggetti ritratti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1235,23 +1242,23 @@ l’indicizzazione dei contenuti sul web.
    sempre creare una pagina web corrispondente al documento che riporti
    titolo e descrizione del contenuto.
 
-+---------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                         |
-|                                                                     |
-| Maggiori informazioni sui principali formati documentali.           |
-|                                                                     |
-| -  Pagine web in `formato                                           |
-|    Html <https://it.wikipedia.org/wiki/HTML>`__.                    |
-|                                                                     |
-| -  Documenti in `formato                                            |
-|    Pdf <https://it.wikipedia.org/wiki/Portable_Document_Format>`__. |
-|                                                                     |
-| -  File di testo in `formato                                        |
-|    Odt <https://it.wikipedia.org/wiki/OpenDocument>`__.             |
-|                                                                     |
-| -  Fogli di calcolo in `formato                                     |
-|    Ods <https://it.wikipedia.org/wiki/OpenDocument>`__.             |
-+---------------------------------------------------------------------+
+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
+
+   Maggiori informazioni sui principali formati documentali.
+
+   -  Pagine web in `formato
+      Html <https://it.wikipedia.org/wiki/HTML>`__.
+
+   -  Documenti in `formato
+      Pdf <https://it.wikipedia.org/wiki/Portable_Document_Format>`__.
+
+   -  File di testo in `formato
+      Odt <https://it.wikipedia.org/wiki/OpenDocument>`__.
+
+   -  Fogli di calcolo in `formato
+      Ods <https://it.wikipedia.org/wiki/OpenDocument>`__.
 
 Modalità di produzione dei documenti
 -------------------------------------
@@ -1271,8 +1278,8 @@ documenti della PA vengono pubblicati sul web, anche la modalità di
 creazione dei contenuti deve tener conto di questo fatto. Come abbiamo
 visto in precedenza, esistono essenzialmente due strade.
 
-1. Creazione di un contenuto in formato Html in modo nativo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Creazione di un contenuto in formato Html in modo nativo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con questo approccio, è possibile per esempio:
 
@@ -1286,46 +1293,45 @@ Questa strada è quella consigliata a tutti i livelli. Di seguito trovi
 l’approccio seguito dal progetto Docs Italia che, in modo coerente
 rispetto a questa impostazione, rappresenta una piattaforma a
 disposizione di tutte le amministrazioni per creare documenti e gestire
-i processi di consultazione come previsto dal CAD, art. 18
+i processi di consultazione come previsto dal CAD, art. 18.
 
-+-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
-|                                                                       |
-| La piattaforma di Docs Italia è a disposizione per le pubbliche       |
-| amministrazioni che intendono pubblicare documenti tecnici e          |
-| amministrativi sul web, in un formato Html *responsive* adatto per    |
-| essere visualizzato su qualsiasi dispositivo.                         |
-|                                                                       |
-| Il documento viene presentato in maniera nativa come pagina Html, ma  |
-| in ogni momento è possibile scaricare una versione Pdf o ePub. Il     |
-| contenuto, infatti, viene scritto su file di testo che vengono        |
-| compilati e trasformati in pagina web, proprio come avviene con molti |
-| sistemi di gestione dei contenuti.                                    |
-|                                                                       |
-| È un progetto che si basa sull’approccio alla creazione della         |
-| documentazione chiamato *docs as code*, ovvero “documenti come        |
-| codice”.                                                              |
-|                                                                       |
-| **Per approfondire:** `L’approccio docs as code di Gov.uk (in         |
-| inglese) <https://gds.blog.gov.uk/2017/01/12/growing-technical-writin |
-| g-across-government/>`__                                              |
-|                                                                       |
-| Tutto il codice sorgente dei documenti di Docs Italia è ospitato su   |
-| repository pubblici di GitHub, ai quali chiunque può contribuire con  |
-| suggerimenti e modifiche. L’uso di un sistema di controllo delle      |
-| versioni consente, inoltre, di **memorizzare tutte le precedenti      |
-| versioni di un documento** e di ripristinarle in qualsiasi momento,   |
-| se necessario.                                                        |
-|                                                                       |
-| **Per approfondire:** `Breve descrizione di Docs                      |
-| Italia <https://docs.developers.italia.it/che-cos-e-docs-italia/>`__  |
-| e `Guida alla                                                         |
-| pubblicazione <http://guida-docs-italia.readthedocs.io/it/latest/>`__ |
-| .                                                                     |
-+-----------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
 
-2. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   La piattaforma di Docs Italia è a disposizione per le pubbliche
+   amministrazioni che intendono pubblicare documenti tecnici e
+   amministrativi sul web, in un formato Html *responsive* adatto per
+   essere visualizzato su qualsiasi dispositivo.
+
+   Il documento viene presentato in maniera nativa come pagina Html, ma
+   in ogni momento è possibile scaricare una versione Pdf o ePub. Il
+   contenuto, infatti, viene scritto su file di testo che vengono
+   compilati e trasformati in pagina web, proprio come avviene con molti
+   sistemi di gestione dei contenuti.
+
+   È un progetto che si basa sull’approccio alla creazione della
+   documentazione chiamato *docs as code*, ovvero “documenti come
+   codice”.
+
+   **Per approfondire:** `L’approccio docs as code di Gov.uk (in
+   inglese) <https://gds.blog.gov.uk/2017/01/12/growing-technical-writin
+   g-across-government/>`__
+
+   Tutto il codice sorgente dei documenti di Docs Italia è ospitato su
+   repository pubblici di GitHub, ai quali chiunque può contribuire con
+   suggerimenti e modifiche. L’uso di un sistema di controllo delle
+   versioni consente, inoltre, di **memorizzare tutte le precedenti
+   versioni di un documento** e di ripristinarle in qualsiasi momento,
+   se necessario.
+
+   **Per approfondire:** `Breve descrizione di Docs
+   Italia <https://docs.developers.italia.it/che-cos-e-docs-italia/>`__
+   e `Guida alla
+   pubblicazione <http://guida-docs-italia.readthedocs.io/it/latest/>`__.
+
+
+Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questo caso, è necessario `accompagnare sempre i documenti con una
 pagina
@@ -1336,57 +1342,57 @@ favorire la fruibilità e l’indicizzazione del contenuto.
 Di seguito trovi un approfondimento sulle buone pratiche per la gestione
 dei Pdf.
 
-+-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
-|                                                                       |
-| Oltre che essere accompagnati da una pagina Html di descrizione, i    |
-| file dei documenti di testo allegati dovrebbero essere creati         |
-| rispettando alcune buone pratiche.                                    |
-|                                                                       |
-| **Rendi il documento accessibile**                                    |
-|                                                                       |
-| -  Il documento Pdf deve essere creato digitalmente, non deve essere  |
-|    una scansione di un documento cartaceo.                            |
-|                                                                       |
-| -  Quando scrivi il documento in un editor di testo, usa le opzioni   |
-|    di titolo, sottotitolo e corpo del testo per creare una gerarchia  |
-|    delle informazioni.                                                |
-|                                                                       |
-| -  Inserisci all’inizio del documento un indice navigabile per        |
-|    permettere a chi legge di raggiungere facilmente le varie sezioni. |
-|                                                                       |
-| -  Usa le opzioni di elenco puntato e numerato, invece di indicare    |
-|    gli elenchi con un trattino o un numero.                           |
-|                                                                       |
-| -  Accompagna ogni immagine con un testo alternativo (*alt text*).    |
-|                                                                       |
-| -  `Verifica l’accessibilità del documento                            |
-|    Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di             |
-|    pubblicarlo.                                                       |
-|                                                                       |
-| -  Mantieni ridotte le dimensioni del file, dividendo, se necessario, |
-|    i file troppo grossi in capitoli.                                  |
-|                                                                       |
-| **Inserisci i metadati**                                              |
-|                                                                       |
-| I metadati sono informazioni aggiuntive che vengono associate al      |
-| documento automaticamente in fase di creazione, oppure manualmente.   |
-| Aggiungi dei metadati al documento Pdf per aiutare gli utenti a       |
-| **trovare più facilmente il documento**.                              |
-|                                                                       |
-| I principali metadati che possono essere associati a un documento     |
-| sono:                                                                 |
-|                                                                       |
-| -  titolo;                                                            |
-|                                                                       |
-| -  autore;                                                            |
-|                                                                       |
-| -  descrizione;                                                       |
-|                                                                       |
-| -  parole chiave.                                                     |
-|                                                                       |
-| Naturalmente, più sono specifiche e dettagliate le informazioni che   |
-| fornisci, più il documento risulterà rilevante nelle ricerche degli   |
-| utenti.                                                               |
-+-----------------------------------------------------------------------+
+.. admonition:: deepening
+   :class: admonition-deepening display-page
 
+   Oltre che essere accompagnati da una pagina Html di descrizione, i
+   file dei documenti di testo allegati dovrebbero essere creati
+   rispettando alcune buone pratiche.
+
+   .. container:: more
+
+      **Rendi il documento accessibile**
+
+      -  Il documento Pdf deve essere creato digitalmente, non deve essere
+         una scansione di un documento cartaceo.
+
+      -  Quando scrivi il documento in un editor di testo, usa le opzioni
+         di titolo, sottotitolo e corpo del testo per creare una gerarchia
+         delle informazioni.
+
+      -  Inserisci all’inizio del documento un indice navigabile per
+         permettere a chi legge di raggiungere facilmente le varie sezioni.
+
+      -  Usa le opzioni di elenco puntato e numerato, invece di indicare
+         gli elenchi con un trattino o un numero.
+
+      -  Accompagna ogni immagine con un testo alternativo (*alt text*).
+
+      -  `Verifica l’accessibilità del documento
+         Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
+         pubblicarlo.
+
+      -  Mantieni ridotte le dimensioni del file, dividendo, se necessario,
+         i file troppo grossi in capitoli.
+
+      **Inserisci i metadati**
+
+      I metadati sono informazioni aggiuntive che vengono associate al
+      documento automaticamente in fase di creazione, oppure manualmente.
+      Aggiungi dei metadati al documento Pdf per aiutare gli utenti a
+      **trovare più facilmente il documento**.
+
+      I principali metadati che possono essere associati a un documento
+      sono:
+
+      -  titolo;
+
+      -  autore;
+
+      -  descrizione;
+
+      -  parole chiave.
+
+      Naturalmente, più sono specifiche e dettagliate le informazioni che
+      fornisci, più il documento risulterà rilevante nelle ricerche degli
+      utenti.
