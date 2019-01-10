@@ -445,25 +445,27 @@ SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SE
    l’efficacia delle informazioni e ottenere il miglior risultato
    possibile.
 
-   All’interno del `Content
-   kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
-   esercizio di `editing collaborativo “Prima e
-   dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ”
-   che ti mostra in che modo utilizzare:
+   .. container:: more
 
-   -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e
-      `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di
-      fare una revisione dei contenuti direttamente nel loro contesto
-      d’uso, online (nel caso di contenuti già pubblicati) oppure in un
-      prototipo (nel caso di nuovi contenuti). Questo approccio è
-      particolarmente utile per analizzare e migliorare label, voci di
-      menu e testi che accompagnanano le interfacce grafiche attraverso
-      cui si fruisce un servizio
+      All’interno del `Content
+      kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+      esercizio di `editing collaborativo “Prima e
+      dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ”
+      che ti mostra in che modo utilizzare:
 
-   -  degli strumenti di scrittura collaborativa come `Google
-      Docs <https://docs.google.com/document/u/0/>`__, che ti permettono
-      di fare interventi condivisi sulle parti testuali del tuo
-      contenuto.
+      -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e
+         `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di
+         fare una revisione dei contenuti direttamente nel loro contesto
+         d’uso, online (nel caso di contenuti già pubblicati) oppure in un
+         prototipo (nel caso di nuovi contenuti). Questo approccio è
+         particolarmente utile per analizzare e migliorare label, voci di
+         menu e testi che accompagnanano le interfacce grafiche attraverso
+         cui si fruisce un servizio
+
+      -  degli strumenti di scrittura collaborativa come `Google
+         Docs <https://docs.google.com/document/u/0/>`__, che ti permettono
+         di fare interventi condivisi sulle parti testuali del tuo
+         contenuto.
 
 Gestire i contenuti
 ===================
@@ -537,84 +539,86 @@ infrastruttura tecnologica all’altra
    -  mantenere tutti i contenuti **ben indicizzati** e quindi
       facilmente reperibili.
 
-   In vista di una migrazione, bisogna fare un inventario dei contenuti
-   e lavorare alla riclassificazione delle singole pagine, se necessaria
-   (content type e tag corrispondenti a ciascuna pagina. A volte la
-   migrazione può richiedere la riscrittura di alcune pagine del sito
-   (per esempio scrivere una descrizione prima non prevista) o la
-   creazione dei contenuti di nuove pagine che non esistevano nel
-   precedente sito. Questo processo può richiedere tempo, ma è
-   funzionale alla migrazione automatica dei contenuti da un vecchio a
-   un nuovo sito. Un altro aspetto di grande impatto è la gestione in
-   ottica SEO
+   .. container:: more 
 
-   **La gestione SEO di una migrazione**
+      In vista di una migrazione, bisogna fare un inventario dei contenuti
+      e lavorare alla riclassificazione delle singole pagine, se necessaria
+      (content type e tag corrispondenti a ciascuna pagina. A volte la
+      migrazione può richiedere la riscrittura di alcune pagine del sito
+      (per esempio scrivere una descrizione prima non prevista) o la
+      creazione dei contenuti di nuove pagine che non esistevano nel
+      precedente sito. Questo processo può richiedere tempo, ma è
+      funzionale alla migrazione automatica dei contenuti da un vecchio a
+      un nuovo sito. Un altro aspetto di grande impatto è la gestione in
+      ottica SEO
 
-   Le attività da fare per gestire una corretta migrazione riguardano
-   **la** **corretta gestione SEO**, con strumenti come `il modello per
-   l’ottimizzazione
-   SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
-   X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
-   del `SEO kit <https://designers.italia.it/kit/SEO/>`__ o la `Search
-   Console di Google <https://search.google.com/search-console>`__.
+      **La gestione SEO di una migrazione**
 
-   Durante un processo di migrazione, oltre ai contenuti è necessario
-   **mappare tutti i link** (puoi usare `il modello per l’ottimizzazione
-   SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
-   X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
-   che abbiamo pubblicato nel `SEO
-   kit <https://designers.italia.it/kit/SEO/>`__ per farlo). Quando fai
-   una migrazione, devi mappare anche **i link delle foto, dei documenti
-   o di altri oggetti multimediali**, che potrebbero essere linkati o
-   indicizzati autonomamente.
+      Le attività da fare per gestire una corretta migrazione riguardano
+      **la** **corretta gestione SEO**, con strumenti come `il modello per
+      l’ottimizzazione
+      SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
+      X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+      del `SEO kit <https://designers.italia.it/kit/SEO/>`__ o la `Search
+      Console di Google <https://search.google.com/search-console>`__.
 
-   Prima della migrazione del tuo sito, utilizza la `Search Console di
-   Google <https://search.google.com/search-console>`__ per ottenere
-   degli elenchi di:
+      Durante un processo di migrazione, oltre ai contenuti è necessario
+      **mappare tutti i link** (puoi usare `il modello per l’ottimizzazione
+      SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
+      X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+      che abbiamo pubblicato nel `SEO
+      kit <https://designers.italia.it/kit/SEO/>`__ per farlo). Quando fai
+      una migrazione, devi mappare anche **i link delle foto, dei documenti
+      o di altri oggetti multimediali**, che potrebbero essere linkati o
+      indicizzati autonomamente.
 
-   -  **tutte le pagine e gli oggetti multimediali** che appaiono nei
-      risultati di ricerca;
+      Prima della migrazione del tuo sito, utilizza la `Search Console di
+      Google <https://search.google.com/search-console>`__ per ottenere
+      degli elenchi di:
 
-   -  **i backlink** che puntano al tuo vecchio sito.
+      -  **tutte le pagine e gli oggetti multimediali** che appaiono nei
+         risultati di ricerca;
 
-   La mappatura di tutti i link del vecchio sito ti permette di creare
-   dei *redirect*, dai vecchi url ai nuovi, facendo attenzione che:
+      -  **i backlink** che puntano al tuo vecchio sito.
 
-   -  il redirect di ogni contenuto rimandi allo stesso contenuto nel
-      nuovo sito (e non ad esempio alla homepage);
+      La mappatura di tutti i link del vecchio sito ti permette di creare
+      dei *redirect*, dai vecchi url ai nuovi, facendo attenzione che:
 
-   -  se non ci sono contenuti corrispondenti, il *redirect* rimandi in
-      ogni caso ad un contenuto analogo, che risponde allo stesso scopo
-      informativo.
+      -  il redirect di ogni contenuto rimandi allo stesso contenuto nel
+         nuovo sito (e non ad esempio alla homepage);
 
-   Ricorda di tenere online il vecchio dominio (e il vecchio server) per
-   più tempo possibile, per garantire il corretto funzionamento dei
-   *redirect*.
+      -  se non ci sono contenuti corrispondenti, il *redirect* rimandi in
+         ogni caso ad un contenuto analogo, che risponde allo stesso scopo
+         informativo.
 
-   Una volta online il nuovo sito, monitora attentamente:
+      Ricorda di tenere online il vecchio dominio (e il vecchio server) per
+      più tempo possibile, per garantire il corretto funzionamento dei
+      *redirect*.
 
-   -  il traffico, attraverso `strumenti di
-      analytics <https://designers.italia.it/kit/analytics/>`__, per
-      vedere se ci sono criticità sulle quali intervenire (ad esempio un
-      calo rilevante di traffico su un determinato contenuto);
+      Una volta online il nuovo sito, monitora attentamente:
 
-   -  l’indicizzazione con la `Search Console di
-      Google <https://search.google.com/search-console>`__, per
-      verificare se il sito ha perso traffico in relazione ad **alcune
-      parole chiavi strategiche** o molto utilizzate nella precedente
-      versione.
+      -  il traffico, attraverso `strumenti di
+         analytics <https://designers.italia.it/kit/analytics/>`__, per
+         vedere se ci sono criticità sulle quali intervenire (ad esempio un
+         calo rilevante di traffico su un determinato contenuto);
 
-   **Per approfondire:**
+      -  l’indicizzazione con la `Search Console di
+         Google <https://search.google.com/search-console>`__, per
+         verificare se il sito ha perso traffico in relazione ad **alcune
+         parole chiavi strategiche** o molto utilizzate nella precedente
+         versione.
 
-   `Checklist per il
-   SEO <https://trello.com/b/CPIl9SxJ/seokitdesigners-italia>`__
+      **Per approfondire:**
 
-   `Modello per l’ottimizzazione
-   SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
-   X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+      `Checklist per il
+      SEO <https://trello.com/b/CPIl9SxJ/seokitdesigners-italia>`__
 
-   `Linee guida per i servizi digitali della Pubblica
-   Amministrazione <./seo.html#migrazione-seo-di-un-sito>`__
+      `Modello per l’ottimizzazione
+      SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
+      X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
+
+      `Linee guida per i servizi digitali della Pubblica
+      Amministrazione <./seo.html#migrazione-seo-di-un-sito>`__
 
 Analizzare i contenuti
 ----------------------
@@ -915,10 +919,10 @@ pubblico**, le licenze di utilizzo possono essere indicate scrivendo nel
 footer:
 
    “Tutti i contenuti presenti su questo sito web, salvo diversa
-   specifica, si intendono rilasciati con licenza* `Creative Commons
+   specifica, si intendono rilasciati con licenza `Creative Commons
    Attribution
    4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ . I testi
-   degli atti ufficiali sono, invece, in pubblico dominio* (`Creative
+   degli atti ufficiali sono, invece, in pubblico dominio (`Creative
    Commons
    Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__).”
 
@@ -1274,8 +1278,8 @@ documenti della PA vengono pubblicati sul web, anche la modalità di
 creazione dei contenuti deve tener conto di questo fatto. Come abbiamo
 visto in precedenza, esistono essenzialmente due strade.
 
-1\. Creazione di un contenuto in formato Html in modo nativo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Creazione di un contenuto in formato Html in modo nativo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con questo approccio, è possibile per esempio:
 
@@ -1289,7 +1293,7 @@ Questa strada è quella consigliata a tutti i livelli. Di seguito trovi
 l’approccio seguito dal progetto Docs Italia che, in modo coerente
 rispetto a questa impostazione, rappresenta una piattaforma a
 disposizione di tutte le amministrazioni per creare documenti e gestire
-i processi di consultazione come previsto dal CAD, art. 18
+i processi di consultazione come previsto dal CAD, art. 18.
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
@@ -1326,8 +1330,8 @@ i processi di consultazione come previsto dal CAD, art. 18
    pubblicazione <http://guida-docs-italia.readthedocs.io/it/latest/>`__.
 
 
-2\. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questo caso, è necessario `accompagnare sempre i documenti con una
 pagina
@@ -1345,48 +1349,50 @@ dei Pdf.
    file dei documenti di testo allegati dovrebbero essere creati
    rispettando alcune buone pratiche.
 
-   **Rendi il documento accessibile**
+   .. container:: more
 
-   -  Il documento Pdf deve essere creato digitalmente, non deve essere
-      una scansione di un documento cartaceo.
+      **Rendi il documento accessibile**
 
-   -  Quando scrivi il documento in un editor di testo, usa le opzioni
-      di titolo, sottotitolo e corpo del testo per creare una gerarchia
-      delle informazioni.
+      -  Il documento Pdf deve essere creato digitalmente, non deve essere
+         una scansione di un documento cartaceo.
 
-   -  Inserisci all’inizio del documento un indice navigabile per
-      permettere a chi legge di raggiungere facilmente le varie sezioni.
+      -  Quando scrivi il documento in un editor di testo, usa le opzioni
+         di titolo, sottotitolo e corpo del testo per creare una gerarchia
+         delle informazioni.
 
-   -  Usa le opzioni di elenco puntato e numerato, invece di indicare
-      gli elenchi con un trattino o un numero.
+      -  Inserisci all’inizio del documento un indice navigabile per
+         permettere a chi legge di raggiungere facilmente le varie sezioni.
 
-   -  Accompagna ogni immagine con un testo alternativo (*alt text*).
+      -  Usa le opzioni di elenco puntato e numerato, invece di indicare
+         gli elenchi con un trattino o un numero.
 
-   -  `Verifica l’accessibilità del documento
-      Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
-      pubblicarlo.
+      -  Accompagna ogni immagine con un testo alternativo (*alt text*).
 
-   -  Mantieni ridotte le dimensioni del file, dividendo, se necessario,
-      i file troppo grossi in capitoli.
+      -  `Verifica l’accessibilità del documento
+         Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di
+         pubblicarlo.
 
-   **Inserisci i metadati**
+      -  Mantieni ridotte le dimensioni del file, dividendo, se necessario,
+         i file troppo grossi in capitoli.
 
-   I metadati sono informazioni aggiuntive che vengono associate al
-   documento automaticamente in fase di creazione, oppure manualmente.
-   Aggiungi dei metadati al documento Pdf per aiutare gli utenti a
-   **trovare più facilmente il documento**.
+      **Inserisci i metadati**
 
-   I principali metadati che possono essere associati a un documento
-   sono:
+      I metadati sono informazioni aggiuntive che vengono associate al
+      documento automaticamente in fase di creazione, oppure manualmente.
+      Aggiungi dei metadati al documento Pdf per aiutare gli utenti a
+      **trovare più facilmente il documento**.
 
-   -  titolo;
+      I principali metadati che possono essere associati a un documento
+      sono:
 
-   -  autore;
+      -  titolo;
 
-   -  descrizione;
+      -  autore;
 
-   -  parole chiave.
+      -  descrizione;
 
-   Naturalmente, più sono specifiche e dettagliate le informazioni che
-   fornisci, più il documento risulterà rilevante nelle ricerche degli
-   utenti.
+      -  parole chiave.
+
+      Naturalmente, più sono specifiche e dettagliate le informazioni che
+      fornisci, più il documento risulterà rilevante nelle ricerche degli
+      utenti.
