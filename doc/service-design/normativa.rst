@@ -97,7 +97,7 @@ Siti web istituzionali
 
 **Amministrazione trasparente**
 
-Inserire nella home page una sezione denominata «Amministrazione trasparente»,
+Inserire una sezione denominata «Amministrazione trasparente»,
 contenente una struttura prevista dall’allegato A del decreto. E’ necessario
 inserire la voce «Amministrazione trasparente», preferibilmente in una posizione
 che ne garantisca il raggiungimento da tutte le pagine interne del sito (es: nel footer).
