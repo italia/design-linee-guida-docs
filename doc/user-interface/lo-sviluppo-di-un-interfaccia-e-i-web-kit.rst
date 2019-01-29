@@ -155,7 +155,7 @@ I Web Kit per lo sviluppo dell’interfaccia
 
 Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa fase, il progetto Designers Italia ha supportato la realizzazione di alcune librerie *open source* di ausilio per lo sviluppo di interfacce e il mantenimento di un *design system* solido e coerente: Bootstrap Italia, Web Toolkit, React Kit e Angular Kit.
 
-**Bootstrap Italia** è il più moderno set di componenti disponibile per la costruzione di interfacce per servizi della PA, costruito sulle basi delle più recenti modifiche allo `UI Kit <./il-disegno-di-un-interfaccia-e-lo-ui-kit.html>`__. e sulla libreria `Bootstrap 4 <https://getbootstrap.com/>`_. Esso contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di tipografia, bottoni ed altri pattern di interfaccia conformi alle attuali Linee Guida.
+**Bootstrap Italia** è il punto di riferimento e il più moderno set di componenti disponibile per la costruzione di interfacce per servizi della PA, costruito sulle basi delle più recenti modifiche allo `UI Kit <./il-disegno-di-un-interfaccia-e-lo-ui-kit.html>`__ e sulla libreria `Bootstrap 4 <https://getbootstrap.com/>`_. Esso contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di tipografia, bottoni ed altri pattern di interfaccia conformi alle attuali Linee Guida.
 
 * Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
 
@@ -171,7 +171,7 @@ Il **Web Toolkit** è la libreria “storica” tra i kit per lo sviluppo web, c
 Bootstrap Italia
 --------------------------------------------------------------------------------
 
-Bootstrap Italia recepisce e aggiorna il precedente Web Toolkit, secondo le nuove direttive introdotte nella più recente versione dello UI Kit, semplificando moltissimo lo sviluppo di un sito web conforme con le Linee Guida di Design.
+Bootstrap Italia recepisce le informazioni ricevute e aggiorna il precedente Web Toolkit, secondo le nuove direttive introdotte nella più recente versione dello UI Kit, semplificando moltissimo lo sviluppo di un sito web conforme con le Linee Guida di Design.
 
 Esso contiene codice pronto all’uso, e descrive in dettaglio nella propria documentazione di progetto come iniziare ad utilizzare la libreria nel proprio sito, come aggiungere nuovi componenti, organizzare spazi e contenuti, ed altro ancora.
 
