@@ -1,4 +1,4 @@
-Ricerche qualitative
+Ricerche qualitative e quantitative
 --------------------
 
 La User Research (ricerca sugli utenti) ha come fine ultimo quello di studiare gli utenti per progettare servizi quanto più rispondenti alle loro effettive esigenze. Questo obiettivo si raggiunge attraverso approcci di ricerca di tipo qualitativo e/o quantitativo, che si differenziano per le caratteristiche del dato che si può ricavare e per l’analisi che se ne può fare. La ricerca qualitativa, in genere, ha come obiettivo cercare di comprendere le motivazioni sottese ad attitudini, comportamenti e atteggiamenti dell’utente, studiandone le attività, i contesti d’uso, le necessità ma anche gli errori e le frustrazioni. A differenza della ricerca quantitativa, non si basa solamente su quello che le persone dicono, ma cerca di guardare più in profondità, mappando quello che le persone dicono, fanno e pensano. La ricerca qualitativa:
@@ -9,6 +9,11 @@ La User Research (ricerca sugli utenti) ha come fine ultimo quello di studiare g
 
 Nella progettazione di servizi digitali la ricerca qualitativa può essere utilizzata in diverse fasi del progetto: dalla fase di osservazione e ideazione a quella di progettazione e validazione. Gli strumenti e le tecniche sono molte e differenti fra loro per il tipo di dato che permettono di raccogliere: per ogni progetto, quindi, è necessaria una valutazione ad hoc per definire gli strumenti e le tecniche più adeguate e le fasi in cui si utilizzeranno.
 
+Le ricerche quantitative si basano invece sulla raccolta di grandi quantità di dati  e fanno un largo uso della statistica. Temi estremamente rilevanti per la ricerca quantitativa sono l’idonea impostazione del livello di **significatività statistica dei risultati** e l’applicazione di una **corretta tecnica di campionamento**: la prima è imprescindibile per confermare la validità probabilistica di un’ipotesi, la seconda influenza la possibilità di estendere i risultati provenienti dal campione all’intera popolazione oggetto di analisi. 
+Entrambi questi temi - se non correttamente gestiti - generano il rischio di falsare la bontà dei risultati di ricerca.  
+ 
+
+
 
 Introduzione ai metodi
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -18,6 +23,11 @@ Possiamo distinguere **tre tipi di ricerca qualitativa**, a cui si associano div
 -  la **ricerca esplorativa** (o fondativa) si svolge in genere all’inizio di un progetto e permette di analizzare un tema o un problema che non si conosce a fondo. Prevede l’utilizzo di interviste individuali e osservazioni in contesto, orientate alla comprensione delle motivazioni, necessità ed esperienze attuali degli utenti di un servizio.
 -  la **ricerca generativa** si usa in genere per coinvolgere gli utenti in sessioni di discussione e generazione di idee, in una fase del progetto in cui si hanno già sufficienti informazioni sul contesto per poter focalizzare l’attenzione sull’individuazione delle soluzioni. Utilizza tecniche come il *focus group* e `sessioni di co-design <../service-design/gestione-dei-progetti.html#il-workshop-di-co-design>`_, orientate al lavoro collaborativo.
 -  la **ricerca valutativa** infine si svolge quando sono già disponibili i primi prototipi della soluzione progettata e si vuole raccogliere il feedback degli utenti nello sperimentare l’interazione con il servizio digitale in questione. Prevede strumenti come il *test di usabilità* o il *cognitive walkthrough*.
+
+Esistono diverse metodologie di ricerca quantitativa. Il progetto per il design dei siti scolastici in Italia offre un caso pratico di ricerca quantitativa basata sulla somministrazione di un questionario. In questo caso, la ricerca quantitativa aveva l’obiettivo di confermare o mettere in discussione alcune delle prospettive emerse da una precedente fase qualitativa basata su interviste. `Vai alla ricerca. <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/bozza/ricerca/ricerca-quantitativa.html/>`_
+Nel paragrafo dedicato ai `web analytics <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research/web-analytics.html>`_ sono descritte le modalità di analisi del comportamento degli utenti di un sito web, una delle fonti primarie di informazioni nei progetti digitali. Nel paragrafo dedicato agli A/B test illustreremo invece un metodo di ricerca quantitativa funzionale a supportare processi di miglioramento continuo di un servizio digitale. 
+
+
 
 Le interviste individuali
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -84,3 +94,17 @@ Uno dei rischi dei focus group è quello di avere persone con opinioni molto for
 **Documentare i risultati**
 
 Ciascun focus group viene documentato tramite la raccolta di note relative alle informazioni e osservazioni che emergono durante lo scambio: per questo è bene prevedere una persona dedicata alla raccolta di appunti, in aggiunta al moderatore. Le sessioni possono inoltre essere documentate tramite la registrazione video (in questo caso è necessario chiedere ai partecipanti di firmare il `modulo di liberatoria <https://docs.google.com/document/d/1JVctSWSJN6tJeno70OjA8Tl_4rs0dIJ5XLoOQbIgo24/edit?usp=sharing>`_). I materiali vengono utilizzati per costruire un report dei focus group che va ad informare le successive attività di sviluppo delle soluzioni di
+
+L’A/B testing
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+L’A/B testing è una metodologia di analisi che ha l’obiettivo di confrontare due versioni di una pagina web di un sito o di un’applicazione, che differiscono per un elemento specifico. 
+Permette quindi di effettuare delle scelte di design basate su dati - secondo l’approccio data-driven tipico della ricerca quantitativa - confermando o confutando delle ipotesi progettuali.
+
+Obiettivo di questo tipo di test è arrivare - tramite ottimizzazioni successive - a superare un problema o migliorare una performance di UX (e non solo). Gli utenti cui il test viene “somministrato” sono **suddivisi in due gruppi ad ognuno dei quali viene mostrata una delle due diverse varianti/configurazioni**. Alla fine del test vengono analizzati e confrontati i dati derivati delle due versioni sperimentate: la variante con la performance migliore rispetto all’obiettivo del test verrà portata avanti nel percorso di sviluppo.  
+
+Caratteristica della metodologia A/B testing è quella di **testare un elemento per volta** così da poter isolare senza ambiguità quale variazione abbia prodotto un determinato risultato. Tramite tale metodologia si possono testare diversi elementi di una pagina web, dalla grafica, al layout e organizzazione degli elementi del sito, ai contenuti: può ad esempio essere interessante utilizzare l’A/B test sui contenuti, sia per esaminare quanto influisca la lunghezza di un testo sulla fruizione del sito, sia per ciò che concerne il microcopy. 
+
+`Vai al kit di supporto per la realizzazione di test A/B <https://designers.italia.it/kit/kits/it/ab-test>`_
+
+
