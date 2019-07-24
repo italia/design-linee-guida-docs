@@ -54,6 +54,126 @@ Nella progettazione di un sito web, l’architettura dell’informazione deve ne
 
 Per approfondire, vai alla sezione dedicata al `design di un servizio <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/service-design.html>`_ e utilizza la `ecosystem map. <https://designers.italia.it/kit/ecosystem-map/>`_
 
+Definizione e organizzazione dei contenuti
+~~~~~~~~
+Uno dei principi dell’architettura dell’informazione è tenere conto del contesto e delle funzioni delle organizzazioni e dei servizi che esprimono. Questo significa che è possibile definire, come vedremo, standard di architettura dell’informazione specifici per il mondo della Pubblica Amministrazione. In secondo luogo, sarà possibile avviare un’attività di modellazione più specifica, partendo da una segmentazione degli enti e delle funzioni ad esse associate. In pratica, l’organizzazione della conoscenza all’interno della Pubblica Amministrazione ha alcune regole generali che è bene conoscere e che devono essere utilizzate in ogni ambito; e alcune regole (standard) che si possono applicare all’interno di ambiti specifici. Per fare un esempio, è possibile definire uno standard per l’architettura dell’informazione dei Comuni italiani, senza che sia necessario affrontare il problema per ciascuno dei migliaia dei siti web dei Comuni italiani. L’utilizzo di standard nella definizione di contenuti, dati e nella loro classificazione è alla base di concetti come l’interoperabilità e in definitiva rappresenta la creazione di un linguaggio digitale comune alla Pubblica Amministrazione italiana. L’ architettura dell’informazione partecipa alla fase di  progettazione e prototipazione di un sito o di un servizio digitale attraverso strumenti come il `wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`_ (che contiene modelli di content type e pattern di interazione) e il `kit per la definizione dei sistemi di navigazione e dei modelli di contenuto di un sito.<https://designers.italia.it/kit/information-architecture/>`_
+
+I content type
+===================
+
+In fase di progettazione, i contenuti di un sito web devono essere organizzati in diverse tipologie, o content type. Esempi di content type sono una scheda di presentazione di un servizio, una form per inserire dati anagrafici, una notizia o una scheda di presentazione di un evento. Sulla base delle funzioni che deve svolgere un sito, è possibile definire una lista dei content type. Vediamone alcuni.
+
++-----------------------------------+-----------------------------------+
+| **Esempi di content type**        | **Funzioni principali**           |
++===================================+===================================+
+| Scheda unità organizzativa        | Descrive una unità organizzativa  |
+|                                   | come un ufficio o una funzione    |
+|                                   | politica, definendone le          |
+|                                   | caratteristiche, gli obiettivi e  |
+|                                   | le persone che ne fanno parte     |
++-----------------------------------+-----------------------------------+
+| Scheda luogo                      | Descrive un luogo rilevante per   |
+|                                   | la Pubblica Amministrazione e gli |
+|                                   | utenti a cui si rivolge,          |
+|                                   | definendone le coordinate         |
+|                                   | geografiche e altri aspetti come  |
+|                                   | le modalità di accesso da parte   |
+|                                   | dei cittadini                     |
++-----------------------------------+-----------------------------------+
+| Evento                            | Descrive un evento, definendone   |
+|                                   | le caratteristiche, il luogo e le |
+|                                   | date e dando la possibilità di    |
+|                                   | rappresentarlo attraverso una     |
+|                                   | mappa e un calendario             |
++-----------------------------------+-----------------------------------+
+| Notizia                           | Descrive un evento, definendone   |
+|                                   | le caratteristiche, il luogo e le |
+|                                   | date e dando la possibilità di    |
+|                                   | rappresentarlo attraverso una     |
+|                                   | mappa e un calendario             |
++-----------------------------------+-----------------------------------+
+| Scheda servizio                   | Descrive il servizio e fa capire  |
+|                                   | all’utente come utilizzarlo,      |
+|                                   | nella sua forma tradizionale e/o  |
+|                                   | digitale                          |
++-----------------------------------+-----------------------------------+
+
+In una fase iniziale di progettazione, per ciascuno dei content type occorre riportare le caratteristiche essenziali ad avviare il processo di prototipazione. Successivamente si procederà a definire i dettagli della struttura dati e a una progressiva evoluzione del prototipo (comprensivo delle funzioni di front-end e di back-end) come riportato in figura. 
+
+.. figure:: images/image4.png
+   :alt: Funzione informativa: presentare un servizio
+   :align: center
+
+I sistemi di navigazione
+===================
+Un sito web presenta abitualmente **un sistema di navigazione principale** (menù di navigazione), che a sua volta può essere organizzato in uno o più livelli e che genera il menù di navigazione di un sito web. La struttura di navigazione può essere riprodotta anche attraverso la creazione di breadcrumb, normalmente posizionati nella parte alta di ciascuna delle pagine web di cui si compone il sito. Ad esempio, nella pagina dedicata all’ufficio anagrafe di un sito web di un Comune potremmo trovare il breadcrumb Amministrazione/Uffici/Ufficio anagrafe
+La struttura di navigazione di base aiuta l’utente ad orientarsi e a comprendere rapidamente l’organizzazione delle informazioni presenti sul sito. 
+
+Accanto al sistema di navigazione primario, esistono **diversi altri sistemi per connettere contenuti**, costruire percorsi di navigazione e permettere agli utenti di raggiungere i promo scopi. Ad esempio, in un sito che ha una sezione dedicata agli eventi gli eventi vengono classificati definendone le coordinate geografiche e il periodo temporale, e questo rende possibile offrire una rappresentazione mediante mappe e calendari. Allo stesso modo, se si definisce un vocabolario controllato di argomenti che interessano agli utenti di un Comune (es. casa) e si classificano tutti i contenuti usando questi argomenti, sarà possibile generare liste di contenuti che condividono questa proprietà e, in definitiva, facilitare la navigazione e la ricerca per gli utenti. 
+
+.. figure:: images/image3.png
+   :alt: sito di un Comune
+   :align: center
+
+   Pagina standard per il sito di un Comune che raggruppa tutti i contenuti del sito che condividono l’etichetta “Cantieri”
+
+Un altro caso tipico di relazione tra contenuti è quella relativa ai **flussi di fruizione di un servizio web**. Prendiamo ad esempio il servizio che abilita il pagamento di una multa. Attraverso una serie di passaggi **sequenziali** l’utente sarà condotto dalla login a un documento (la multa) e da qui a una form che consente l’inserimento dei dati di pagamento.
+
+
+.. figure:: images/image2.png
+   :alt: flusso di fruizione di un servizio digitale
+   :align: center
+
+   Rappresentazione del flusso di fruizione di un servizio digitale: percorso di navigazione e relazioni tra contenuti.
+
+Home page, pagine di ricerca e aree personali
+===================
+Home page, pagine di ricerca e aree personali sono tre punti di ingresso chiave per comprendere e accedere al sistema.
+La **home page** di un sito ha la funzione di punto di ingresso, ed è tipicamente il luogo in cui l’utente ottiene una visione chiara della missione di un sito e delle sue funzioni chiave. Un modo semplice per organizzare la home page è definire una struttura coerente rispetto al sistema di navigazione principale, per esempio attraverso un layout a fasce.
+
++-----------------------+-----------------------+-----------------------+
+| Header                |                       | Verrà inserita una    |
+|                       |                       | homepage di scuola    |
++-----------------------+-----------------------+-----------------------+
+| Apertura (descrive la |                       |                       |
+| funzione principale   |                       |                       |
+| del sito, o           |                       |                       |
+| “missione”)           |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Sezione 1             |                       |                       |
+|                       |                       |                       |
+| Riporta contenuti     |                       |                       |
+| rilevanti contenuti   |                       |                       |
+| nella sezione e       |                       |                       |
+| consente accesso agli |                       |                       |
+| altri                 |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Sezione 2             |                       |                       |
+|                       |                       |                       |
+| Riporta contenuti     |                       |                       |
+| rilevanti contenuti   |                       |                       |
+| nella sezione e       |                       |                       |
+| consente accesso agli |                       |                       |
+| altri                 |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Sezione 3             |                       |                       |
+|                       |                       |                       |
+| Riporta contenuti     |                       |                       |
+| rilevanti contenuti   |                       |                       |
+| nella sezione e       |                       |                       |
+| consente accesso agli |                       |                       |
+| altri                 |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| ...                   |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Footer                |                       |                       |
++-----------------------+-----------------------+-----------------------+
+*Modello di home page di un sito web organizzato in quattro sezioni principali e prototipo della home page di un sito scolastico che segue questo approccio*
+
+I siti web che offrono servizi digitali ai cittadini mettono a disposizione **un’area personale dell’utente** a cui si accede mediante credenziali di accesso (per esempio Spid) e che possiede un proprio sistema di navigazione contestuale. In termini generali, l’area personale serve a gestire l’interazione di un utente con il sistema. 
+Un modo semplice per organizzare un’area personale è prevedere un’area messaggi, un’area che mostra la lista delle procedure in corso dei servizi attivati e un’area destinata ad archiviare l’esito delle azioni compiute in passato (es. lista dei pagamenti, dei documenti ricevuti, delle iscrizioni fatte).
+
+
 ******************************
 ARRIVATO QUI
 CANC CANC CANC CANC CANC
