@@ -1,35 +1,63 @@
 Architettura dell’informazione
 ------------------------------
 
-L’architettura dell’informazione consiste nell’organizzazione semantica
-e logica di ambienti informativi, sia fisici sia digitali, e serve
-a rendere i servizi pubblici più facili da trovare, da capire e da usare.
-Una buona architettura dell’informazione aiuta le persone a comprendere
-ciò che le circonda e a trovare ciò che cercano, sia online che offline.
-Lavorare su questo ambito implica una seria riflessione sulla struttura
-dell’informazione e sul linguaggio. L’architettura dell’informazione è
-più efficace se è progettata intorno ai reali bisogni delle persone:
-per questo si parla di *user-centered design*.
+L’architettura dell’informazione consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica una riflessione sulla struttura dell’informazione e sul linguaggio. L’architettura dell’informazione è più efficace se è progettata intorno ai reali bisogni delle persone: per questo si parla di user-centered design.
 
-Nel corso dei prossimi mesi pubblicheremo, secondo `roadmap
-<https://designers.italia.it/content-design/>`_,
-alcuni approfondimenti relativi a tutti i principali temi legati
-all’architettura dell’informazione e in particolare: la prototipazione,
-attraverso il wireframing e l’interactive wireframing; le strutture di
-navigazione; le logiche di classificazione dei contenuti e le relazioni
-tra contenuti; la progettazione di interazioni specifiche come la home
-page di un sito web e la pagina di ricerca.
+Obiettivo del paragrafo è offrire indicazioni pratiche relative alla progettazione dei sistemi di navigazione, delle tipologie di contenuti (content type), dei flussi di interazione con l’utente e alla modellazione dei contenuti (per esempio attraverso ontologie e vocabolari controllati).  
 
+La progettazione di un ambiente informativo può partire dalla definizione delle funzioni di base svolte tipicamente dalla Pubblica Amministrazione nei confronti di cittadini e imprese. Possiamo elencarne alcune: 
 
-L’ambito
+- lo scambio di denaro (per esempio quando si deve pagare una multa o ricevere la pensione); 
+- l’iscrizione a qualcosa (per esempio quando si deve scegliere la scuola per proprio figlio); 
+- la prenotazione di un appuntamento (per esempio quando si deve prenotare una visita medica); 
+- l’offerta di lavoro o di progetti  (per esempio quando si partecipa a un concorso o a un bando); 
+- l’informazione sull’attività amministrativa (ad esempio quando si pubblica una notizia o un evento);
+- la regolamentazione della vita dei cittadini (ad esempio attraverso leggi o decreti attuativi);
+- la certificazione di qualcosa o l’autorizzazione a fare qualcosa (come nel caso di un cambio di residenza o del rilascio di un passaporto).
+
+Contenuti, persone e contesto
 ~~~~~~~~
+Progettare l’architettura dell’informazione significa soddisfare i bisogni degli utenti, creando e organizzando l’informazione per dare senso alle cose, nel rispetto del contesto organizzativo e di fruizione dei servizi.
 
-Per progettare l’architettura dell’informazione di un ambiente
-informativo è necessario analizzare:
+.. figure:: images/diagramma_ai.png
+   :alt: Architettura dell’informazione
+   :align: center
 
--  gli utenti
--  i contenuti
--  il contesto
+   Architettura dell’informazione
+   
+L’analisi delle esigenze informative e dei comportamenti di navigazione degli utenti contribuisce alla progettazione di una efficace architettura dell’informazione. Per analizzare il tipo di pubblico del sito web è necessario definire:
+- i profili di utenti a cui si rivolge l’informazione o il servizio
+- i bisogni, ovvero le necessità informative e operative degli utenti
+
+È bene prendere decisioni sulla base dell’analisi dei dati riferiti all’utente in particolare: 
+- i dati statistici di navigazione sul sito per comprendere il comportamento dell’utente 
+- la realizzazione di interviste e test di usabilità per comprendere  l’esperienza e la competenza generale di navigazione dell’utente target.
+
+Per un approfondimento sui metodi di ricerca sugli utenti vai alla `sezione dedicata alla user research. <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research.html>`_
+
+La seconda area rilevante per l’architettura dell’informazione è quella relativa ai contenuti. Per **contenuto** si intendono le informazioni di tipo non strutturato (testi, immagini, video) o strutturato (dati e metadati) veicolate da pagine web, documenti, applicazioni grazie alle quali la Pubblica Amministrazione offre i propri servizi ai cittadini. 
+Il content journey è uno strumento adatto per fare una mappa preliminare dei bisogni informativi degli utenti: un modello è disponibile all’interno del `kit per la progettazione dei contenuti. <https://designers.italia.it/kit/content-kit/>`_ La mappatura delle informazioni esistenti e rilevanti per progettare un servizio può essere fatta attraverso un’attività di `content inventory <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/linguaggio.html#scrivere-e-riscrivere>`_ e la loro formalizzazione può avvenire attraverso ontologie e vocabolari controllati. Spesso l’esito di questa analisi determina quella che viene definita una gap analysis, che evidenzia i contenuti e i dati presenti attualmente sul sito e quelli che dovranno essere prodotti, modificati o eliminati nella nuova versione del servizio. 
+
+Per un approfondimento su dati e metadati vai alle `linee guida per i cataloghi dati. <https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/index.html>`_
+
+Per un approfondimento sui contenuti non strutturati vai alla `sezione dedicata al linguaggio. <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/linguaggio.html#scrivere-e-riscrivere>`_
+
+Nella progettazione di un sito web, l’architettura dell’informazione deve necessariamente adattarsi al **contesto** di riferimento, per essere coerente con gli obiettivi, la strategia e la cultura dell’organizzazione. Per analizzare il contesto è necessario quindi considerare e definire:
+
+- gli obiettivi strategici dell’Amministrazione
+- le risorse economiche disponibili
+- le direttive/norme vigenti che vincolano il progetto
+- la cultura dell’amministrazione, intesa anche come la propensione al cambiamento
+- l’ambito tecnologico e gli standard esistenti per la Pubblica Amministrazione
+- le risorse umane coinvolte nel progetto, e le loro competenze tecniche
+- i limiti operativi, relativi ad esempio alla logistica, alla sicurezza
+
+Per approfondire, vai alla sezione dedicata al `design di un servizio <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/service-design.html>`_ e utilizza la `ecosystem map. <https://designers.italia.it/kit/ecosystem-map/>`_
+
+******************************
+ARRIVATO QUI
+CANC CANC CANC CANC CANC
+******************************
 
 Il processo di progettazione dell’architettura dell’informazione di un
 sito web parte dall’analisi degli utenti, del contenuto del sito e del
