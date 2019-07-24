@@ -56,7 +56,7 @@ Per approfondire, vai alla sezione dedicata al `design di un servizio <https://d
 
 Definizione e organizzazione dei contenuti
 ~~~~~~~~
-Uno dei principi dell’architettura dell’informazione è tenere conto del contesto e delle funzioni delle organizzazioni e dei servizi che esprimono. Questo significa che è possibile definire, come vedremo, standard di architettura dell’informazione specifici per il mondo della Pubblica Amministrazione. In secondo luogo, sarà possibile avviare un’attività di modellazione più specifica, partendo da una segmentazione degli enti e delle funzioni ad esse associate. In pratica, l’organizzazione della conoscenza all’interno della Pubblica Amministrazione ha alcune regole generali che è bene conoscere e che devono essere utilizzate in ogni ambito; e alcune regole (standard) che si possono applicare all’interno di ambiti specifici. Per fare un esempio, è possibile definire uno standard per l’architettura dell’informazione dei Comuni italiani, senza che sia necessario affrontare il problema per ciascuno dei migliaia dei siti web dei Comuni italiani. L’utilizzo di standard nella definizione di contenuti, dati e nella loro classificazione è alla base di concetti come l’interoperabilità e in definitiva rappresenta la creazione di un linguaggio digitale comune alla Pubblica Amministrazione italiana. L’ architettura dell’informazione partecipa alla fase di  progettazione e prototipazione di un sito o di un servizio digitale attraverso strumenti come il `wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`_ (che contiene modelli di content type e pattern di interazione) e il `kit per la definizione dei sistemi di navigazione e dei modelli di contenuto di un sito.<https://designers.italia.it/kit/information-architecture/>`_
+Uno dei principi dell’architettura dell’informazione è tenere conto del contesto e delle funzioni delle organizzazioni e dei servizi che esprimono. Questo significa che è possibile definire, come vedremo, standard di architettura dell’informazione specifici per il mondo della Pubblica Amministrazione. In secondo luogo, sarà possibile avviare un’attività di modellazione più specifica, partendo da una segmentazione degli enti e delle funzioni ad esse associate. In pratica, l’organizzazione della conoscenza all’interno della Pubblica Amministrazione ha alcune regole generali che è bene conoscere e che devono essere utilizzate in ogni ambito; e alcune regole (standard) che si possono applicare all’interno di ambiti specifici. Per fare un esempio, è possibile definire uno standard per l’architettura dell’informazione dei Comuni italiani, senza che sia necessario affrontare il problema per ciascuno dei migliaia dei siti web dei Comuni italiani. L’utilizzo di standard nella definizione di contenuti, dati e nella loro classificazione è alla base di concetti come l’interoperabilità e in definitiva rappresenta la creazione di un linguaggio digitale comune alla Pubblica Amministrazione italiana. L’ architettura dell’informazione partecipa alla fase di  progettazione e prototipazione di un sito o di un servizio digitale attraverso strumenti come il `wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`_ (che contiene modelli di content type e pattern di interazione) e il `kit per la definizione dei sistemi di navigazione e dei modelli di contenuto di un sito <https://designers.italia.it/kit/information-architecture/>`_
 
 I content type
 ===================
@@ -115,7 +115,7 @@ Accanto al sistema di navigazione primario, esistono **diversi altri sistemi per
    :alt: sito di un Comune
    :align: center
 
-   Pagina standard per il sito di un Comune che raggruppa tutti i contenuti del sito che condividono l’etichetta “Cantieri”
+   *Pagina standard per il sito di un Comune che raggruppa tutti i contenuti del sito che condividono l’etichetta “Cantieri”*
 
 Un altro caso tipico di relazione tra contenuti è quella relativa ai **flussi di fruizione di un servizio web**. Prendiamo ad esempio il servizio che abilita il pagamento di una multa. Attraverso una serie di passaggi **sequenziali** l’utente sarà condotto dalla login a un documento (la multa) e da qui a una form che consente l’inserimento dei dati di pagamento.
 
@@ -124,7 +124,7 @@ Un altro caso tipico di relazione tra contenuti è quella relativa ai **flussi d
    :alt: flusso di fruizione di un servizio digitale
    :align: center
 
-   Rappresentazione del flusso di fruizione di un servizio digitale: percorso di navigazione e relazioni tra contenuti.
+   *Rappresentazione del flusso di fruizione di un servizio digitale: percorso di navigazione e relazioni tra contenuti.*
 
 Home page, pagine di ricerca e aree personali
 ===================
