@@ -227,7 +227,7 @@ Anche le tassonomie sono vocabolari controllati. Una tassonomia è un vocabolari
 
 Esiste un progetto della Pubblica Amministrazione per la creazione di vocabolari controllati da utilizzare nel settore pubblico. 
 
-Vai al repo GitHub per consultare i vocabolari disponibili o contribuire al progetto <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research.html>`_
+`Vai al repo GitHub per consultare i vocabolari disponibili o contribuire al progetto <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research.html>`_
  
 
 
