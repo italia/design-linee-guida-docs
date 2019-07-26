@@ -106,7 +106,8 @@ In una fase iniziale di progettazione, per ciascuno dei content type occorre rip
 
 I sistemi di navigazione
 ===================
-Un sito web presenta abitualmente **un sistema di navigazione principale** (menù di navigazione), che a sua volta può essere organizzato in uno o più livelli e che genera il menù di navigazione di un sito web. La struttura di navigazione può essere riprodotta anche attraverso la creazione di breadcrumb, normalmente posizionati nella parte alta di ciascuna delle pagine web di cui si compone il sito. Ad esempio, nella pagina dedicata all’ufficio anagrafe di un sito web di un Comune potremmo trovare il breadcrumb Amministrazione/Uffici/Ufficio anagrafe
+Un sito web presenta abitualmente **un sistema di navigazione principale** (menù di navigazione), che a sua volta può essere organizzato in uno o più livelli e che genera il menù di navigazione di un sito web. La struttura di navigazione può essere riprodotta anche attraverso la creazione di breadcrumb, normalmente posizionati nella parte alta di ciascuna delle pagine web di cui si compone il sito. Ad esempio, nella pagina dedicata all’ufficio anagrafe di un sito web di un Comune potremmo trovare il breadcrumb *Amministrazione/Uffici/Ufficio anagrafe.*
+
 La struttura di navigazione di base aiuta l’utente ad orientarsi e a comprendere rapidamente l’organizzazione delle informazioni presenti sul sito. 
 
 Accanto al sistema di navigazione primario, esistono **diversi altri sistemi per connettere contenuti**, costruire percorsi di navigazione e permettere agli utenti di raggiungere i promo scopi. Ad esempio, in un sito che ha una sezione dedicata agli eventi gli eventi vengono classificati definendone le coordinate geografiche e il periodo temporale, e questo rende possibile offrire una rappresentazione mediante mappe e calendari. Allo stesso modo, se si definisce un vocabolario controllato di argomenti che interessano agli utenti di un Comune (es. casa) e si classificano tutti i contenuti usando questi argomenti, sarà possibile generare liste di contenuti che condividono questa proprietà e, in definitiva, facilitare la navigazione e la ricerca per gli utenti. 
@@ -131,45 +132,50 @@ Home page, pagine di ricerca e aree personali
 Home page, pagine di ricerca e aree personali sono tre punti di ingresso chiave per comprendere e accedere al sistema.
 La **home page** di un sito ha la funzione di punto di ingresso, ed è tipicamente il luogo in cui l’utente ottiene una visione chiara della missione di un sito e delle sue funzioni chiave. Un modo semplice per organizzare la home page è definire una struttura coerente rispetto al sistema di navigazione principale, per esempio attraverso un layout a fasce.
 
-+-----------------------+-----------------------+-----------------------+
-| Header                |                       | Verrà inserita una    |
-|                       |                       | homepage di scuola    |
-+-----------------------+-----------------------+-----------------------+
-| Apertura (descrive la |                       |                       |
-| funzione principale   |                       |                       |
-| del sito, o           |                       |                       |
-| “missione”)           |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Sezione 1             |                       |                       |
-|                       |                       |                       |
-| Riporta contenuti     |                       |                       |
-| rilevanti contenuti   |                       |                       |
-| nella sezione e       |                       |                       |
-| consente accesso agli |                       |                       |
-| altri                 |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Sezione 2             |                       |                       |
-|                       |                       |                       |
-| Riporta contenuti     |                       |                       |
-| rilevanti contenuti   |                       |                       |
-| nella sezione e       |                       |                       |
-| consente accesso agli |                       |                       |
-| altri                 |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Sezione 3             |                       |                       |
-|                       |                       |                       |
-| Riporta contenuti     |                       |                       |
-| rilevanti contenuti   |                       |                       |
-| nella sezione e       |                       |                       |
-| consente accesso agli |                       |                       |
-| altri                 |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| ...                   |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| Footer                |                       |                       |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+
+| Header                |
+|                       | 
++-----------------------+
+| Apertura (descrive la |                      
+| funzione principale   |
+| del sito, o           |                       
+| “missione”)           |                     
++-----------------------+
+| Sezione 1             |                    
+|                       |                       
+| Riporta contenuti     |                     
+| rilevanti contenuti   |                     
+| nella sezione e       |                    
+| consente accesso agli |                      
+| altri                 |                       
++-----------------------+
+| Sezione 2             |                 
+|                       |                   
+| Riporta contenuti     |                     
+| rilevanti contenuti   |        
+| nella sezione e       |                    
+| consente accesso agli |                       
+| altri                 |                      
++-----------------------+
+| Sezione 3             |                      
+|                       |                      
+| Riporta contenuti     |                    
+| rilevanti contenuti   |                    
+| nella sezione e       |
+| consente accesso agli |                     
+| altri                 |                    
++-----------------------+
+| ...                   |
++-----------------------+
+| Footer                |               
++-----------------------+
 *Modello di home page di un sito web organizzato in quattro sezioni principali e prototipo della home page di un sito scolastico che segue questo approccio*
 
+.. figure:: images/HomeScuola.png
+   :alt: Homepage di una scuola
+   :align: center
+   
+   
 I siti web che offrono servizi digitali ai cittadini mettono a disposizione **un’area personale dell’utente** a cui si accede mediante credenziali di accesso (per esempio Spid) e che possiede un proprio sistema di navigazione contestuale. In termini generali, l’area personale serve a gestire l’interazione di un utente con il sistema. 
 Un modo semplice per organizzare un’area personale è prevedere un’area messaggi, un’area che mostra la lista delle procedure in corso dei servizi attivati e un’area destinata ad archiviare l’esito delle azioni compiute in passato (es. lista dei pagamenti, dei documenti ricevuti, delle iscrizioni fatte).
 
@@ -196,6 +202,39 @@ Ontologie e standard
 L’emergere del web come ambiente aperto di comunicazione e condivisione di informazioni ha favorito la nascita di un approccio alla modellazione dell’informazione più astratto rispetto allo specifico sistema (o punto di contatto con l’utente) che si sta progettando. Pensare ai contenuti come indipendenti dalla piattaforma che li ospita permette di renderli disponibili, per esempio attraverso API, per l’utilizzo da parte di altri o per la progettazione di altri punti di contatto con il cittadino (per esempio una app) utilizzando quanto previsto nelle `linee guida relative alla interoperabilità. <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/v2018.1/>`_
 
 Per questo motivo è bene costruire content type e sistemi di classificazione sulla base di strutture formali di rappresentazione della realtà più astratte, che possiamo esprimere in termini di **ontologie** e di **vocabolari controllati**. Facciamo un esempio: un sito della Pubblica Amministrazione prevede normalmente content type per definire un ufficio (es. Ufficio anagrafe), un luogo (es. Palazzo Chigi) o un ruolo (es. direttore dipartimento). Queste informazioni possono essere modellate utilizzando le ontologie relative a persone, organizzazioni e luoghi ( `vedi alcune ontologie già disponibili <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/>`_). L’ eventuale informazione relativa a un titolo di studio di una persona che lavora per la Pubblica Amministrazione può essere espressa attraverso un vocabolario controllato, `e anche in questo caso ne esiste già uno. <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/VocabolariControllati/classifications-for-people/education-level/>`_ 
+
+Le ontologie
+===================
+Come leggiamo nelle `linee guida per i cataloghi dati <https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/ontologia.html/>`_  della Pubblica Amministrazione: “Le ontologie si stanno sempre più sviluppando come strumento formale di rappresentazione, sulla base di specifici requisiti, di un dominio di conoscenza. In particolare, al fine di massimizzare la condivisione della conoscenza e garantire interoperabilità semantica, l’ontologia consente di descrivere la semantica dei dati con una terminologia concordata che può essere poi successivamente riusata anche in altri contesti con simili obiettivi. Tipicamente l’ontologia non è un obiettivo di per sé ma costituisce una base solida per poter sviluppare, al di sopra di essa, applicazioni e servizi avanzati semantici, sempre più diffusi con lo sviluppo dei Linked Data e in ambito World Wide Web”. 
+E’ in corso un progetto di modellazione  delle informazioni relative al settore pubblico. Il progetto mette a disposizione diverse ontologie e governa la standardizzazione di nuove ontologie.
+
+`Vai agli standard per il patrimonio informativo pubblico <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#standard-di-riferimento/>`_ 
+
+`Ontologie disponibili <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/>`_ 
+
+
+Vocabolari controllari
+===================
+Un **vocabolario controllato** è una lista ristretta di termini utilizzati per etichettare, indicizzare e categorizzare i contenuti di un ambiente. Se a un’area o a un intero ambiente è applicato un vocabolario controllato significa che:
+
+- solo i termini inclusi nella sua lista possono essere utilizzati in quello spazio;
+- se è utilizzato da più persone, si applicano regole precise su chi, quando e come può aggiungere nuovi termini alla lista;
+- la lista può crescere, ma solo sulla base di criteri ben precisi, stabiliti a priori.
+
+Grazie a un vocabolario controllato è possibile eliminare la ridondanza e ridurre l’ambiguità del linguaggio. Per esempio: si può prevedere una lista di sinonimi che reindirizzi l’utente o il motore di ricerca da una variante inesatta del termine al termine preferito presente nel vocabolario controllato. Se l’utente cerca “ministero della pubblica istruzione” potrebbe venire reindirizzato a “Ministero dell’Istruzione, dell’Università e della Ricerca”. 
+
+Anche le tassonomie sono vocabolari controllati. Una tassonomia è un vocabolario controllato con una precisa struttura gerarchica: i termini della lista sono in relazione tra loro come genitore/figlio. La rappresentazione tipica della tassonomia è quella dell’albero con la radice in alto: i termini di una tassonomia sono definiti “nodi”. Seguendo la metafora dell’albero, un nodo senza successori è detto “foglia”: salendo dalle foglie verso l’alto si passa da una “classe” specifica a una più generale. La radice della tassonomia rappresenta la classe più generale in quella determinata classificazione.
+
+Esiste un progetto della Pubblica Amministrazione per la creazione di vocabolari controllati da utilizzare nel settore pubblico. 
+
+`Vai al repo GitHub per consultare i vocabolari disponibili o contribuire al progetto
+ <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/VocabolariControllati>`_ 
+
+
+
+
+
+
 
 
  
