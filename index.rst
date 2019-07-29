@@ -13,6 +13,7 @@ Nella più recente versione delle linee guida sono stati rivisti e migliorati al
 
     doc/introduzione-linee-guida-design.rst
     doc/service-design.rst
+    doc/prototyping.rst
     doc/content-design.rst
     doc/user-research.rst
     doc/user-interface.rst
