@@ -148,7 +148,7 @@ di versione. Il wireframe kit è realizzato con il software Sketch, ma
 può essere esportato per utilizzarlo con altri software di
 prototipazione, se necessario.
 
--  *Vai al*\ `Wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`__\ *di Designer Italia*
+-  *Vai al *\ `Wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`__\ *di Designer Italia*
 
 -  *Vedi i *\ `file sorgente del Wireframe Kit <https://https//github.com/italia/design-wireframe-kit>`__
 
@@ -158,7 +158,7 @@ prototipazione, se necessario.
     :alt: Un esempio dei componenti presenti nel Wireframe Kit.
     :name: Un esempio dei componenti presenti nel Wireframe Kit.
 
-   *Figura 2 - Un esempio dei componenti presenti nel Wireframe Kit.*
+    *Figura 2 - Un esempio dei componenti presenti nel Wireframe Kit.*
 
 
 .. figure:: media/image5.png
