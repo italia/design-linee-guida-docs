@@ -10,7 +10,8 @@ I cittadini al centro
  - disegnare e sviluppare flussi di interazione chiari, che rispondano con efficacia alle necessità dei diversi utenti, generando un’esperienza d’uso positiva;
  - strutturare i contenuti in modo semplice, con uno stile comunicativo coerente e una strategia editoriale sostenibile nel tempo.
 
-Designers Italia copre tutte le fasi di ideazione, progettazione, sviluppo e miglioramento progressivo dei servizi della Pubblica Amministrazione, abbracciando tutte le attività digitali della PA e definendo le modalità
+Designers Italia copre tutte le fasi di ideazione, progettazione, sviluppo e miglioramento progressivo dei servizi della Pubblica Amministrazione, abbracciando tutte le attività digitali della PA e definendo le modalità:
+
  - per una corretta allocazione delle risorse, basata sull’identificazione delle priorità e l’adozione di standard che evitano sprechi e duplicazioni di attività
  - per la realizzazione di servizi digitali efficaci, moderni, che fanno risparmiare tempo e inutili complicazioni agli utenti
  
@@ -30,6 +31,7 @@ I contenuti delle linee guida sono scritti in file .rst e possono essere aggiorn
 | `Editor per le tabelle <http://truben.no/table/>`_
 | `Estensione Chrome per Google spreadheet <https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
+
 
 Le linee guida di design hanno senso solo se viste come un sistema in continua evoluzione, che segue le roadmap pubblicate in ciascuna delle sezioni di `Designers Italia <https://designers.italia.it/>`_. Solo adottando un’ottica di miglioramento continuo possiamo sperare di renderle efficaci e utili per tutte le Pubbliche Amministrazioni. Poiché le linee guida evolvono continuamente (diciamo con frequenza mensile) diventa fondamentale introdurre il versionamento che consente di tenere traccia delle diverse *release* nel tempo.
 Grazie al versionamento, chi realizza siti aderenti alle linee guida può fare riferimento ad una precisa versione (da citare, ad esempio, quando si partecipa ad un bando di gara).
