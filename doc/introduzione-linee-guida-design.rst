@@ -32,11 +32,8 @@ Altre risorse per l’editing in formato .rst:
 | `Estensione Chrome per Google spreadheet <https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
 
-
-
 Le linee guida di design hanno senso solo se viste come un sistema in continua evoluzione, che segue le roadmap pubblicate in ciascuna delle sezioni di `Designers Italia <https://designers.italia.it/>`_. Solo adottando un’ottica di miglioramento continuo possiamo sperare di renderle efficaci e utili per tutte le Pubbliche Amministrazioni. Poiché le linee guida evolvono continuamente (diciamo con frequenza mensile) diventa fondamentale introdurre il versionamento che consente di tenere traccia delle diverse *release* nel tempo.
 Grazie al versionamento, chi realizza siti aderenti alle linee guida può fare riferimento ad una precisa versione (da citare, ad esempio, quando si partecipa ad un bando di gara).
-
 
 Version control e release della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
