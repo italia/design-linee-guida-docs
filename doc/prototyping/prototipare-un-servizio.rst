@@ -101,7 +101,9 @@ focus è sulle tipologie di componenti e non sulle loro caratteristiche
 specifiche, che sono oggetto di definizione nella successiva fase di
 prototipazione ad alta fedeltà.
 
-|Un esempio di wireframe, o prototipo a "bassa fedeltà".|
+.. figure:: media/image2.png
+    :alt: Un esempio di “wireframe”, o prototipo a “bassa fedeltà”
+    :name: Un esempio di “wireframe”, o prototipo a “bassa fedeltà”
 
 *Figura 1 - Un esempio di “wireframe”, o prototipo a “bassa fedeltà”.*
 
@@ -110,9 +112,9 @@ programma di design, ma per costruire un wireframe si possono usare
 diversi metodi, dalla carta ai numerosi software specifici presenti sul
 mercato.*
 
-.. _section-1:
-
-|image1|
+.. figure:: media/image3.png
+    :alt: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
+    :name: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
 
 *Figura 2*
 
