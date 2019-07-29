@@ -112,7 +112,7 @@ programma di design, ma per costruire un wireframe si possono usare
 diversi metodi, dalla carta ai numerosi software specifici presenti sul
 mercato.*
 
-.. figure:: media/image3.png
+.. figure:: media/image3.jpg
     :alt: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
     :name: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
 
@@ -148,46 +148,40 @@ di versione. Il wireframe kit è realizzato con il software Sketch, ma
 può essere esportato per utilizzarlo con altri software di
 prototipazione, se necessario.
 
--  *Vai al*\ `Wireframe
-   kit <https://designers.italia.it/kit/wireframe-kit/>`__\ *di Designer
-   Italia*
+-  *Vai al*\ `Wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`__\ *di Designer Italia*
 
--  *Vedi i file sorgente del Wireframe Kit*
+-  *Vedi i *\ `file sorgente del Wireframe Kit <https://https//github.com/italia/design-wireframe-kit>`__
 
--  *Vedi la presentazione dei*\ `Wireframe Kit su
-   InVision <https://invis.io/MJKVG83A8EZ>`__
+-  *Vedi la presentazione dei *\ `Wireframe Kit su InVision <https://invis.io/MJKVG83A8EZ>`__
 
-|Un esempio dei componenti presenti nel Wireframe Kit.|
+.. figure:: media/image6.png
+    :alt: Un esempio dei componenti presenti nel Wireframe Kit.
+    :name: Un esempio dei componenti presenti nel Wireframe Kit.
 
-*Figura 2 - Un esempio dei componenti presenti nel Wireframe Kit.*
+   *Figura 2 - Un esempio dei componenti presenti nel Wireframe Kit.*
 
-|Un esempio dei componenti presenti nel Wireframe Kit.|
 
-*Figura 3 - Tipi di content type presenti nel wireframe kit*
+.. figure:: media/image5.png
+    :alt: Tipi di content  type presenti nel wireframe kit
+    :name: Tipi di content  type presenti nel wireframe kit
 
-|Un esempio di schermate sequenziali con pattern di ricerca.|
+    *Figura 3 - Tipi di content type presenti nel wireframe kit*
+    
+.. figure:: media/image4.png
+    :alt: Pattern di ricerca: user flow
+    :name: Pattern di ricerca: user flow
 
-*Figura 4 - Pattern di ricerca: user flow*
+    *Figura 4 - Pattern di ricerca: user flow*
 
-.. _section-2:
+.. figure:: images/ui-wireframe-kit-esempio-animato.gif
+    :alt: ui-wireframe-kit-esempio-animato
+    :name: ui-wireframe-kit-esempio-animato
 
-|Un esempio di composizione dei componenti del Wireframe Kit.|
-
-https://design-docs-francescozaia.readthedocs.io/en/revisione-capitolo-ui/_images/ui-wireframe-kit-esempio-animato.gif
-
-*Figura 5 - Un esempio di composizione dei componenti del Wireframe Kit
-per creare o adattare un content type alle esigenze del prototipo. Il
-software scelto per costruire il Wireframe Kit
-è*\ `Sketch <https://www.sketchapp.com/>`__\ *, uno strumento che
-permette la gestione dinamica dei simboli e la condivisione della
-libreria in modo trasversale a tutti i file su cui si intende lavorare.
-Sketch permette di cambiare le caratteristiche dei singoli elementi e
-personalizzarli in modo rapido e intuitivo.*
-
-*Alternativamente, è possibile importare il file Sketch in altri
-programmi di prototipazione, come*\ `Adobe
-XD <https://www.adobe.com/it/products/xd.html>`__\ *,*\ `Studio <https://studio.design/>`__\ *,
-o*\ `Figma <https://www.figma.com/>`__\ *.*
+    *Figura 5 - Un esempio di composizione dei componenti del Wireframe Kit per creare o adattare un content type alle esigenze del          prototipo. Il software scelto per costruire il Wireframe Kit è*\ `Sketch <https://www.sketchapp.com/>`__\ *, uno strumento che
+     permette la gestione dinamica dei simboli e la condivisione della libreria in modo trasversale a tutti i file su cui si intende          lavorare. Sketch permette di cambiare le caratteristiche dei singoli elementi e personalizzarli in modo rapido e intuitivo.*
+     *Alternativamente, è possibile importare il file Sketch in altri programmi di prototipazione, come*\ `Adobe XD                          <https://www.adobe.com/it/products/xd.html>`__\ *,*\ `Studio <https://studio.design/>`__\ *,
+     o*\ `Figma <https://www.figma.com/>`__\ *.*
+    
 
 Dai wireframe ai prototipi in alta fedeltà (hi-fi)
 ~~~~~~~~~~~
@@ -216,23 +210,7 @@ A questo scopo potremo utilizzare
    nelle app della Pubblica Amministrazione seguendo le linee guida per
    i servizi digitali della Pubblica Amministrazione.
 
-.. _section-3:
 
-.. |Un esempio di wireframe, o prototipo a "bassa fedeltà".| image:: ./media/image2.png
-   :width: 6.27083in
-   :height: 4in
-.. |image1| image:: ./media/image3.jpg
-   :width: 6.27083in
-   :height: 4.70833in
-.. |Un esempio dei componenti presenti nel Wireframe Kit.| image:: ./media/image6.png
-   :width: 6.27083in
-   :height: 8.52778in
-.. |Un esempio dei componenti presenti nel Wireframe Kit.| image:: ./media/image5.png
-   :width: 6.27083in
-   :height: 4.69444in
-.. |Un esempio di schermate sequenziali con pattern di ricerca.| image:: ./media/image4.png
-   :width: 6.27083in
-   :height: 2.625in
-.. |Un esempio di composizione dei componenti del Wireframe Kit.| image:: ./media/image1.png
-   :width: 0.69444in
-   :height: 0.69444in
+
+
+
