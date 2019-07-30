@@ -25,9 +25,7 @@ Possiamo distinguere **tre tipi di ricerca qualitativa**, a cui si associano div
 -  la **ricerca valutativa** infine si svolge quando sono già disponibili i primi prototipi della soluzione progettata e si vuole raccogliere il feedback degli utenti nello sperimentare l’interazione con il servizio digitale in questione. Prevede strumenti come il *test di usabilità* o il *cognitive walkthrough*.
 
 Esistono diverse metodologie di ricerca quantitativa. Il progetto per il design dei siti scolastici in Italia offre un caso pratico di ricerca quantitativa basata sulla somministrazione di un questionario. In questo caso, la ricerca quantitativa aveva l’obiettivo di confermare o mettere in discussione alcune delle prospettive emerse da una precedente fase qualitativa basata su interviste. `Vai alla ricerca. <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/bozza/ricerca/ricerca-quantitativa.html/>`_
-Nel paragrafo dedicato ai `web analytics <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research/web-analytics.html>`_ sono descritte le modalità di analisi del comportamento degli utenti di un sito web, una delle fonti primarie di informazioni nei progetti digitali. Nel paragrafo dedicato agli A/B test illustreremo invece un metodo di ricerca quantitativa funzionale a supportare processi di miglioramento continuo di un servizio digitale. 
-
-
+Nel paragrafo dedicato ai `web analytics <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/user-research/web-analytics.html>`_ sono descritte le modalità di analisi del comportamento degli utenti di un sito web, una delle fonti primarie di informazioni nei progetti digitali. `Nel paragrafo dedicato agli A/B test <https://docs.italia.it/docs/design-linee-guida-docs/it/updatejuly/doc/user-research/ricerche-qualitative.html#la-b-testing>`_ illustreremo invece un metodo di ricerca quantitativa funzionale a supportare processi di miglioramento continuo di un servizio digitale. 
 
 Le interviste individuali
 ^^^^^^^^^^^^^^^^^^^^^^^^^
