@@ -109,20 +109,20 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | informazioni    | .html>`__       | e-kit/>`__      |
 |                 | della PA        |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
-| Rendere i       | Produrre        | `SEO <https://d |                 |
-| contenuti       | contenuti       | ocs.italia.it/i |                 |
-| trovabili dagli | utilizzando le  | talia/designers |                 |
-| utenti sui      | regole SEO      | -italia/design- |                 |
+| Rendere i       | Produrre        | `SEO <https://d | `SEO <https://d |
+| contenuti       | contenuti       | ocs.italia.it/i | esigners.italia |
+| trovabili dagli | utilizzando le  | talia/designers | .it/kit/SEO/>`_ |
+| utenti sui      | regole SEO      | -italia/design- | _               |
 | motori di       | previste nelle  | linee-guida-doc |                 |
 | ricerca         | linee guida     | s/it/stabile/do |                 |
 |                 |                 | c/content-desig |                 |
 |                 |                 | n/seo.html>`__  |                 |
 +-----------------+-----------------+-----------------+-----------------+
-| Semplificare il | Pubblicare      | `Linguaggio <ht |                 |
-| linguaggio dei  | contenuti e     | tps://docs.ital |                 |
-| siti della      | documenti sul   | ia.it/italia/de |                 |
-| Pubblica        | web rispettando | signers-italia/ |                 |
-| amministrazione | gli obblighi    | design-linee-gu |                 |
+| Semplificare il | Pubblicare      | `Linguaggio <ht | `Content        |
+| linguaggio dei  | contenuti e     | tps://docs.ital | Kit <https://de |
+| siti della      | documenti sul   | ia.it/italia/de | signers.italia. |
+| Pubblica        | web rispettando | signers-italia/ | it/kit/content- |
+| amministrazione | gli obblighi    | design-linee-gu | kit/>`__        |
 | e dei documenti | normativi e     | ida-docs/it/sta |                 |
 | amministrativi  | utilizzando le  | bile/doc/conten |                 |
 |                 | regole          | t-design/lingua |                 |
@@ -152,11 +152,11 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 |                 | e-qualitative.h |                 |
 |                 |                 | tml>`__         |                 |
 +-----------------+-----------------+-----------------+-----------------+
-| Analizzare      | Utilizzo di un  | `Web            |                 |
-| esperienza      | sistema di web  | analytics <http |                 |
-| d'uso del sito  | analytics e     | s://docs.italia |                 |
-| da parte degli  | interpretazione | .it/italia/desi |                 |
-| utenti mediante | dei dati        | gners-italia/de |                 |
+| Analizzare      | Utilizzo di un  | `Web            | `Kit Web        |
+| esperienza      | sistema di web  | analytics <http | analytics <http |
+| d'uso del sito  | analytics e     | s://docs.italia | s://designers.i |
+| da parte degli  | interpretazione | .it/italia/desi | talia.it/kit/an |
+| utenti mediante | dei dati        | gners-italia/de | alytics/>`__    |
 | i dati delle    | quantitativi    | sign-linee-guid |                 |
 | visite relative |                 | a-docs/it/stabi |                 |
 | al servizio     |                 | le/doc/user-res |                 |
@@ -171,19 +171,25 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | da usare, anche | possibile       |                 | lopment-kit/>`_ |
 | su dispositivi  | utilizzare      |                 | _               |
 | mobile          | direttamente il |                 |                 |
-|                 | kit di sviluppo |                 |                 |
-|                 | Bootstrap       |                 |                 |
-|                 | Italia          |                 |                 |
+|                 | kit di sviluppo |                 | `UI             |
+|                 | Bootstrap       |                 | Kit <https://de |
+|                 | Italia          |                 | signers.italia. |
+|                 |                 |                 | it/kit/ui-kit/> |
+|                 |                 |                 | `__             |
 +-----------------+-----------------+-----------------+-----------------+
-| Utilizzare      | Utilizzare      | `Kit per i siti | Kit per i siti  |
-| soluzioni       | starter kit     | web dei         | delle scuole    |
-| comuni per      | specifici per   | comuni <https:/ | (in             |
-| tipologie di    | tipologie di    | /github.com/ita | lavorazione)    |
-| enti in modo da | enti, quando    | lia/design-comu |                 |
-| ridurre tempi,  | disponibili     | ni-prototipi>`_ |                 |
-| costi ed essere | all'interno     | _               |                 |
-| più efficaci    | delle linee     |                 |                 |
-|                 | guida           |                 |                 |
+| Utilizzare      | Utilizzare      | `Kit di         | `Kit per i siti |
+| soluzioni       | starter kit     | sviluppo e      | web dei         |
+| comuni per      | specifici per   | design <https:/ | comuni <https:/ |
+| tipologie di    | tipologie di    | /docs.italia.it | /github.com/ita |
+| enti in modo da | enti, quando    | /italia/designe | lia/design-comu |
+| ridurre tempi,  | disponibili     | rs-italia/desig | ni-prototipi>`_ |
+| costi ed essere | all'interno     | n-linee-guida-d | _               |
+| più efficaci    | delle linee     | ocs/it/stabile/ |                 |
+|                 | guida           | doc/introduzion | Kit per i siti  |
+|                 |                 | e-linee-guida-d | delle scuole    |
+|                 |                 | esign.html#kit- | (in             |
+|                 |                 | di-sviluppo-e-d | lavorazione)    |
+|                 |                 | i-design>`__    |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | Offrire ai      | Prevedere       | `Normativa <htt | `UI             |
 | cittadini       | un'esperienza   | ps://docs.itali | Kit <https://de |
@@ -198,8 +204,8 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | pubblica        |                 |                 | e-kit/>`__      |
 | amministrazione |                 |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
-| Gestire i dati  | Includere nel   | GDPR KIT (in    |                 |
-| dei cittadini   | processo di     | lavorazione)    |                 |
+| Gestire i dati  | Includere nel   | In corso di     | GDPR KIT (in    |
+| dei cittadini   | processo di     | pubblicazione   | lavorazione)    |
 | nel rispetto    | progettazione   |                 |                 |
 | della privacy e | di un servizio  |                 |                 |
 | del GDPR        | i temi GDPR in  |                 |                 |
