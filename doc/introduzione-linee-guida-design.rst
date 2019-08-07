@@ -92,8 +92,8 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | un principio di | comportamento   | -guida-docs/it/             |                             |
 | inclusività     | secondo i       | stabile/doc/ser             |                             |
 |                 | requisiti di    | vice-design/acc             |                             |
-|                 | legge           | essibilita.html             |                             |
-|                 |                 | >`__                        |                             |
+|                 | legge           | essibilita.html>`__         |                             |
+|                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Permettere      | Progettare,     | `Architettura               | `Information                |
 | all'utente di   | prototipare e   | dell’Informazio             | Architecture <h             |
@@ -111,8 +111,8 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Rendere i       | Produrre        | `SEO <https://d             | `SEO <https://d             |
 | contenuti       | contenuti       | ocs.italia.it/i             | esigners.italia             |
-| trovabili dagli | utilizzando le  | talia/designers             | .it/kit/SEO/>`_             |
-| utenti sui      | regole SEO      | -italia/design-             | _                           |
+| trovabili dagli | utilizzando le  | talia/designers             | .it/kit/SEO/>`__            |
+| utenti sui      | regole SEO      | -italia/design-             |                             |
 | motori di       | previste nelle  | linee-guida-doc             |                             |
 | ricerca         | linee guida     | s/it/stabile/do             |                             |
 |                 |                 | c/content-desig             |                             |
@@ -167,7 +167,7 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | un risparmio di | UI kit della PA | Kit <https://de             | development                 |
 | tempi e costi,  | per progettare  | signers.italia.             | kit <https://de             |
 | interfacce      | l'interfaccia   | it/kit/ui-kit/>`__          | signers.italia.             |
-| utente facili   | del sito. E'    | `__                         | it/kit/web-deve             |
+| utente facili   | del sito. E'    |                             | it/kit/web-deve             |
 | da usare, anche | possibile       |                             | lopment-kit/>`__            |
 | su dispositivi  | utilizzare      |                             |                             |
 | mobile          | direttamente il |                             |                             |
@@ -194,8 +194,8 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | Offrire ai      | Prevedere       | `Normativa <htt             | `UI                         |
 | cittadini       | un'esperienza   | ps://docs.itali             | Kit <https://de             |
 | un'esperienza   | d'uso basata    | a.it/italia/des             | signers.italia.             |
-| di              | sulle           | igners-italia/d             | it/kit/ui-kit/>             |
-| autenticazione  | piattaforme     | esign-linee-gui             | `__                         |
+| di              | sulle           | igners-italia/d             | it/kit/ui-kit/>`__          |
+| autenticazione  | piattaforme     | esign-linee-gui             |                             |
 | ai servizi e di | abilitanti (es. | da-docs/it/stab             |                             |
 | pagamento       | spid, pagopa)   | ile/doc/service             | `Wireframe                  |
 | facile e comune |                 | -design/normati             | kit <https://de             |
@@ -215,6 +215,7 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | (informativa,   |                             |                             |
 |                 | cookies, ecc.)  |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
+
 
 Per discutere sul design dei servizi pubblici è disponibile il nostro `forum <https://forum.italia.it/c/design>`_. Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
 
