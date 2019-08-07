@@ -20,7 +20,7 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | **Obiettivi**   | **Azioni        | **Linee guida**             | **Rif. kit**                |
 |                 | chiave**        |                             |                             |
-+=================+=================+=============================+==============================+
++=================+=================+=============================+=============================+
 | Focalizzarsi    | Definire in     | `Service                    | `Co-design                  |
 | sulle priorità  | modo esplicito  | Design <https:/             | workshop <https             |
 | e tradurre gli  | obiettivi,      | /docs.italia.it             | ://designers.it             |
