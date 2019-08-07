@@ -52,8 +52,8 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 |                 |                 | `UI             |
 |                 |                 |                 | Kit <https://de |
 |                 |                 |                 | signers.italia. |
-|                 |                 |                 | it/kit/ui-kit/  |
-|                 |                 |                 | >`__            |
+|                 |                 |                 | it/kit/ui-kit/> |
+|                 |                 |                 | `__             |
 +-----------------+-----------------+-----------------+-----------------+
 | Favorire il     | Inserire nei    | `Linee guida di |                 |
 | raggiungimento  | capitolati di   | design per i    |                 |
