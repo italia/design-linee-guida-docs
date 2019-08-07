@@ -261,3 +261,4 @@ Kit di sviluppo e di design
 Il progetto di design dei servizi pubblici digitali prevede che oltre al rilascio di linee guida ci sia il rilascio di kit di sviluppo e di design per i siti pubblici (ad es. icon kit, kit di sviluppo, ecc.). I kit - e la documentazione dei kit - possono essere citati all’interno delle linee guida, ma non sono contenuti all’interno di questo repo. I kit sono espressione delle linee guida, ma il versionamento delle linee guida e quello dei kit sono processi indipendenti.
 
 `Vai ai kit per il design dei servizi digitali della Pubblica Amministrazione <https://designers.italia.it/kit/>`_
+`Vai ai kit di sviluppo <https://designers.italia.it/kit/web-development-kit/>`_
