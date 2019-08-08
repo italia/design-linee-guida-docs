@@ -169,6 +169,7 @@ La **home page** di un sito ha la funzione di punto di ingresso, ed è tipicamen
 +-----------------------+
 | Footer                |               
 +-----------------------+
+
 *Modello di home page di un sito web organizzato in quattro sezioni principali e prototipo della home page di un sito scolastico che segue questo approccio*
 
 .. figure:: images/HomeScuola.png
