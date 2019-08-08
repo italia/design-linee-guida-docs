@@ -55,11 +55,11 @@ Nella progettazione di un sito web, l’architettura dell’informazione deve ne
 Per approfondire, vai alla sezione dedicata al `design di un servizio <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/service-design.html>`_ e utilizza la `ecosystem map. <https://designers.italia.it/kit/ecosystem-map/>`_
 
 Definizione e organizzazione dei contenuti
-~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Uno dei principi dell’architettura dell’informazione è tenere conto del contesto e delle funzioni delle organizzazioni e dei servizi che esprimono. Questo significa che è possibile definire, come vedremo, standard di architettura dell’informazione specifici per il mondo della Pubblica Amministrazione. In secondo luogo, sarà possibile avviare un’attività di modellazione più specifica, partendo da una segmentazione degli enti e delle funzioni ad esse associate. In pratica, l’organizzazione della conoscenza all’interno della Pubblica Amministrazione ha alcune regole generali che è bene conoscere e che devono essere utilizzate in ogni ambito; e alcune regole (standard) che si possono applicare all’interno di ambiti specifici. Per fare un esempio, è possibile definire uno standard per l’architettura dell’informazione dei Comuni italiani, senza che sia necessario affrontare il problema per ciascuno dei migliaia dei siti web dei Comuni italiani. L’utilizzo di standard nella definizione di contenuti, dati e nella loro classificazione è alla base di concetti come l’interoperabilità e in definitiva rappresenta la creazione di un linguaggio digitale comune alla Pubblica Amministrazione italiana. L’ architettura dell’informazione partecipa alla fase di  `progettazione e prototipazione di un sito o di un servizio digitale <https://docs.italia.it/docs/design-linee-guida-docs/it/updatejuly/doc/prototyping.html>`_ attraverso strumenti come il `wireframe kit <https://designers.italia.it/kit/wireframe-kit/>`_ (che contiene modelli di content type e pattern di interazione) e il `kit per la definizione dei sistemi di navigazione e dei modelli di contenuto di un sito <https://designers.italia.it/kit/information-architecture/>`_
 
 I content type
-===================
+==============
 
 In fase di progettazione, i contenuti di un sito web devono essere organizzati in diverse tipologie, o content type. Esempi di content type sono una scheda di presentazione di un servizio, una form per inserire dati anagrafici, una notizia o una scheda di presentazione di un evento. Sulla base delle funzioni che deve svolgere un sito, è possibile definire una lista dei content type. Vediamone alcuni.
 
@@ -105,7 +105,7 @@ In una fase iniziale di progettazione, per ciascuno dei content type occorre rip
    :align: center
 
 I sistemi di navigazione
-===================
+========================
 Un sito web presenta abitualmente **un sistema di navigazione principale** (menù di navigazione), che a sua volta può essere organizzato in uno o più livelli e che genera il menù di navigazione di un sito web. La struttura di navigazione può essere riprodotta anche attraverso la creazione di breadcrumb, normalmente posizionati nella parte alta di ciascuna delle pagine web di cui si compone il sito. Ad esempio, nella pagina dedicata all’ufficio anagrafe di un sito web di un Comune potremmo trovare il breadcrumb *Amministrazione/Uffici/Ufficio anagrafe.*
 
 La struttura di navigazione di base aiuta l’utente ad orientarsi e a comprendere rapidamente l’organizzazione delle informazioni presenti sul sito. 
@@ -128,7 +128,7 @@ Un altro caso tipico di relazione tra contenuti è quella relativa ai **flussi d
    *Rappresentazione del flusso di fruizione di un servizio digitale: percorso di navigazione e relazioni tra contenuti.*
 
 Home page, pagine di ricerca e aree personali
-===================
+=============================================
 Home page, pagine di ricerca e aree personali sono tre punti di ingresso chiave per comprendere e accedere al sistema.
 La **home page** di un sito ha la funzione di punto di ingresso, ed è tipicamente il luogo in cui l’utente ottiene una visione chiara della missione di un sito e delle sue funzioni chiave. Un modo semplice per organizzare la home page è definire una struttura coerente rispetto al sistema di navigazione principale, per esempio attraverso un layout a fasce.
 
@@ -198,13 +198,13 @@ Partendo dal testo che l’utente ha iniziato a generare, la funzione di *autoco
 Il *sorting* è il criterio di ordinamento dei risultati di ricerca. Per esempio, un utente che intende trovare dei bandi pubblici potrebbe ricercare un argomento e successivamente voler ordinare i risultati sulla base della data, in modo da poter vedere tra i primi risultati quelli più recenti.
 
 Ontologie e standard
-~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 L’emergere del web come ambiente aperto di comunicazione e condivisione di informazioni ha favorito la nascita di un approccio alla modellazione dell’informazione più astratto rispetto allo specifico sistema (o punto di contatto con l’utente) che si sta progettando. Pensare ai contenuti come indipendenti dalla piattaforma che li ospita permette di renderli disponibili, per esempio attraverso API, per l’utilizzo da parte di altri o per la progettazione di altri punti di contatto con il cittadino (per esempio una app) utilizzando quanto previsto nelle `linee guida relative alla interoperabilità. <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/v2018.1/>`_
 
 Per questo motivo è bene costruire content type e sistemi di classificazione sulla base di strutture formali di rappresentazione della realtà più astratte, che possiamo esprimere in termini di **ontologie** e di **vocabolari controllati**. Facciamo un esempio: un sito della Pubblica Amministrazione prevede normalmente content type per definire un ufficio (es. Ufficio anagrafe), un luogo (es. Palazzo Chigi) o un ruolo (es. direttore dipartimento). Queste informazioni possono essere modellate utilizzando le ontologie relative a persone, organizzazioni e luoghi ( `vedi alcune ontologie già disponibili <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/>`_). L’ eventuale informazione relativa a un titolo di studio di una persona che lavora per la Pubblica Amministrazione può essere espressa attraverso un vocabolario controllato, `e anche in questo caso ne esiste già uno. <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/VocabolariControllati/classifications-for-people/education-level/>`_ 
 
 Le ontologie
-===================
+============
 Come leggiamo nelle `linee guida per i cataloghi dati <https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/ontologia.html/>`_  della Pubblica Amministrazione: “Le ontologie si stanno sempre più sviluppando come strumento formale di rappresentazione, sulla base di specifici requisiti, di un dominio di conoscenza. In particolare, al fine di massimizzare la condivisione della conoscenza e garantire interoperabilità semantica, l’ontologia consente di descrivere la semantica dei dati con una terminologia concordata che può essere poi successivamente riusata anche in altri contesti con simili obiettivi. Tipicamente l’ontologia non è un obiettivo di per sé ma costituisce una base solida per poter sviluppare, al di sopra di essa, applicazioni e servizi avanzati semantici, sempre più diffusi con lo sviluppo dei Linked Data e in ambito World Wide Web”. 
 E’ in corso un progetto di modellazione  delle informazioni relative al settore pubblico. Il progetto mette a disposizione diverse ontologie e governa la standardizzazione di nuove ontologie.
 
@@ -213,8 +213,8 @@ E’ in corso un progetto di modellazione  delle informazioni relative al settor
 `Ontologie disponibili <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/>`_ 
 
 
-Vocabolari controllari
-===================
+Vocabolari controllati
+======================
 Un **vocabolario controllato** è una lista ristretta di termini utilizzati per etichettare, indicizzare e categorizzare i contenuti di un ambiente. Se a un’area o a un intero ambiente è applicato un vocabolario controllato significa che:
 
 - solo i termini inclusi nella sua lista possono essere utilizzati in quello spazio;
