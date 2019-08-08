@@ -54,7 +54,7 @@ lavorando in tre direzioni:
    sessione di validazione delle scelte progettuali.
 
 Prototipi a bassa e media definizione 
---------------------------------------
+-------------------------------------
 
 I wireframe
 ~~~~~~~~~~~
@@ -132,7 +132,7 @@ identità:*
 5. Ricevo conferma della prenotazione dell’appuntamento
 
 Il wireframe kit
-~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 Il prototipo a bassa fedeltà può essere modellato utilizzando il
 **Wireframe Kit** messo a disposizione da Designers Italia che può agire
@@ -184,7 +184,7 @@ prototipazione, se necessario.
     
 
 Dai wireframe ai prototipi in alta fedeltà (hi-fi)
-~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Una volta costruito, testato e migliorato il wireframe a bassa fedeltà,
 possiamo passare alla realizzazione di un prototipo ad alta fedeltà (o
