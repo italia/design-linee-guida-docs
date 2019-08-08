@@ -16,7 +16,7 @@ La progettazione di un ambiente informativo può partire dalla definizione delle
 - la certificazione di qualcosa o l’autorizzazione a fare qualcosa (come nel caso di un cambio di residenza o del rilascio di un passaporto).
 
 Contenuti, persone e contesto
-~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Progettare l’architettura dell’informazione significa soddisfare i bisogni degli utenti, creando e organizzando l’informazione per dare senso alle cose, nel rispetto del contesto organizzativo e di fruizione dei servizi.
 
 .. figure:: images/diagramma_ai.png
