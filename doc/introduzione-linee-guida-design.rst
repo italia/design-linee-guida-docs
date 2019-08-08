@@ -36,22 +36,6 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | misurare        |                             |                             |
 |                 | l'efficacia del |                             |                             |
 |                 | servizio        |                             |                             |
-
-| Focalizzarsi    | Definire in     | `Service                    | `Co-design                  |
-| sulle priorità  | modo esplicito  | Design <../doc/             | workshop <https             |
-| e tradurre gli  | obiettivi,      | service-design.             | ://designers.it             |
-| obiettivi in    | destinari del   | html>`__                    | alia.it/kit/co-             |
-| indicatori      | servizio e      |                             | design-workshop             |
-| misurabili      | stakeholder     |                             | />`__                       |
-|                 | coinvolti nel   |                             |                             |
-|                 | processo di     |                             | Human-centered              |
-|                 | progettazione.  |                             | KPI (in                     |
-|                 | Predisporre un  |                             | lavorazione)                |
-|                 | set di          |                             |                             |
-|                 | indicatori per  |                             |                             |
-|                 | misurare        |                             |                             |
-|                 | l'efficacia del |                             |                             |
-|                 | servizio        |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | In fase di      | Mappatura delle | Prototyping                 | `User                       |
 | progettazione o | funzioni (user  |                             | stories <https:             |
