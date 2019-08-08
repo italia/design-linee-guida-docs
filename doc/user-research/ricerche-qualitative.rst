@@ -1,5 +1,5 @@
 Ricerche qualitative e quantitative
---------------------
+-----------------------------------
 
 La User Research (ricerca sugli utenti) ha come fine ultimo quello di studiare gli utenti per progettare servizi quanto più rispondenti alle loro effettive esigenze. Questo obiettivo si raggiunge attraverso approcci di ricerca di tipo qualitativo e/o quantitativo, che si differenziano per le caratteristiche del dato che si può ricavare e per l’analisi che se ne può fare. La ricerca qualitativa, in genere, ha come obiettivo cercare di comprendere le motivazioni sottese ad attitudini, comportamenti e atteggiamenti dell’utente, studiandone le attività, i contesti d’uso, le necessità ma anche gli errori e le frustrazioni. A differenza della ricerca quantitativa, non si basa solamente su quello che le persone dicono, ma cerca di guardare più in profondità, mappando quello che le persone dicono, fanno e pensano. La ricerca qualitativa:
 
@@ -94,7 +94,7 @@ Uno dei rischi dei focus group è quello di avere persone con opinioni molto for
 Ciascun focus group viene documentato tramite la raccolta di note relative alle informazioni e osservazioni che emergono durante lo scambio: per questo è bene prevedere una persona dedicata alla raccolta di appunti, in aggiunta al moderatore. Le sessioni possono inoltre essere documentate tramite la registrazione video (in questo caso è necessario chiedere ai partecipanti di firmare il `modulo di liberatoria <https://docs.google.com/document/d/1JVctSWSJN6tJeno70OjA8Tl_4rs0dIJ5XLoOQbIgo24/edit?usp=sharing>`_). I materiali vengono utilizzati per costruire un report dei focus group che va ad informare le successive attività di sviluppo delle soluzioni di
 
 L’A/B testing
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
 
 L’A/B testing è una metodologia di analisi che ha l’obiettivo di confrontare due versioni di una pagina web di un sito o di un’applicazione, che differiscono per un elemento specifico. 
 Permette quindi di effettuare delle scelte di design basate su dati - secondo l’approccio data-driven tipico della ricerca quantitativa - confermando o confutando delle ipotesi progettuali.
