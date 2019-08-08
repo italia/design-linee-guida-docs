@@ -22,14 +22,14 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | chiave**        |                             |                             |
 +=================+=================+=============================+=============================+
 | Focalizzarsi    | Definire in     | `Service                    | `Co-design                  |
-| sulle priorità  | modo esplicito  | Design <https:/             | workshop <https             |
-| e tradurre gli  | obiettivi,      | /docs.italia.it             | ://designers.it             |
-| obiettivi in    | destinari del   | /italia/designe             | alia.it/kit/co-             |
-| indicatori      | servizio e      | rs-italia/desig             | design-workshop             |
-| misurabili      | stakeholder     | n-linee-guida-d             | />`__                       |
-|                 | coinvolti nel   | ocs/it/stabile/             |                             |
-|                 | processo di     | doc/service-des             | Human-centered              |
-|                 | progettazione.  | ign.html>`__                | KPI (in                     |
+| sulle priorità  | modo esplicito  | Design <../doc/             | workshop <https             |
+| e tradurre gli  | obiettivi,      | service-design.             | ://designers.it             |
+| obiettivi in    | destinari del   | html>`__                    | alia.it/kit/co-             |
+| indicatori      | servizio e      |                             | design-workshop             |
+| misurabili      | stakeholder     |                             | />`__                       |
+|                 | coinvolti nel   |                             |                             |
+|                 | processo di     |                             | Human-centered              |
+|                 | progettazione.  |                             | KPI (in                     |
 |                 | Predisporre un  |                             | lavorazione)                |
 |                 | set di          |                             |                             |
 |                 | indicatori per  |                             |                             |
@@ -37,9 +37,9 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | l'efficacia del |                             |                             |
 |                 | servizio        |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| In fase di      | Mappatura delle | Prototyping                 | `User                       |
-| progettazione o | funzioni (user  |                             | stories <https:             |
-| riprogettazione | stories) del    |                             | //designers.ita             |
+| In fase di      | Mappatura delle | `Prototyping                | `User                       |
+| progettazione o | funzioni (user  | <../doc/prototyping         | stories <https:             |
+| riprogettazione | stories) del    | .html>`__                   | //designers.ita             |
 | di un servizio, | servizio e      |                             | lia.it/kit/user             |
 | chiarire e      | realizzazione   |                             | -stories/>`__               |
 | rappresentare   | di un prototipo |                             |                             |
@@ -68,16 +68,16 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | riferimenti     |                             |                             |
 |                 | normativi       |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| Miglioramento   | Adottare        | `Accessibilità              | A/B Test                    |
-| progressivo di  | un'organizzazio | <../doc/service             |                             |
-| un servizio     | ne              | -design/accessi             |                             |
-| esistente       | del lavoro      | bilita.html>`__             |                             |
+| Miglioramento   | Adottare        | `Accessibilità              | `A/B Test                   |
+| progressivo di  | un'organizzazio | <../doc/service             | <https://designers          |
+| un servizio     | ne              | -design/accessi             | .italia.it/kit/ab-          |
+| esistente       | del lavoro      | bilita.html>`__             | test/>`__                   |
 |                 | orientata al    |                             |                             |
-|                 | miglioramento   |                             |                             |
-|                 | continuo delle  |                             |                             |
-|                 | soluzioni,      |                             |                             |
-|                 | anche           |                             |                             |
-|                 | attraverso      |                             |                             |
+|                 | miglioramento   | `A/B Test                   |                             |
+|                 | continuo delle  | <doc/user-resea             |                             |
+|                 | soluzioni,      | rch/ricerche-qu             |                             |
+|                 | anche           | alitative.html#             |                             |
+|                 | attraverso      | la-b-testing>`__            |                             |
 |                 | attività di     |                             |                             |
 |                 | manutenzione    |                             |                             |
 |                 | evolutiva e     |                             |                             |
