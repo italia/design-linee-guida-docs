@@ -130,38 +130,38 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | guida al        |                             |                             |
 |                 | linguaggio      |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| Comprendere i   | Condurre        | `Usabilità <htt             | `User                       |
-| bisogni a cui   | interviste agli | ps://docs.itali             | Interviews <htt             |
-| il servizio     | utenti e test   | a.it/italia/des             | ps://designers.             |
-| intende dare    | di usabilità    | igners-italia/d             | italia.it/kit/u             |
-| risposta.       |                 | esign-linee-gui             | ser-interviews/>`__         |
-| Osservare come  |                 | da-docs/it/stab             |                             |
-| gli utenti      |                 | ile/doc/user-re             |                             |
-| interagiscono   |                 | search/usabilit             | `Usability                  |
-| con il servizio |                 | a.html>`__                  | test <https://d             |
+| Comprendere i   | Condurre        | `Usabilità                  | `User                       |
+| bisogni a cui   | interviste agli | <../doc/user-re             | Interviews <htt             |
+| il servizio     | utenti e test   | search/usabilit             | ps://designers.             |
+| intende dare    | di usabilità    | a.html>`__                  | italia.it/kit/u             |
+| risposta.       |                 |                             | ser-interviews/>`__         |
+| Osservare come  |                 |                             |                             |
+| gli utenti      |                 |                             |                             |
+| interagiscono   |                 |                             | `Usability                  |
+| con il servizio |                 |                             | test <https://d             |
 |                 |                 |                             | esigners.italia             |
 |                 |                 | `Ricerche                   | .it/kit/usabili             |
-|                 |                 | qualitative <ht             | ty-test/>`__                |
-|                 |                 | tps://docs.ital             |                             |
-|                 |                 | ia.it/italia/de             |                             |
-|                 |                 | signers-italia/             |                             |
-|                 |                 | design-linee-gu             |                             |
-|                 |                 | ida-docs/it/sta             |                             |
-|                 |                 | bile/doc/user-r             |                             |
-|                 |                 | esearch/ricerch             |                             |
-|                 |                 | e-qualitative.h             |                             |
-|                 |                 | tml>`__                     |                             |
+|                 |                 | qualitative                 | ty-test/>`__                |
+|                 |                 | <../doc/user-re             |                             |
+|                 |                 | search/ricerche             |                             |
+|                 |                 | -qualitative.html>`__       |                             |
+|                 |                 |                             |                             |
+|                 |                 |                             |                             |
+|                 |                 |                             |                             |
+|                 |                 |                             |                             |
+|                 |                 |                             |                             |
+|                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Analizzare      | Utilizzo di un  | `Web                        | `Kit Web                    |
-| esperienza      | sistema di web  | analytics <http             | analytics <http             |
-| d'uso del sito  | analytics e     | s://docs.italia             | s://designers.i             |
-| da parte degli  | interpretazione | .it/italia/desi             | talia.it/kit/an             |
-| utenti mediante | dei dati        | gners-italia/de             | alytics/>`__                |
-| i dati delle    | quantitativi    | sign-linee-guid             |                             |
-| visite relative |                 | a-docs/it/stabi             |                             |
-| al servizio     |                 | le/doc/user-res             |                             |
-| offerto         |                 | earch/web-analy             |                             |
-|                 |                 | tics.html>`__               |                             |
+| esperienza      | sistema di web  | analytics                   | analytics <http             |
+| d'uso del sito  | analytics e     | <../doc/user-re             | s://designers.i             |
+| da parte degli  | interpretazione | search/web-anal             | talia.it/kit/an             |
+| utenti mediante | dei dati        | ytics.html>`__              | alytics/>`__                |
+| i dati delle    | quantitativi    |                             |                             |
+| visite relative |                 |                             |                             |
+| al servizio     |                 |                             |                             |
+| offerto         |                 |                             |                             |
+|                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Costruire, con  | Utilizzare lo   | `UI                         | `Web                        |
 | un risparmio di | UI kit della PA | Kit <https://de             | development                 |
@@ -179,27 +179,27 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Utilizzare      | Utilizzare      | `Kit di                     | `Kit per i siti             |
 | soluzioni       | starter kit     | sviluppo e                  | web dei                     |
-| comuni per      | specifici per   | design <https:/             | comuni <https:/             |
-| tipologie di    | tipologie di    | /docs.italia.it             | /github.com/ita             |
-| enti in modo da | enti, quando    | /italia/designe             | lia/design-comu             |
-| ridurre tempi,  | disponibili     | rs-italia/desig             | ni-prototipi>`__            |
-| costi ed essere | all'interno     | n-linee-guida-d             |                             |
-| più efficaci    | delle linee     | ocs/it/stabile/             |                             |
-|                 | guida           | doc/introduzion             | Kit per i siti              |
-|                 |                 | e-linee-guida-d             | delle scuole                |
-|                 |                 | esign.html#kit-             | (in                         |
-|                 |                 | di-sviluppo-e-d             | lavorazione)                |
-|                 |                 | i-design>`__                |                             |
+| comuni per      | specifici per   | design <../doc/             | comuni <https:/             |
+| tipologie di    | tipologie di    | introduzione-linee          | /github.com/ita             |
+| enti in modo da | enti, quando    | -guida-design.html          | lia/design-comu             |
+| ridurre tempi,  | disponibili     | #kit-di-sviluppo-e          | ni-prototipi>`__            |
+| costi ed essere | all'interno     | -di-design>`__              |                             |
+| più efficaci    | delle linee     |                             |                             |
+|                 | guida           |                             | Kit per i siti              |
+|                 |                 |                             | delle scuole                |
+|                 |                 |                             | (in                         |
+|                 |                 |                             | lavorazione)                |
+|                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| Offrire ai      | Prevedere       | `Normativa <htt             | `UI                         |
-| cittadini       | un'esperienza   | ps://docs.itali             | Kit <https://de             |
-| un'esperienza   | d'uso basata    | a.it/italia/des             | signers.italia.             |
-| di              | sulle           | igners-italia/d             | it/kit/ui-kit/>`__          |
-| autenticazione  | piattaforme     | esign-linee-gui             |                             |
-| ai servizi e di | abilitanti (es. | da-docs/it/stab             |                             |
-| pagamento       | spid, pagopa)   | ile/doc/service             | `Wireframe                  |
-| facile e comune |                 | -design/normati             | kit <https://de             |
-| ai diversi      |                 | va.html>`__                 | signers.italia.             |
+| Offrire ai      | Prevedere       | `Normativa                  | `UI                         |
+| cittadini       | un'esperienza   | <../doc/service             | Kit <https://de             |
+| un'esperienza   | d'uso basata    | -design/normati             | signers.italia.             |
+| di              | sulle           | va.html>`__                 | it/kit/ui-kit/>`__          |
+| autenticazione  | piattaforme     |                             |                             |
+| ai servizi e di | abilitanti (es. |                             |                             |
+| pagamento       | spid, pagopa)   |                             | `Wireframe                  |
+| facile e comune |                 |                             | kit <https://de             |
+| ai diversi      |                 |                             | signers.italia.             |
 | servizi della   |                 |                             | it/kit/wirefram             |
 | pubblica        |                 |                             | e-kit/>`__                  |
 | amministrazione |                 |                             |                             |
