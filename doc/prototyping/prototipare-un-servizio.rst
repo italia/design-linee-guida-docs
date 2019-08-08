@@ -194,9 +194,9 @@ poter realizzare test e facilitare l’avvio della fase di sviluppo
 A questo scopo potremo utilizzare
 
 -  le linee guida relative alla `user
-   interface <https://design-italia.readthedocs.io/it/stable/doc/user-interface.html>`__
+   interface <../../doc/user-interface.html>`__
    e all’\ `architettura
-   dell’informazione <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/architettura-dell-informazione.html>`__,
+   dell’informazione <../../doc/content-design/architettura-dell-informazione.html>`__,
    `il kit per l’architettura
    dell’informazione <https://designers.italia.it/kit/information-architecture/>`__
    e lo `Ui Kit <https://designers.italia.it/kit/ui-kit/>`__ di
@@ -204,7 +204,7 @@ A questo scopo potremo utilizzare
    assemblare l’interfaccia di un sito o di un’app,
 
 -  `le linee guida relative ai
-   contenuti <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/content-design/linguaggio.html>`__
+   contenuti <../../doc/content-design/linguaggio.html>`__
    e il `content kit <https://designers.italia.it/kit/content-kit/>`__,
    una serie di standard per il linguaggio da utilizzare nei siti e
    nelle app della Pubblica Amministrazione seguendo le linee guida per
