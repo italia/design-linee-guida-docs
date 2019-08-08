@@ -74,10 +74,10 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | esistente       | del lavoro      | bilita.html>`__             | test/>`__                   |
 |                 | orientata al    |                             |                             |
 |                 | miglioramento   | `A/B Test                   |                             |
-|                 | continuo delle  | <doc/user-resea             |                             |
-|                 | soluzioni,      | rch/ricerche-qu             |                             |
-|                 | anche           | alitative.html#             |                             |
-|                 | attraverso      | la-b-testing>`__            |                             |
+|                 | continuo delle  | <../doc/user-re             |                             |
+|                 | soluzioni,      | search/ricerche             |                             |
+|                 | anche           | -qualitative.ht             |                             |
+|                 | attraverso      | ml#la-b-testing>`__         |                             |
 |                 | attività di     |                             |                             |
 |                 | manutenzione    |                             |                             |
 |                 | evolutiva e     |                             |                             |
