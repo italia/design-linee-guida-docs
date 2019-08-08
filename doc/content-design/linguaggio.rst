@@ -11,33 +11,21 @@ Un linguaggio semplice è un ingrediente indispensabile per rendere i
 servizi della **della Pubblica Amministrazione più efficaci e
 inclusivi**
 
-Ecco alcuni degli obiettivi che la Pubblica Amministrazione deve porsi:
+Ecco alcuni degli obiettivi da porsi quando si scrive per i cittadini:
 
--  documenti semplici, scritti sulla base dei bisogni dei lettori e non
-   delle esigenze di chi li scrive;
+- scrivi documenti semplici e lineari, che tengano conto in primis dei bisogni del lettore
+- usa un linguaggio semplice e chiaro, seguendo le indicazioni della `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/>`__ su stile, tono di voce, uso delle parole
+- organizza contenuti e documenti in modo che siano facili da trovare durante la navigazione
+- presta particolare attenzione ai testi delle interfacce utente (definiti in gergo microcopy): la qualità e la pertinenza di label (etichette di navigazione), call to action (inviti all’azione) e altri testi che accompagnano e spiegano le interfacce grafiche, come ad esempio le tool tip o i testi che spiegano i contenuti da inserire all’interno di un form 
 
--  contenuti facili da trovare, perché rispettosi delle regole di
-   scrittura tipiche del web;
-
--  standard nella organizzazione dei contenuti, per ridurre la
-   proliferazione di soluzioni inefficaci;
-
--  attenzione ai testi delle interfacce (label, call to action e
-   microcopy), fondamentali per migliorare l’esperienza di fruizione dei
-   servizi digitali.
-
-Scrivi i contenuti pensando sempre agli utenti che dovranno leggerli o
-utilizzarli. Prima di creare un contenuto, devi avere ben chiaro:
+Prima di creare un contenuto, devi avere ben chiaro:
 
 -  chi sono gli **utenti** a cui ti rivolgi;
 
 -  qual è lo **scopo** della loro visita, ovvero qual è il bisogno a cui
    il tuo contenuto deve rispondere.
 
-Quando realizzi una pagina, come prima cosa definisci a cosa serve e in
-che modo risponde a un bisogno dei cittadini (o di specifiche categorie
-di cittadini). Per individuare chi sono i tuoi utenti e quali sono i
-loro bisogni, utilizza in modo appropriato tutti gli strumenti della
+Per individuare chi sono i tuoi utenti target (o categorie di utenti) e quali sono i loro bisogni, puoi utilizzare strumenti di
 `user research <../user-research.html>`__, come ad esempio:
 
 -  sessioni partecipative con gli utenti (puoi usare `il kit per le User
@@ -54,35 +42,22 @@ loro bisogni, utilizza in modo appropriato tutti gli strumenti della
 Puoi utilizzare le informazioni che raccogli per costruire delle
 personas (puoi usare `il kit
 Personas <https://designers.italia.it/kit/personas/>`__ per farlo),
-ovvero dei profili che rappresentano alcune tipologie di utenti del tuo
+ovvero dei profili rappresentativi di categorie di utenti del tuo
 servizio, e ipotizzare delle `user
-journey <https://designers.italia.it/kit/user-journey/>`__. Un modo
-molto utile per visualizzare chi sono le persone a cui ti rivolgi e che
-cosa fanno sul tuo sito.
+journey <https://designers.italia.it/kit/user-journey/>`__, cioè delle rappresentazioni sintetiche delle fasi che compongono l’interazione dell’utente con un servizio. 
 
-Capire chi sono gli utenti e quali sono i loro bisogni è necessario in
-**tutte le fasi in cui lavori con il contenuto**, ovvero:
+Definire chi sono gli utenti e quali sono i loro bisogni è necessario in
+**tutte le fasi in cui lavori al contenuto**, ovvero:
 
--  la progettazione;
+-  la progettazione/design;
 
 -  la scrittura;
 
 -  la gestione.
 
-Utilizza sempre un **linguaggio semplice e chiaro**, seguendo le
-indicazioni della `Guida al linguaggio della Pubblica
-Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/>`__
-sullo stile, sul tono di voce, sull’uso delle parole. Elimina il
-burocratese e riduci gli acronimi, tieni sempre ben presente chi sono i
-tuoi interlocutori e fai in modo che **trovino in modo semplice, rapido
-e chiaro tutte le informazioni** che cercano.
-
-Dei contenuti efficaci devono essere immediatamente comprensibili e
-utilizzabili da tutti gli utenti, a prescindere dall’età, dalle
-competenze e dalle abilità. Per questo assicurati che tutti gli
-elementi, i testi, le interfacce, i contenuti multimediali siano
-`accessibili e
-inclusivi <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusivita.html>`__.
+Contenuti efficaci dovrebbero essere immediatamente comprensibili e
+fruibili dagli utenti, a prescindere dall’età, le
+competenze e le abilità. 
 
 Utilizza strumenti, metodi di lavoro e modelli presenti nel `kit di
 Designers Italia dedicato ai
@@ -90,24 +65,18 @@ contenuti <https://designers.italia.it/kit/content-kit/>`__
 
 Progettare i contenuti
 ======================
+La fase di progettazione dei contenuti contribuisce a modellare l’ambiente cognitivo nel quale gli utenti si muoveranno alla ricerca di informazioni. 
 
-L’attività di progettazione dei contenuti è particolarmente importante,
-perché è in questa fase che **modelli l’ambiente** nel quale i tuoi
-utenti si muoveranno. Il linguaggio verbale infatti ha diverse funzioni:
+Il linguaggio infatti: 
 
--  contribuisce a dare forma all’ambiente informativo dentro cui
-   l’utente si muove (es. il nome delle voci del menu di navigazione e
-   dei filtri di una sezione di ricerca);
+- dà forma all’ecosistema di informazioni dentro cui l’utente si muove (es. il nome delle voci del menu di navigazione e dei filtri di una sezione di ricerca);
 
--  guida l’utente che deve fare qualcosa, fornendogli le informazioni di
-   cui ha bisogno (es. la scheda e/o guida introduttiva ad un servizio);
+- guida l’utente che deve fare un’azione fornendogli le informazioni di cui ha bisogno (es. la scheda e/o guida introduttiva ad un servizio);
 
--  contribuisce, come parte dell’interfaccia utente (microcopy), a dare
-   forma al servizio (es. i testi che accompagnano l’utente che sta
-   compilando un form on line);
+- contribuisce, come parte dell’interfaccia utente, a dare forma al servizio (es. i testi che accompagnano l’utente che sta compilando un form on line);
 
--  è esso stesso un elemento chiave del servizio (es. Il documento
-   “pagella” che viene letto da un genitore nel sito di una scuola).
+- è esso stesso un elemento chiave del servizio (es. Il documento “pagella” che viene letto da un genitore nel sito di una scuola).
+
 
 Il punto di partenza per avviare il lavoro di progettazione dei
 contenuti può essere un `workshop dedicato al
@@ -121,32 +90,27 @@ Le priorità sono le seguenti:
 
 -  di cosa hanno **bisogno** le persone/gli utenti?
 
--  a quali bisogni informativi devi rispondere?
-
--  quali sono i contenuti e le **informazioni importanti**, da mettere
+-  quali sono i contenuti e le **informazioni**, da mettere
    in rilievo?
 
 -  che **parole** usano le persone per chiamare un servizio? che nome
    dare dunque ai contenuti e ai servizi?
+   
+- che nome dare a contenuti e servizi?
 
 Per dare risposta a questa domande devi entrare nel processo di
 prototipazione, dove il servizio prende forma (o viene ridefinito).
+La progettazione di un servizio beneficia della presenza di un design system di riferimento ovvero regole e componenti standard fanno sì che in fase di creazione di un nuovo servizio non sia necessario *reinventare ogni volta la ruota*.
 
-La progettazione di un servizio beneficia della presenza di un **design
-system**, una serie di regole e componenti standard che supportano la
-fase di creazione di un servizio evitando di dover reinventare ogni
-volta la ruota. Tra questi rientrano anche una serie di *design
-pattern*, che offrono linee guida ben precise relativamente alla
-struttura e organizzazione dei contenuti (*content type* e *content
-pattern*).
+Tra questi rientrano anche una serie di design pattern, ossia veri e propri modelli che offrono indicazioni su come strutturare e organizzare i contenuti (*content type* e *content pattern*).
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
 
-   **Progettare i contenuti: content type e content pattern**
+   **Progettare i contenuti all'interno di un design system: content type e content pattern**
 
    In un sistema complesso come quello della Pubblica Amministrazione, è
-   utile identificare degli elementi (che possiamo definire “pattern”)
+   utile identificare dei modelli ricorrenti (che possiamo definire “pattern”)
    in grado di offrire risposte standard a classi di bisogni simili. I
    pattern relativi ai contenuti possono essere di due tipi:
 
@@ -159,14 +123,12 @@ pattern*).
    Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re
    adthedocs.io/it/latest/>`__
 
-   Qui approfondiamo il tema della costruzione di pagine web che possano
-   offrire una struttura standard per rispondere a specifici bisogni
-   degli utenti. Spesso si fa riferimento a queste tipologie di pagine
+   Qui approfondiamo il tema della costruzione di pagine web che offrano 
+   una struttura standard per rispondere a specifici bisogni
+   dell'utente. Solitamente si fa riferimento a queste tipologie di pagine
    come “\ *content type*\ ”.
 
-   In fase di progettazione, i contenuti di un sito web sono organizzati
-   in diverse tipologie, o *content type*. Questa “classificazione”
-   permette di inquadrare meglio la funzione narrativa di ogni tipo di
+   Questa “classificazione” permette di inquadrare meglio la funzione narrativa di ogni tipo di
    contenuto, per strutturarlo in modo tale da renderlo il più efficace
    possibile.
 
@@ -177,8 +139,7 @@ pattern*).
 
    La diversa funzione che ha ogni *content type* è rilevante non solo
    per chi si occupa del design del sito, ma anche per chi si occupa di
-   produrre contenuti, che deve tenere bene a mente lo scopo della
-   pagina su cui andrà a pubblicare il suo contenuto.
+   produrre contenuti.
 
    Per esempio, è compito di chi scrive contenuti stabilire che in tutte
    **le pagine di lista** del sito potrebbe essere previsto un titolo,
@@ -249,8 +210,7 @@ indicazioni per un linguaggio semplice e efficace, che puoi trovare
 nella `Guida al linguaggio della Pubblica
 Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/>`__.
 
-**Checklist per il contenuto:** assicurati che il tuo contenuto risponda
-a queste domande:
+**Checklist per il contenuto:** fai un check della qualità del contenuto basandoti sulle seguenti domande:
 
 -  Lo scopo della pagina è immediatamente chiaro? (Per approfondire:
    `Stile di
@@ -293,7 +253,7 @@ a queste domande:
    approfondire: `Scrivere per i motori di
    ricerca <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/scrivere-per-i-motori-di-ricerca.html>`__)
 
--  Tutti i contenuti sono correttamente aggiornati? (Per approfondire:
+-  Tutti i contenuti sono aggiornati? (Per approfondire:
    `Gestione dei
    contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/gestione-dei-contenuti.html>`__)
 
@@ -302,7 +262,7 @@ a queste domande:
    strutturare il
    contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
 
--  Hai messo i riferimenti normativi nelle note invece che nel testo?
+-  Hai inserito i riferimenti normativi nelle note invece che nel testo?
    (Per approfondire: `Come strutturare il
    contenuto <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/come-strutturare-il-contenuto.html>`__)
 
@@ -316,13 +276,14 @@ a queste domande:
 .. admonition:: deepening
    :class: admonition-deepening display-page
 
-   **I testi come interfacce, il microcopy**
+   **I testi come interfacce**
 
+   LE ETICHETTE DI NAVIGAZIONE
    Una *label* (o etichetta) è un breve testo o un’icona che indica un
-   insieme di contenuti con tratti in comune: attraverso le label
+   insieme di contenuti con tratti in comune: attraverso le etichette
    l’utente si orienta nell’ambiente facendosi un’idea
    dell’organizzazione e del sistema di navigazione. Le label dovrebbero
-   guidare gli utenti con chiarezza nei nuovi concetti e aiutarli a
+   guidare gli utenti nei nuovi concetti e aiutarli a
    identificare quelli già familiari con facilità.
 
    **Le label sono un sistema** che guadagna solidità dalla coerenza dei
@@ -341,8 +302,7 @@ a queste domande:
    Lavorare sulla coerenza del sistema richiede grande attenzione:
    alcuni elementi possono influenzarne la solidità. Di seguito trovi
    una checklist per verificare l’uniformità di alcuni elementi che – se
-   incoerenti – possono rischiare di rendere incoerente (e quindi
-   ambiguo) il *labeling system*.
+   incoerenti – possono rischiare di rendere ambiguo il *labeling system*.
 
    -  **Stile e ortografia:** verifica, per esempio, l’uniformità delle
       varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.
@@ -367,7 +327,7 @@ a queste domande:
       come muoversi nell’ambiente.
 
    -  **Utente di riferimento:** tieni sempre presenti i bisogni emersi
-      dalla ricerca sugli utenti, in modo che il sistema sia efficace e
+      dalla ricerca sugli utenti, in modo che il sistema sia il
       meno ambiguo possibile.
 
    La **ricerca sugli utenti** può fornire utili risposte per la
@@ -379,7 +339,11 @@ a queste domande:
    analytics <https://designers.italia.it/kit/analytics/>`__ e
    `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.
 
-.. _section-2:
+IL MICROCOPY
+I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce di un sistema web, sono definiti in gergo “microcopy”. L’armonia e la pertinenza fra elementi grafici delle interfacce e  microcopy contribuisce a garantire all’utente un usabilità ottimale del sistema. 
+Per questa ragione, è importante verificare periodicamente l’efficacia delle etichette di navigazione attraverso test di usabilità o mediante degli A/B test. 
+Per esempio, un tema da gestire in modo corretto a livello di microcopy è quello dei messaggi di errore (o problematiche relative a un sistema). In questo ambito infatti, un buon uso dei testi consente all’utente di capire rapidamente la tipologia di errore, ridurre l’incertezza sull’affidabilità del sistema e in molti casi limitare la necessità di accesso ai canali di assistenza. 
+
 
 Revisione e miglioramento dei contenuti
 ---------------------------------------
@@ -480,7 +444,7 @@ contenuti per:
 -  rispondere a nuovi bisogni informativi di cui non si era tenuto
    conto;
 
--  gestire i processi di pubblicazione.
+-  gestire i processi di pubblicazione ed evitare le duplicazioni.
 
 In genere questa attività richiede:
 
@@ -504,15 +468,14 @@ del proprio content management system (CMS) e la loro classificazione in
 *content type* e la loro organizzazione secondo un sistema di categorie
 o tag.
 
-Ci sono situazione particolari in cui può essere opportuno trasferire
+Ci sono situazioni particolari in cui può essere opportuno trasferire
 l’inventario dei contenuti (o una sua porzione) all’interno di uno
 spreadsheet (`si può usare questo modello e modificarlo secondo
 necessità <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__).
 Per esempio in vista di una ottimizzazione SEO o di un redesign del
 servizio, che potrebbe comportare la necessità di riclassificare i
 contenuti o introdurre nuovi criteri di classificazione. Un caso
-specifico è il processo di migrazione dei contenuti da una
-infrastruttura tecnologica all’altra
+specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnologica all’altra.
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
@@ -543,7 +506,7 @@ infrastruttura tecnologica all’altra
 
       In vista di una migrazione, bisogna fare un inventario dei contenuti
       e lavorare alla riclassificazione delle singole pagine, se necessaria
-      (content type e tag corrispondenti a ciascuna pagina. A volte la
+      (content type e tag corrispondenti a ciascuna pagina). A volte la
       migrazione può richiedere la riscrittura di alcune pagine del sito
       (per esempio scrivere una descrizione prima non prevista) o la
       creazione dei contenuti di nuove pagine che non esistevano nel
@@ -566,8 +529,8 @@ infrastruttura tecnologica all’altra
       **mappare tutti i link** (puoi usare `il modello per l’ottimizzazione
       SEO <https://docs.google.com/spreadsheets/d/1bRjLUC3yN1E1c-ZTY1FiI5kl
       X_wkeMWuC9boWXSBbhw/edit?usp=sharing>`__
-      che abbiamo pubblicato nel `SEO
-      kit <https://designers.italia.it/kit/SEO/>`__ per farlo). Quando fai
+      del `SEO
+      kit <https://designers.italia.it/kit/SEO/>`__). Quando fai
       una migrazione, devi mappare anche **i link delle foto, dei documenti
       o di altri oggetti multimediali**, che potrebbero essere linkati o
       indicizzati autonomamente.
@@ -768,7 +731,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
    -  I **widget** sono oggetti molto versatili, da utilizzare
       all’interno delle pagine o di altre parti del sito (footer,
       sidebar) per inserire elementi come contenuti multimediali,
-      widget, form, ecc. Anche nel gestire i widget ricorda di
+      *widget*, form, ecc. Anche nel gestire i *widget* ricorda di
       rispettare la corretta gestione delle etichette di navigazione,
       del microcopy, dei metadati, dei tag e delle categorie.
 
@@ -834,8 +797,7 @@ necessario organizzare un flusso di lavoro che preveda:
 
 Se traduci **solo alcune parti** del tuo sito:
 
--  mostra in modo evidente l’interfaccia per scegliere la propria
-   lingua;
+-  mostra in modo evidente l’interfaccia per scegliere la lingua alternativa;
 
 -  assicurati di tradurre anche il contesto, aggiungendo dei chiarimenti
    quando necessario, per non lasciare le informazioni isolate o dare
@@ -868,7 +830,6 @@ Se hai un sito multilingue, ricordati che quando aggiorni o cambi i
 contenuti dovrai farlo contemporaneamente su più lingue, mantenendo
 aggiornata la versione italiana con le altre lingue.
 
-.. _section-3:
 
 Proprietà intellettuale: testi, immagini, dati. Le liberatorie e i tipi di licenze
 ----------------------------------------------------------------------------------
@@ -893,7 +854,7 @@ Questa licenza riconosce la libertà di:
    pubblico, esporre in pubblico, rappresentare, eseguire e recitare
    questo materiale con qualsiasi mezzo e formato;
 
--  **modificare,** ovvero remixare, trasformare il materiale e basarsi
+-  **modificare,** ovvero fondere, trasformare il materiale e basarsi
    su di esso per le proprie opere per qualsiasi fine, anche
    commerciale.
 
@@ -1129,7 +1090,9 @@ I contenuti di un buon documento dovrebbero essere:
 
 -  ben organizzati;
 
--  leggibili.
+-  leggibili;
+
+- accessibili.
 
 **Per approfondire**: `Guida al linguaggio della Pubblica
 Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/index.html>`__
@@ -1278,8 +1241,7 @@ documenti della PA vengono pubblicati sul web, anche la modalità di
 creazione dei contenuti deve tener conto di questo fatto. Come abbiamo
 visto in precedenza, esistono essenzialmente due strade.
 
-Creazione di un contenuto in formato Html in modo nativo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Creazione di un contenuto in formato Html in modo nativo*
 
 Con questo approccio, è possibile per esempio:
 
@@ -1330,8 +1292,7 @@ i processi di consultazione come previsto dal CAD, art. 18.
    pubblicazione <http://guida-docs-italia.readthedocs.io/it/latest/>`__.
 
 
-Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)*
 
 In questo caso, è necessario `accompagnare sempre i documenti con una
 pagina
