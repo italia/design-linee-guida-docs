@@ -3,9 +3,9 @@ Introduzione
 
 La progettazione di un ambiente digitale si basa sui risultati delle
 attività di `user
-research <https://design-italia.readthedocs.io/it/stable/doc/user-research.html>`__
+research <../../doc/user-research.html>`__
 e
-`co-progettazione <https://design-italia.readthedocs.io/it/stable/doc/service-design/gestione-dei-progetti.html#il-workshop-di-co-design>`__
+`co-progettazione <../../doc/service-design/gestione-dei-progetti.html#il-workshop-di-co-design>`__
 con gli utenti, usate per far emergere i bisogni effettivi delle persone
 per cui si sta progettando. Un buon metodo di lavoro può essere la
 stesura di **liste di bisogni ordinate per priorità**, ai quali
@@ -32,9 +32,9 @@ ambiente informativo facile da comprendere per le persone che lo usano.
 Alla prototipazione di un servizio concorrono tutte le specializzazioni
 del design, che contribuiscono a delineare in modo più preciso questo
 ambiente, proponendo dei modelli di `user
-interface <https://design-italia.readthedocs.io/it/latest/doc/user-interface.html>`__
+interface <../../doc/user-interface.html>`__
 e di `content
-design <https://design-italia.readthedocs.io/it/latest/doc/content-design.html>`__
+design <../../doc/content-design.html>`__
 che verranno consolidati attraverso una serie di iterazioni sul
 prototipo, fino a raggiungere una forma stabile. Una formalizzazione
 chiara dei bisogni degli utenti è anche funzionale a mettere a fuoco le
