@@ -62,9 +62,9 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | attraverso il   | esplicito al    | PA <https://doc             |                             |
 | pieno           | rispetto delle  | s.italia.it/ita             |                             |
 | coinvolgimento  | linee guida per | lia/designers-i             |                             |
-| dei fornitori   | il design dei   | talia/design-li             |                             |
-| di servizi      | servizi e       | nee-guida-docs/             |                             |
-|                 | relativi        | >`__                        |                             |
+| dei fornitori   | il design dei   | talia/design-linee          |                             |
+| di servizi      | servizi e       | -guida-docs/>`__            |                             |
+|                 | relativi        |                             |                             |
 |                 | riferimenti     |                             |                             |
 |                 | normativi       |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
@@ -73,7 +73,7 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | un servizio     | ne              | -design/accessi             |                             |
 | esistente       | del lavoro      | bilita.html>`__             |                             |
 |                 | orientata al    |                             |                             |
-|                 | miglioramento   | A/B Test                    |                             |
+|                 | miglioramento   |                             |                             |
 |                 | continuo delle  |                             |                             |
 |                 | soluzioni,      |                             |                             |
 |                 | anche           |                             |                             |
@@ -96,11 +96,11 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Permettere      | Progettare,     | `Architettura               | `Information                |
-| all'utente di   | prototipare e   | dell’Informazio             | Architecture <h             |
-| raggiungere in  | testare         | ne <../doc/cont             | ttps://designer             |
-| modo semplice   | l'architettura  | ent-design/arch             | s.italia.it/kit             |
-| le informazioni | informativa del | itettura-dell-i             | /information-ar             |
-| e i servizi     | servizio,       | nformazione.html>`_         | chitecture/>`__             |
+| all'utente di   | prototipare e   | dell’Informazione           | Architecture <h             |
+| raggiungere in  | testare         | <../doc/content             | ttps://designer             |
+| modo semplice   | l'architettura  | design/architet             | s.italia.it/kit             |
+| le informazioni | informativa del | tura-dell-infor             | /information-ar             |
+| e i servizi     | servizio,       | mazione.html>`_             | chitecture/>`__             |
 | desiderati,     | adottando i     |                             |                             |
 | secondo criteri | criteri         |                             | `Wireframe                  |
 | comuni alla     | standard di     |                             | kit <https://de             |
