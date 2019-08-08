@@ -14,7 +14,7 @@ inclusivi**
 Ecco alcuni degli obiettivi da porsi quando si scrive per i cittadini:
 
 - scrivi documenti semplici e lineari, che tengano conto in primis dei bisogni del lettore
-- usa un linguaggio semplice e chiaro, seguendo le indicazioni della `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/it/bozza/>`__ su stile, tono di voce, uso delle parole
+- usa un linguaggio semplice e chiaro, seguendo le indicazioni della `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/>`__ su stile, tono di voce, uso delle parole
 - organizza contenuti e documenti in modo che siano facili da trovare durante la navigazione
 - presta particolare attenzione ai testi delle interfacce utente (definiti in gergo microcopy): la qualità e la pertinenza di label (etichette di navigazione), call to action (inviti all’azione) e altri testi che accompagnano e spiegano le interfacce grafiche, come ad esempio le tool tip o i testi che spiegano i contenuti da inserire all’interno di un form 
 
