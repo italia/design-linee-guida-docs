@@ -14,8 +14,8 @@ Designers Italia copre tutte le fasi di ideazione, progettazione, sviluppo e mig
 
  - per una corretta allocazione delle risorse, basata sull’identificazione delle priorità e l’adozione di standard che evitano sprechi e duplicazioni di attività
  - per la realizzazione di servizi digitali efficaci, moderni, che fanno risparmiare tempo e inutili complicazioni agli utenti
- 
-Designers Italia rappresenta il punto di riferimento per la Pubblica Amministrazione e i propri fornitori, definendo un metodo di lavoro e una lista chiari azioni da compiere anche nel rispetto degli specifici obblighi normativi. La Pubblica Amministrazione, anche attraverso i propri fornitori, è tenuta a perseguire i seguenti obiettivi e a realizzare le relative azioni. 
+
+Designers Italia rappresenta il punto di riferimento per la Pubblica Amministrazione e i propri fornitori, definendo un metodo di lavoro e una lista chiari azioni da compiere anche nel rispetto degli specifici obblighi normativi. La Pubblica Amministrazione, anche attraverso i propri fornitori, è tenuta a perseguire i seguenti obiettivi e a realizzare le relative azioni.
 
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | **Obiettivi**   | **Azioni        | **Linee guida**             | **Rif. kit**                |
@@ -30,6 +30,22 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 |                 | coinvolti nel   | ocs/it/stabile/             |                             |
 |                 | processo di     | doc/service-des             | Human-centered              |
 |                 | progettazione.  | ign.html>`__                | KPI (in                     |
+|                 | Predisporre un  |                             | lavorazione)                |
+|                 | set di          |                             |                             |
+|                 | indicatori per  |                             |                             |
+|                 | misurare        |                             |                             |
+|                 | l'efficacia del |                             |                             |
+|                 | servizio        |                             |                             |
+
+| Focalizzarsi    | Definire in     | `Service                    | `Co-design                  |
+| sulle priorità  | modo esplicito  | Design <../doc/             | workshop <https             |
+| e tradurre gli  | obiettivi,      | service-design.             | ://designers.it             |
+| obiettivi in    | destinari del   | html>`__                    | alia.it/kit/co-             |
+| indicatori      | servizio e      |                             | design-workshop             |
+| misurabili      | stakeholder     |                             | />`__                       |
+|                 | coinvolti nel   |                             |                             |
+|                 | processo di     |                             | Human-centered              |
+|                 | progettazione.  |                             | KPI (in                     |
 |                 | Predisporre un  |                             | lavorazione)                |
 |                 | set di          |                             |                             |
 |                 | indicatori per  |                             |                             |
@@ -64,69 +80,69 @@ Designers Italia rappresenta il punto di riferimento per la Pubblica Amministraz
 | coinvolgimento  | linee guida per | lia/designers-i             |                             |
 | dei fornitori   | il design dei   | talia/design-li             |                             |
 | di servizi      | servizi e       | nee-guida-docs/             |                             |
-|                 | relativi        | it/stabile/>`__             |                             |
+|                 | relativi        | >`__                        |                             |
 |                 | riferimenti     |                             |                             |
 |                 | normativi       |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Miglioramento   | Adottare        | `Accessibilità              | A/B Test                    |
-| progressivo di  | un'organizzazio | <https://docs.i             |                             |
-| un servizio     | ne              | talia.it/italia             |                             |
-| esistente       | del lavoro      | /designers-ital             |                             |
-|                 | orientata al    | ia/design-linee             |                             |
-|                 | miglioramento   | -guida-docs/it/             |                             |
-|                 | continuo delle  | stabile/doc/ser             |                             |
-|                 | soluzioni,      | vice-design/acc             |                             |
-|                 | anche           | essibilita.html>`__         |                             |
+| progressivo di  | un'organizzazio | <../doc/service             |                             |
+| un servizio     | ne              | -design/accessi             |                             |
+| esistente       | del lavoro      | bilita.html>`__             |                             |
+|                 | orientata al    |                             |                             |
+|                 | miglioramento   | A/B Test                    |                             |
+|                 | continuo delle  |                             |                             |
+|                 | soluzioni,      |                             |                             |
+|                 | anche           |                             |                             |
 |                 | attraverso      |                             |                             |
 |                 | attività di     |                             |                             |
-|                 | manutenzione    | A/B Test                    |                             |
+|                 | manutenzione    |                             |                             |
 |                 | evolutiva e     |                             |                             |
 |                 | ricorso a test  |                             |                             |
 |                 | A/B             |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Rendere i       | Rendere         | `Accessibilità              |                             |
-| servizi         | accessibili     | <https://docs.i             |                             |
-| accessibili a   | aspetto,        | talia.it/italia             |                             |
-| tutti gli       | contenuti,      | /designers-ital             |                             |
-| utenti, secondo | struttura,      | ia/design-linee             |                             |
-| un principio di | comportamento   | -guida-docs/it/             |                             |
-| inclusività     | secondo i       | stabile/doc/ser             |                             |
-|                 | requisiti di    | vice-design/acc             |                             |
-|                 | legge           | essibilita.html>`__         |                             |
+| servizi         | accessibili     | <../doc/service             |                             |
+| accessibili a   | aspetto,        | -design/accessi             |                             |
+| tutti gli       | contenuti,      | bilita.html>`__             |                             |
+| utenti, secondo | struttura,      |                             |                             |
+| un principio di | comportamento   |                             |                             |
+| inclusività     | secondo i       |                             |                             |
+|                 | requisiti di    |                             |                             |
+|                 | legge           |                             |                             |
 |                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | Permettere      | Progettare,     | `Architettura               | `Information                |
 | all'utente di   | prototipare e   | dell’Informazio             | Architecture <h             |
-| raggiungere in  | testare         | ne <https://doc             | ttps://designer             |
-| modo semplice   | l'architettura  | s.italia.it/ita             | s.italia.it/kit             |
-| le informazioni | informativa del | lia/designers-i             | /information-ar             |
-| e i servizi     | servizio,       | talia/design-li             | chitecture/>`__             |
-| desiderati,     | adottando i     | nee-guida-docs/             |                             |
-| secondo criteri | criteri         | it/stabile/doc/             | `Wireframe                  |
-| comuni alla     | standard di     | content-design/             | kit <https://de             |
-| intera PA       | organizzazione  | architettura-de             | signers.italia.             |
-|                 | delle           | ll-informazione             | it/kit/wirefram             |
-|                 | informazioni    | .html>`__                   | e-kit/>`__                  |
+| raggiungere in  | testare         | ne <../doc/cont             | ttps://designer             |
+| modo semplice   | l'architettura  | ent-design/arch             | s.italia.it/kit             |
+| le informazioni | informativa del | itettura-dell-i             | /information-ar             |
+| e i servizi     | servizio,       | nformazione.html>`_         | chitecture/>`__             |
+| desiderati,     | adottando i     |                             |                             |
+| secondo criteri | criteri         |                             | `Wireframe                  |
+| comuni alla     | standard di     |                             | kit <https://de             |
+| intera PA       | organizzazione  |                             | signers.italia.             |
+|                 | delle           |                             | it/kit/wirefram             |
+|                 | informazioni    |                             | e-kit/>`__                  |
 |                 | della PA        |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| Rendere i       | Produrre        | `SEO <https://d             | `SEO <https://d             |
-| contenuti       | contenuti       | ocs.italia.it/i             | esigners.italia             |
-| trovabili dagli | utilizzando le  | talia/designers             | .it/kit/SEO/>`__            |
-| utenti sui      | regole SEO      | -italia/design-             |                             |
-| motori di       | previste nelle  | linee-guida-doc             |                             |
-| ricerca         | linee guida     | s/it/stabile/do             |                             |
-|                 |                 | c/content-desig             |                             |
-|                 |                 | n/seo.html>`__              |                             |
+| Rendere i       | Produrre        | `SEO <../doc/co             | `SEO <https://d             |
+| contenuti       | contenuti       | ntent-design/se             | esigners.italia             |
+| trovabili dagli | utilizzando le  | o.html>`__                  | .it/kit/SEO/>`__            |
+| utenti sui      | regole SEO      |                             |                             |
+| motori di       | previste nelle  |                             |                             |
+| ricerca         | linee guida     |                             |                             |
+|                 |                 |                             |                             |
+|                 |                 |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| Semplificare il | Pubblicare      | `Linguaggio <ht             | `Content                    |
-| linguaggio dei  | contenuti e     | tps://docs.ital             | Kit <https://de             |
-| siti della      | documenti sul   | ia.it/italia/de             | signers.italia.             |
-| Pubblica        | web rispettando | signers-italia/             | it/kit/content-             |
-| amministrazione | gli obblighi    | design-linee-gu             | kit/>`__                    |
-| e dei documenti | normativi e     | ida-docs/it/sta             |                             |
-| amministrativi  | utilizzando le  | bile/doc/conten             |                             |
-|                 | regole          | t-design/lingua             |                             |
-|                 | contenute nella | ggio.html>`__               |                             |
+| Semplificare il | Pubblicare      | `Linguaggio <..             | `Content                    |
+| linguaggio dei  | contenuti e     | /doc/content-de             | Kit <https://de             |
+| siti della      | documenti sul   | sign/linguaggio.html>`__    | signers.italia.             |
+| Pubblica        | web rispettando |                             | it/kit/content-             |
+| amministrazione | gli obblighi    |                             | kit/>`__                    |
+| e dei documenti | normativi e     |                             |                             |
+| amministrativi  | utilizzando le  |                             |                             |
+|                 | regole          |                             |                             |
+|                 | contenute nella |                             |                             |
 |                 | guida al        |                             |                             |
 |                 | linguaggio      |                             |                             |
 +-----------------+-----------------+-----------------------------+-----------------------------+
