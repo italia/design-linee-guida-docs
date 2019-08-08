@@ -6,12 +6,12 @@ progettazione possono essere sintetizzati in alcuni strumenti operativi
 che abbiamo affrontato nel capitolo delle Linee Guida dedicato al
 service design:
 
--  `personas <http://design-italia.readthedocs.io/it/latest/doc/service-design/gestione-dei-progetti.html#personas-e-profili-utente>`__,
+-  `personas <../../doc/service-design/gestione-dei-progetti.html#personas-e-profili-utente>`__,
    ossia profili verosimili di utenti del servizio delineati in base ai
    risultati della ricerca, rappresentativi di un gruppo di utenti;
 
 -  `user
-   journey <http://design-italia.readthedocs.io/it/latest/doc/service-design/gestione-dei-progetti.html#user-journey>`__,
+   journey <../../doc/service-design/gestione-dei-progetti.html#user-journey>`__,
    ossia la rappresentazione del percorso compiuto dall'utente
    interagendo con i touchpoint fisici o digitali del servizio,
    elaborata a partire dai personas e dalle loro esperienze d’uso del
