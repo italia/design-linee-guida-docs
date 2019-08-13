@@ -18,7 +18,7 @@ Designers Italia copre tutte le fasi di ideazione, progettazione, sviluppo e mig
 Designers Italia rappresenta il punto di riferimento per la Pubblica Amministrazione e i propri fornitori, definendo un metodo di lavoro e una lista chiari azioni da compiere anche nel rispetto degli specifici obblighi normativi. La Pubblica Amministrazione, anche attraverso i propri fornitori, è tenuta a perseguire i seguenti obiettivi e a realizzare le relative azioni.
 
 +-----------------+-----------------+-----------------------------+-----------------------------+
-| **Obiettivi**   | **Azioni        | **Linee guida**             | **Rif. kit**                |
+| **Obiettivi**   | **Azioni        | **Linee guida**             | **Kit di riferimento**      |
 |                 | chiave**        |                             |                             |
 +=================+=================+=============================+=============================+
 | Focalizzarsi    | Definire in     | `Service                    | `Co-design                  |
