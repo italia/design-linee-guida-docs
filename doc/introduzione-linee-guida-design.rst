@@ -15,7 +15,7 @@ Designers Italia copre tutte le fasi di ideazione, progettazione, sviluppo e mig
  - per una corretta allocazione delle risorse, basata sull’identificazione delle priorità e l’adozione di standard che evitano sprechi e duplicazioni di attività
  - per la realizzazione di servizi digitali efficaci, moderni, che fanno risparmiare tempo e inutili complicazioni agli utenti
 
-Designers Italia rappresenta il punto di riferimento per la Pubblica Amministrazione e i propri fornitori, definendo un metodo di lavoro e una lista chiari azioni da compiere anche nel rispetto degli specifici obblighi normativi. La Pubblica Amministrazione, anche attraverso i propri fornitori, è tenuta a perseguire i seguenti obiettivi e a realizzare le relative azioni.
+Designers Italia rappresenta il punto di riferimento per la Pubblica Amministrazione e i propri fornitori, definendo un metodo di lavoro e una lista chiara di azioni da compiere anche nel rispetto degli specifici obblighi normativi. La Pubblica Amministrazione, anche attraverso i propri fornitori, è tenuta a perseguire i seguenti obiettivi e a realizzare le relative azioni.
 
 +-----------------+-----------------+-----------------------------+-----------------------------+
 | **Obiettivi**   | **Azioni        | **Linee guida**             | **Kit di riferimento**      |
