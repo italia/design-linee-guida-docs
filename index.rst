@@ -5,7 +5,7 @@ Linee guida di design per i servizi digitali della PA
 
 La versione stabile delle Linee Guida corrisponde a **2019.2**.
 
-Nella più recente versione delle linee guida sono stati rivisti e migliorati alcuni aspetti all'interno del capitolo dedicato al content design, ed è stato aggiornato il capitolo dedicato alla user interface, con approfondimenti sul rinnovato UI Kit e sui nuovi Web Kit disponibili per la creazione di interfacce usabili ed efficienti.
+La versione 2019.2 delle linee guida presenta, nel suo capitolo introduttivo, un quadro sinottico degli obiettivi e delle azioni chiave che la pubblica amministrazione deve mettere in atto per progettare servizi orientati ai bisogni delle persone. In secondo luogo trova spazio un nuovo capitolo dedicato alla progettazione e alla prototipazione di un servizio digitale, pensato come punto di convergenza delle diverse competenze necessarie allo sviluppo di un servizio della pubblica amministrazione. Aggiornamenti significativi riguardano infine la sezione di architettura dell'informazione e quella relativa alla ricerca quantitativa.
 
 .. toctree::
     :maxdepth: 3
