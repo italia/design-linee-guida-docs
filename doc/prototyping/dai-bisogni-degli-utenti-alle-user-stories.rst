@@ -283,4 +283,4 @@ funzioni che permettono di abilitare il servizio.
 +-----------------------+-----------------------+-----------------------+
 
 Dopo aver definito in modo chiaro bisogni e funzioni di un servizio,
-siamo in grado di avviare il processo di prototipazione
+siamo in grado di avviare il processo di prototipazione.
