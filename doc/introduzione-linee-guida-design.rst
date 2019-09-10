@@ -3,7 +3,7 @@ Introduzione alle linee guida di design
 
 I cittadini al centro
 ~~~~~~~~~~~~~~~~~~~~~
-**Designers Italia** considera le effettive esigenze degli utenti come punto di partenza per pensare, costruire e migliorare i servizi digitali. Grazie all’approccio _human-centered_ è possibile:
+**Designers Italia** considera le effettive esigenze degli utenti come punto di partenza per pensare, costruire e migliorare i servizi digitali. Grazie all’approccio *human-centered* è possibile:
 
  - coinvolgere cittadini e operatori in ogni momento del percorso progettuale, per capire le loro necessità, generare idee e validare le scelte progettuali in corso d’opera;
  - modellare i servizi digitali sulla base di esigenze concrete e risorse esistenti evitando sprechi, duplicazione di attività e creando servizi utili;
