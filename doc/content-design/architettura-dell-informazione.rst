@@ -1,9 +1,9 @@
 Architettura dell’informazione
 ------------------------------
 
-L’architettura dell’informazione consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica una riflessione sulla struttura dell’informazione e sul linguaggio. L’architettura dell’informazione è più efficace se è progettata intorno ai reali bisogni delle persone: per questo si parla di user-centered design.
+L’architettura dell’informazione consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia online che offline. Lavorare su questo ambito implica una riflessione sulla struttura dell’informazione e sul linguaggio. L’architettura dell’informazione è più efficace se è progettata intorno ai reali bisogni delle persone: per questo si parla di *user-centered design*.
 
-Obiettivo del paragrafo è offrire indicazioni pratiche relative alla progettazione dei sistemi di navigazione, delle tipologie di contenuti (content type), dei flussi di interazione con l’utente e alla modellazione dei contenuti (per esempio attraverso ontologie e vocabolari controllati).  
+Obiettivo del paragrafo è offrire indicazioni pratiche relative alla progettazione dei sistemi di navigazione, delle tipologie di contenuti (*content type*), dei flussi di interazione con l’utente e alla modellazione dei contenuti (per esempio attraverso ontologie e vocabolari controllati).  
 
 La progettazione di un ambiente informativo può partire dalla definizione delle funzioni di base svolte tipicamente dalla Pubblica Amministrazione nei confronti di cittadini e imprese. Possiamo elencarne alcune: 
 

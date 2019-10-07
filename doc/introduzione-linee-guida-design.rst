@@ -3,7 +3,7 @@ Introduzione alle linee guida di design
 
 I cittadini al centro
 ~~~~~~~~~~~~~~~~~~~~~
-**Designers Italia** considera le effettive esigenze degli utenti come punto di partenza per pensare, costruire e migliorare i servizi digitali. Grazie all’approccio human-centered è possibile:
+**Designers Italia** considera le effettive esigenze degli utenti come punto di partenza per pensare, costruire e migliorare i servizi digitali. Grazie all’approccio *human-centered* è possibile:
 
  - coinvolgere cittadini e operatori in ogni momento del percorso progettuale, per capire le loro necessità, generare idee e validare le scelte progettuali in corso d’opera;
  - modellare i servizi digitali sulla base di esigenze concrete e risorse esistenti evitando sprechi, duplicazione di attività e creando servizi utili;
@@ -12,8 +12,8 @@ I cittadini al centro
 
 Designers Italia copre tutte le fasi di ideazione, progettazione, sviluppo e miglioramento progressivo dei servizi della Pubblica Amministrazione, abbracciando tutte le attività digitali della PA e definendo le modalità:
 
- - per una corretta allocazione delle risorse, basata sull’identificazione delle priorità e l’adozione di standard che evitano sprechi e duplicazioni di attività
- - per la realizzazione di servizi digitali efficaci, moderni, che fanno risparmiare tempo e inutili complicazioni agli utenti
+ - per una corretta allocazione delle risorse, basata sull’identificazione delle priorità e l’adozione di standard che evitano sprechi e duplicazioni di attività;
+ - per la realizzazione di servizi digitali efficaci, moderni, che fanno risparmiare tempo e inutili complicazioni agli utenti.
 
 Designers Italia rappresenta il punto di riferimento per la Pubblica Amministrazione e i propri fornitori, definendo un metodo di lavoro e una lista chiara di azioni da compiere anche nel rispetto degli specifici obblighi normativi. La Pubblica Amministrazione, anche attraverso i propri fornitori, è tenuta a perseguire i seguenti obiettivi e a realizzare le relative azioni.
 
@@ -247,18 +247,18 @@ Stile della documentazione
 
 Le linee guida sono scritte seguendo la `style guide di redazione dei testi pubblici <./content-design/linguaggio.html>`_. In particolare:
 
- - linguaggio semplice e comprensibile ad un pubblico ampio
- - brevità e uso di elenchi
- - ricorso ad esempi, meglio se supportati da immagini e link
+ - linguaggio semplice e comprensibile ad un pubblico ampio;
+ - brevità e uso di elenchi;
+ - ricorso ad esempi, meglio se supportati da immagini e link.
 
 Consultazione della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `La documentazione è disponibile su Docs Italia <../../../stable/index.html>`_, la piattaforma di gestione della documentazione pubblica creata da `Team per la Trasformazione Digitale <https://teamdigitale.governo.it/>`_.
-Tutti i documenti di Docs Italia possono essere fruiti anche in formato .epub e .pdf
+Tutti i documenti di Docs Italia possono essere fruiti anche in formato .epub e .pdf.
 
 Kit di sviluppo e di design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Il progetto di design dei servizi pubblici digitali prevede che oltre al rilascio di linee guida ci sia il rilascio di kit di sviluppo e di design per i siti pubblici (ad es. icon kit, kit di sviluppo, ecc.). I kit - e la documentazione dei kit - possono essere citati all’interno delle linee guida, ma non sono contenuti all’interno di questo repo. I kit sono espressione delle linee guida, ma il versionamento delle linee guida e quello dei kit sono processi indipendenti.
+Il progetto di design dei servizi pubblici digitali prevede che oltre al rilascio di linee guida ci sia il rilascio di kit di sviluppo e di design per i siti pubblici (ad es. icon kit, kit di sviluppo, ecc.). I kit - e la documentazione dei kit - possono essere citati all’interno delle linee guida, ma non sono contenuti all’interno di questo repository. I kit sono espressione delle linee guida, ma il versionamento delle linee guida e quello dei kit sono processi indipendenti.
 
 `Vai ai kit per il design dei servizi digitali della Pubblica Amministrazione <https://designers.italia.it/kit/>`_
 
