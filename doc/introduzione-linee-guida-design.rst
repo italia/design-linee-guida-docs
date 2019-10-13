@@ -227,7 +227,7 @@ I contenuti delle linee guida sono scritti in file .rst e possono essere aggiorn
 
 Altre risorse per l’editing in formato .rst:
 
-| `Editor per il testo <http://rst.ninjs.org/>`_
+| `Editor per il testo <https://livesphinx.herokuapp.com/>`_
 | `Editor per le tabelle <http://truben.no/table/>`_
 | `Estensione Chrome per Google spreadheet <https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
