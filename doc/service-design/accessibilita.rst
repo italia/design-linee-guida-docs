@@ -3,167 +3,176 @@ Accessibilità
 
 .. admonition:: SI DEVE
 
-   Le pubbliche amministrazioni devono rispettare i requisiti
-   tecnici di accessibilità riportati nell’`Allegato A del Decreto
-   Ministeriale 8 luglio 2005 <http://www.agid.gov.it/dm-8-luglio-2005-allegato-A>`__
-   e successive modifiche.
+   I soggetti destinatari della  `legge n. 4/2004
+   <https://www.agid.gov.it/it/node/79271>`__ (definiti “soggetti erogatori”),
+   tra cui le Pubbliche amministrazioni, hanno l’obbligo di garantire l’accesso
+   universale ai propri servizi informatici e telematici.
+
+I soggetti erogatori di soluzioni ICT devono rendere i propri strumenti
+informatici **accessibili e usabili**, compresi i siti web e le applicazioni
+mobili, in particolare devono:
+
+- valutare la conformità ai requisiti di accessibilità degli strumenti
+  informatici (siti web e applicazioni mobili; -  compilare una dichiarazione di
+  accessibilità e pubblicarla sul sito web o nello store dell’applicazione
+  mobile;
+- predisporre un meccanismo di feedback per ricevere le segnalazioni dagli
+  utenti.
+
+Tali disposizioni sono aggiornate nella `legge n. 4/2004
+<https://www.agid.gov.it/it/node/79271>`__ che recepisce la `Direttiva Europea
+n. 2016/2102
+<https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32016L2102&from=IT>`__
+e regolamentate dalle `“Linee guida sull’accessibilità degli strumenti
+informatici”
+<https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
 
 Definizione
 ~~~~~~~~~~~
 
-Lo sviluppo di soluzioni ICT, hardware, software, web-based per la PA ha
-come requisito fondamentale l’accessibilità.
+Per accessibilità si intende la capacità dei sistemi informatici, di erogare
+servizi e fornire informazioni fruibili, senza discriminazioni, anche da parte
+di coloro che a causa di disabilità necessitano di tecnologie assistive o
+configurazioni particolari.
 
-La normativa sancisce che tutte le persone devono poter usare
-applicazioni software, siti Web, servizi on line, app, documenti
-elettronici, indipendentemente da eventuali limitazioni, ad esempio
-limitazioni fisiche, tecnologiche o ambientali.
+Nessun utente deve essere discriminato e deve quindi poter accedere alle
+informazioni e ai servizi digitali erogati dalla Pubblica amministrazione.
 
-Nessun utente deve essere discriminato, anche se si trova ad operare in
-una situazione di particolare difficoltà fisica, e deve quindi poter
-fruire di tutte le informazioni e i servizi digitali rilasciati da un
-ente pubblico.
+Principi per l'accessibilità
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Creare un sito accessibile
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+L‘accessibilità è caratterizzata da quattro solidi principi:
 
-L’accessibilità è una qualità che riguarda più aspetti di un sito web e
-di un software in generale, e va considerata in diversi momenti dello
-sviluppo, da diverse figure professionali:
+-  `percepibile <https://www.w3.org/Translations/WCAG21-it/#perceivable>`__
+-  `utilizzabile <https://www.w3.org/Translations/WCAG21-it/#operable>`__
+-  `comprensibile <https://www.w3.org/Translations/WCAG21-it/#understandable>`__
+-  `robusto <https://www.w3.org/Translations/WCAG21-it/#robust>`__
 
--  Aspetto e contenuto (`visual e content <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa&techniques=advisory>`__)
--  Struttura (`develop <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa&techniques=advisory>`__)
--  Comportamento (`interaction <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa&techniques=advisory>`__)
+Sono quindi conformi i servizi realizzati tramite sistemi informatici, **inclusi
+i siti web e le applicazioni mobili**, che presentano le caratteristiche di
+accessibilità al contenuto e fruibilità delle informazioni.
 
-Il `Decreto Ministeriale del 20 marzo 2013 <http://www.agid.gov.it/dm-8-luglio-2005-allegato-A>`__
-individua i 12 requisiti da rispettare che derivano da `principi internazionali
-<https://www.w3.org/TR/WCAG20/>`__. Per essere a norma,
-il sito web di una PA deve soddisfare tutti i `controlli WCAG 2.0 fino al
-livello AA <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa>`__.
-In questa pagina forniamo un elenco degli errori più comuni
-che limitano o impediscono l’accesso alle informazioni in un determinato
-contesto.
+Linee guida e criteri di successo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Aspetto
-^^^^^^^
+Le `linee guida sull’accessibilità degli strumenti informatici
+<https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`__
+riportano quanto descritto nell’**articolo 11** della `legge n. 4/2004
+<https://www.agid.gov.it/it/node/79271>`__ e referenziano la norma UNI `EN
+301549:2018
+<http://store.uni.com/catalogo/uni-en-301549-2018?josso_back_to=http://store.uni.com/josso-security-check.php&josso_cmd=login_optional&josso_partnerapp_host=store.uni.com>`__
+che stabilisce uno standard europeo per garantire il rispetto dei principi e dei
+requisiti di accessibilità per prodotti e servizi ICT, quali:
 
--  **Contrasto tra primo piano e sfondo**: il testo e il relativo sfondo
-   (compreso il testo contenuto nelle immagini), devono rispettare un
-   preciso rapporto di contrasto, basato su un `algoritmo <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-resources-head>`__. I logotipi, il testo di grandi dimensioni (`18 punti
-   o 14 grassetto <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#larger-scaledef>`__)
-   e il testo volutamente reso poco visibile (es. azioni
-   inattive) non rientrano in questo controllo.
--  **Forma e colore**: le informazioni che veicola una pagina non devono
-   dipendere unicamente da aspetto, forma, colore, dimensione,
-   ubicazione visiva, orientamento o suono. Di seguito esempi di alcuni
-   tra i più comuni errori:
+- hardware
+- web
+- documenti non web
+- software
+- applicazioni Mobili
+- documentazione e servizi di supporto
+- postazioni di lavoro a disposizione del dipendente con disabilità
 
-   -  `Identificare il contenuto solo dalla forma o dal colore
-      <https://www.w3.org/TR/WCAG20-TECHS/F14.html>`__
-   -  `Usare unicamente simboli grafici per veicolare informazioni
-      <https://www.w3.org/TR/WCAG20-TECHS/F26.html>`__
-   -  `Creare link che sono solamente di un colore diverso dal testo
-      <https://www.w3.org/TR/WCAG20-TECHS/F73.html>`__
-   -  Nei moduli online, la `segnalazione dei campi obbligatori mancanti
-      <https://www.w3.org/TR/WCAG20-TECHS/F81.html>`__
-      effettuata solo tramite il colore
+La norma armonizzata riflette lo standard **W3C** `Web Content Accessibility
+Guidelines (WCAG) 2.1 <https://www.w3.org/Translations/WCAG21-it/>`__
 
--  **Tempo sufficiente**: deve essere possibile `rimuovere il limite di tempo
-   di visualizzazione <https://www.w3.org/TR/WCAG20-TECHS/F16.html>`__ di un oggetto nella pagina, o regolarne la
-   scadenza, o estenderla facilmente prima del termine. Ad esempio
-   attenzione a pubblicare un contenuto che “scorre” come un carousel di
-   notizie.
--  **Oggetti lampeggianti**: le pagine Web non devono contenere nulla che
-   lampeggi per più di tre volte al secondo.
--  **Contenuti audio**: se un contenuto audio all’interno di una pagina Web
-   è eseguito automaticamente per più di tre secondi, allora deve essere
-   fornita una funzionalità per metterlo in pausa o interromperlo.
+**Un sito conforme alle specifiche delle WCAG 2.1 è conforme alle WCAG 2.0 ma
+non viceversa**, in quanto la versione aggiornata aggiunge nuovi criteri di
+successo obbligatori (di livello “A” e “AA”), ovvero:
 
-Struttura
-^^^^^^^^^
+- `1.3.4 Orientamento AA <https://www.w3.org/Translations/WCAG21-it/#orientation>`__
+- `1.3.5 Identificare lo scopo degli input (AA) <https://www.w3.org/Translations/WCAG21-it/#identify-input-purpose>`__
+- `1.4.10 Ricalcolo del flusso (AA) <https://www.w3.org/Translations/WCAG21-it/#reflow>`__
+- `1.4.11 Contrasto in contenuti non testuali (AA) <https://www.w3.org/Translations/WCAG21-it/#non-text-contrast>`__
+- `1.4.12 Spaziatura del testo (AA) <https://www.w3.org/Translations/WCAG21-it/#text-spacing>`__
+- `1.4.13 Contenuto con Hover o Focus (AA) <https://www.w3.org/Translations/WCAG21-it/#content-on-hover-or-focus>`__
+- `2.1.4 Tasti di scelta rapida (A) <https://www.w3.org/Translations/WCAG21-it/#character-key-shortcuts>`__
+- `2.5.1 Movimenti del puntatore (A) <https://www.w3.org/Translations/WCAG21-it/#pointer-gestures>`__
+- `2.5.2 Cancellazione delle azioni del puntatore (A) <https://www.w3.org/Translations/WCAG21-it/#pointer-cancellation>`__
+- `2.5.3 Etichetta nel nome (A) <https://www.w3.org/Translations/WCAG21-it/#label-in-name>`__
+- `2.5.4 Azionamento da movimento (A) <https://www.w3.org/Translations/WCAG21-it/#motion-actuation>`__
+- `4.1.3 Messaggi di stato (AA) <https://www.w3.org/Translations/WCAG21-it/#status-messages>`__
 
--  **Link e controlli**: il codice del contenuto Web (es: HTML) va usato
-   secondo le specifiche (es. un titolo è un Hn) e vanno esplicitate le
-   relazioni tra elementi (es. `i campi devono essere legati alle loro
-   etichette <https://www.w3.org/TR/WCAG20-TECHS/H44.html>`__).
--  **Alternative a oggetti non testuali**: tutti gli elementi non testuali,
-   come immagini, grafici, infografiche, video e audio, devono avere
-   un’alternativa testuale equivalente quando veicolano un significato,
-   un’informazione o una funzione, come ad esempio il testo presente in
-   un banner o in un bottone. Fare attenzione soprattutto ai controlli
-   di verifica antispam (es. `CAPTCHA <https://www.w3.org/TR/WCAG20/#CAPTCHAdef>`__.)
--  **Ingrandimento**: il testo si deve poter ingrandire del 200% senza
-   perdita di contenuto o funzionalità, e quindi senza sovrapposizioni
-   di elementi che lo rendano incomprensibile.
+Come le PA possono valutare la conformità di un sito web o un’applicazione mobile
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Comportamento
-^^^^^^^^^^^^^
+La **conformità alle WCAG 2.1** deve essere rispettata come requisito minimo per
+i siti web in fase di sviluppo o in esercizio dopo la data di entrata in vigore
+delle Linee Guida. A partire dal 23 settembre 2020, tale conformità dovrà essere
+rispettata anche per tutti gli altri siti web sviluppati in precedenza, in
+sintesi:
 
--  **Link e controlli**: tutti i componenti dell’interfaccia si devono poter
-   utilizzare tramite comandi da tastiera analogamente a quanto si
-   riesce a fare col mouse. Risulta quindi errato:
+- **entro il 23 settembre 2019**, per un sito web pubblicato dal 23 settembre
+  2018;
+- **entro il 23 settembre 2020**, per un sito web pubblicato prima del 23
+  settembre 2018;
+- a decorrere **dal 23 giugno 2021**, per le applicazioni
+  mobili.
 
-   -  `Permettere l’interazione con link, campi di un form, menu, bottoni
-      solo tramite l’uso del mouse
-      <https://www.w3.org/TR/WCAG20-TECHS/F54.html>`__
-   -  `Spostare il focus della tastiera dagli elementi nella pagina quando
-      questi lo ricevono, o si aggiornano
-      <https://www.w3.org/TR/WCAG20-TECHS/F55.html>`__
+Come rilasciare una dichiarazione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  **Valore, ruolo e stato**: è meglio utilizzare i componenti standard
-   dell’HTML e rendere maggiormente “visibili” gli elementi che ricevono
-   il focus. Se si utilizzano componenti non standard, verificare che
-   valore, ruolo e stato degli elementi siano sempre resi disponibili
-   all’utente, in particolare alle tecnologie assistive (vedi
-   `WAI ARIA <https://www.w3.org/WAI/intro/aria>`__).
+Le PA hanno l’obbligo di **pubblicare una dichiarazione di accessibilità** per
+ciascun sito e applicazione mobile. A tale scopo, **l’Agenzia per l’Italia
+Digitale** ha predisposto una `procedura online
+<https://form.agid.gov.it/actions/>`__ conforme `all’Allegato A1
+<https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/allegato-1/index.html>`__
+delle Linee Guida.
 
-Uso del colore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Le informazioni presenti nella dichiarazione devono essere ricavate da:
 
-La scala cromatica deve garantire il rapporto di contrasto
-minimo tra testo e sfondo di 4,5:1, come raccomandato dalle
-specifiche di accessibilità WCAG 2.0 AA.
+- un’autovalutazione effettuata direttamente dal soggetto erogatore;
+- una valutazione effettuata da terzi;
+- una valutazione effettuata con il **“Modello di autovalutazione”**, `Allegato
+  2 <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/allegato-2/index.html>`__
+  delle Linee Guida.
 
-Il colore non deve mai essere significante in sé e
-non deve essere la modalità con cui si trasmettono contenuti:
-ipovedenti, daltonici e non vedenti non sarebbero in grado di
-identificarli correttamente.
+Il **Responsabile della Transizione Digitale** del soggetto erogatore, riceve il
+link che deve essere esposto con la dicitura **“Dichiarazione di
+accessibilità”**:
 
-Il colore non può essere usato come unico mezzo per veicolare
-un’informazione. Quindi, ad esempio, è sbagliato indicare “in
-rosso le informazioni obbligatorie, in verde quelle accessorie”, perché
-non tutti potrebbero essere in grado di percepire la differenza di
-colore in contesti di fruizione diversi ma molto frequenti, ad es.:
+- **nel footer**, per quanto riguarda i siti web;
+- nella sezione dedicata alle informazioni generali riportate **nello store**,
+  per quanto riguarda l’applicazione mobile.
 
--  da smartphone o tablet, di giorno e all’aperto
--  una stampa in bianco e nero della pagina web
--  una pagina web videoproiettata
--  in caso di daltonismo (`5-8% popolazione maschile <https://it.wikipedia.org/wiki/Daltonismo#Diffusione>`__)
+L’accesso alla piattaforma è possibile solo se la mail istituzionale del
+Responsabile della Transizione Digitale è correttamente indicizzata sul catalogo
+`IPA  <https://www.indicepa.gov.it/documentale/index.php>`__
 
-Per comunicare un’informazione quindi, oltre al colore, è necessario aggiungere
-un elemento testuale o grafico.
+Meccanismo di feedback e procedura di attuazione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La verifica del rapporto di contrasto può essere facilmente effettuata
-attraverso molti tool online come `colour contrast check <http://snook.ca/technical/colour_contrast/colour.html>`_,
-oppure se si lavora con lo UI Kit è possibile installare il plugin di Sketch chiamato
-Stark che permette la verifica del contrasto, la simulazione del tipo di
-“colorblindness” e l’esportazione del report.
+Le PA devono rendere disponibile un meccanismo che consenta a chiunque di
+segnalare i problemi di accessibilità e richiedere un intervento tempestivo da
+parte dell’amministrazione.
 
-Normativa
-~~~~~~~~~
-
-La normativa completa e aggiornata sull’accessibilità è disponibile sul
-sito dell’`Agenzia per l’Italia digitale
-<http://www.agid.gov.it/agenda-digitale/pubblica-amministrazione/accessibilita/normativa>`__ .
+In caso di assenza del meccanismo di feedback, di soluzione insoddisfacente o
+mancata risposta **entro 30 giorni dalla segnalazione**, l’utente può far
+ricorso al **Difensore Civico per il Digitale** tramite la procedura di
+attuazione presente sulla dichiarazione pubblicata dall’ente erogatore.
 
 Obiettivi accessibilità
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Entro il 31 marzo di ogni anno le pubbliche amministrazioni devono
-pubblicare nei propri siti web gli “Obiettivi di accessibilità per
-l’anno corrente”. L’Agenzia per l’Italia digitale ha predisposto
-un’`applicazione on line <https://accessibilita.agid.gov.it/>`__
-per ricevere dalle amministrazioni gli Obiettivi
-di accessibilità. Gli obiettivi vanno pubblicati sui siti delle PA nella
-sezione “amministrazione trasparente/Altri contenuti/Accessibilità e
-Catalogo di dati, metadati e banche dati”.
+**Entro il 31 marzo** di ogni anno le PA devono pubblicare nei propri siti web
+gli **“Obiettivi di accessibilità per l’anno corrente”**. Per tale scopo,
+l’Agenzia per l’Italia Digitale ha predisposto un’`applicazione online
+<https://accessibilita.agid.gov.it/>`__ per ricevere dalle amministrazioni gli
+obiettivi.
+
+Gli obiettivi vanno pubblicati sui siti delle PA nella sezione
+**“amministrazione trasparente/Altri contenuti/Accessibilità e Catalogo di dati,
+metadati e banche dati”**.
+
+Normativa
+~~~~~~~~~
+
+La normativa completa e aggiornata sull’accessibilità è disponibile sul sito
+dell’`Agenzia per l’Italia digitale
+<https://www.agid.gov.it/it/design-servizi/accessibilita/normativa>`__.
+
+FAQ
+~~~
+
+Sono disponibili ulteriori approfondimenti sull'accessibilità nella sezione FAQ
+predisposta sul sito dell’`Agenzia per l’Italia digitale
+<https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0>`__.
