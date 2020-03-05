@@ -172,53 +172,54 @@ Riferimenti normativi tematici
 Accessibilità
 ^^^^^^^^^^^^^
 
-1. `Legge 9 gennaio 2004, n. 4 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-%2001-%2009;4!vig=>`_
+1. `Legge 9 gennaio 2004, n. 4, <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-%2001-%2009;4!vig=>`_
    (aggiornata dal Decreto legislativo 10 agosto 2018, n.106) Disposizioni per
    favorire l’accesso dei soggetti disabili agli strumenti informatici.
-2. `Decreto legislativo 10 agosto 2018, n.106 <http://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg>`_
-   Attuazione della direttiva (UE) 2016/2102 relativa all’accessibilità dei siti
+
+2. `Decreto legislativo 10 agosto 2018, n.106, <https://www.gazzettaufficiale.it/eli/id/2018/09/11/18G00133/sg>`_
+   attuazione della direttiva (UE) 2016/2102 relativa all’accessibilità dei siti
    web e delle applicazioni mobili degli enti pubblici).
-3.  `Direttiva (UE) 2016/2021 del 26 ottobre 2016 <https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32016L2102&from=EN>`_
-    relativa all’accessibilità dei siti web e delle applicazioni mobili
-    degli enti pubblici.
-4.  `Decreto del Presidente della Repubblica 1 marzo 2005, n. 75 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005-03-01;75!vig>`_
-    Regolamento di attuazione della Legge per favorire l’accesso dei soggetti
-    disabili agli strumenti informatici.\*
 
-    \* *Norma in vigore sino alla definizione delle linee guida a cura di AGID*.
+3. `Direttiva (UE) 2016/2021 del 26 ottobre 2016, <https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32016L2102&from=EN>`_
+   relativa all’accessibilità dei siti web e delle applicazioni mobili degli
+   enti pubblici.
 
-5.  `Decreto Ministeriale 8 luglio 2005 <http://www.gazzettaufficiale.it/eli/id/2005/08/08/05A07954/sg>`_
-    Requisiti tecnici e i diversi livelli per l’accessibilità agli strumenti
-    informatici ed allegati.\* In particolare:
+4. `Decisione di esecuzione (UE) 2018/2048 della Commissione del 20 dicembre 2018, <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32018D2048&qid=1548256583520>`_
+   relativa alla norma armonizzata per i siti web e le applicazioni mobili
+   elaborata a sostegno della direttiva (UE) 2016/2102 del Parlamento europeo e
+   del Consiglio.
 
-    a. `allegato A  <http://www.gazzettaufficiale.it/eli/id/2013/09/16/13A07492/sg>`_
-       Aggiornamento dei requisiti tecnici allo standard internazionale ISO 40500:2012
-       (W3C WCAG 2.0) livello «AA». `Decreto 20 marzo 2013 <http://www.gazzettaufficiale.it/eli/id/2013/09/16/13A07492/sg>`_
-       del Ministero dell’Istruzione, dell’Università e della Ricerca, recante
-       «Modifiche all’allegato A del decreto 8 luglio 2005 del Ministro per
-       l’innovazione e le tecnologie, recante: «Requisiti tecnici e i diversi livelli
-       per l’accessibilità” agli strumenti informatici»»
-       (G.U. Serie Generale n. 217 del 16-09-2013)
-    b. `allegato B <http://www.gazzettaufficiale.it/eli/id/2005/08/08/05A07954/sg>`_
-       Metodologia e criteri di valutazione per la verifica soggettiva
-       dell’accessibilità delle applicazioni basate su tecnologie internet.
+5. `Decisione di esecuzione (UE) 2018/1524 della Commissione dell'11 ottobre 2018, <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2018.256.01.0108.01.ITA&toc=OJ:L:2018:256:FULL>`_
+   che stabilisce una metodologia di monitoraggio e definisce le disposizioni
+   riguardanti la presentazione delle relazioni degli Stati membri conformemente
+   alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa
+   all'accessibilità dei siti web e delle applicazioni mobili degli enti
+   pubblici.
 
-    \* *Norma in vigore sino alla definizione delle linee guida a cura di AGID*.
+6. `Decisione di esecuzione (UE) 2018/1523 della Commissione dell'11 ottobre 2018, <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=uriserv:OJ.L_.2018.256.01.0103.01.ITA&toc=OJ:L:2018:256:FULL>`_
+   che istituisce un modello di dichiarazione di accessibilità conformemente
+   alla direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio relativa
+   all'accessibilità dei siti web e delle applicazioni mobili degli enti
+   pubblici.
 
-6.  `Decreto-legge 18 ottobre 2012, n. 179 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179!vig=>`_
-    (convertito con modificazioni dalla L. 17 dicembre 2012, n. 221),
-    all’art. 9 (Documenti informatici, dati di tipo aperto e inclusione
-    digitale) è stato previsto, tra l’altro, l’obbligo per le amministrazioni
-    pubbliche […] di pubblicare nel proprio sito web, gli obiettivi di
-    accessibilità per l’anno corrente e lo stato di attuazione del
-    «piano per l’utilizzo del telelavoro» nella propria organizzazione.
-7.  `Circolare n. 1/2016 dell’Agenzia per l’Italia Digitale <https://www.agid.gov.it/it/Circolare-n1-2016-Agenzia-Italia-Digitale>`_
-    (Aggiornamento della Circolare AGID n. 61/2013) relativa all’obbligo
-    di pubblicazione sul sito web degli obiettivi annuali di accessibilità.
-8.  `Guida pratica per la creazione di un documento accessibile <https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/guida_pratica_creazione_word_accessibile_2.pdf>`_
-    : documento esplicativo redatto a cura dell’Agenzia per l’Italia digitale
-    come ausilio alla creazione di documenti accessibili pubblicabili online
-    sui siti web pubblici.
+7. `Decreto Ministeriale 30 aprile 2008, <https://www.gazzettaufficiale.it/eli/id/2008/06/12/08A04044/sg>`_
+   regole tecniche disciplinanti l'accessibilità agli strumenti didattici e
+   formativi a favore degli alunni disabili. (GU Serie Generale n.136 del
+   12-06-2008).
+
+ 1. `allegato A  <https://www.gazzettaufficiale.it/eli/id/2008/06/12/08A04044/sg>`_
+    linee guida editoriali per i libri di testo.
+
+ 2. `allegato B  <https://www.gazzettaufficiale.it/eli/id/2008/06/12/08A04044/sg>`_ 
+    linee guida per l'accessibilità e la fruibilità del software didattico da parte degli alunni disabili.
+
+8. `Decreto-legge 18 ottobre 2012, n. 179, <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179!vig=>`__
+   (convertito con modificazioni dalla L. 17 dicembre 2012, n. 221), all’art. 9
+   (Documenti informatici, dati di tipo aperto e inclusione digitale) è stato
+   previsto, tra l’altro, l’obbligo per le amministrazioni pubbliche […] di
+   pubblicare nel proprio sito web, gli obiettivi di accessibilità per l’anno
+   corrente e lo stato di attuazione del «piano per l’utilizzo del telelavoro»
+   nella propria organizzazione.
 
 Trasparenza
 ^^^^^^^^^^^
