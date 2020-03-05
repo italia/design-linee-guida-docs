@@ -255,4 +255,4 @@ I Web Kit sono disponibili a tutti sui repository dedicati:
 
 I kit seguono un processo di evoluzione e miglioramento continuo, e sono aggiornati secondo le regole del `versionamento semantico <https://semver.org/lang/it/>`_.
 
-Puoi verificare lo stato di avanzamento e la *roadmap* di ogni kit all’interno del repo GitHub che lo ospita, o su `Designers Italia <https://designers.italia.it/roadmap/>`_. Tutti i progetti della Pubblica Amministrazione sono tenuti a contribuire, sempre utilizzando GitHub, segnalando componenti mancanti, suggerendo errori e mettendo a disposizione di tutti i componenti già realizzati.
+Puoi verificare lo stato di avanzamento e la *roadmap* di ogni kit all’interno del repo GitHub che lo ospita o su `Designers Italia <https://designers.italia.it/roadmap/>`_. Tutti i progetti della Pubblica Amministrazione sono tenuti a contribuire, sempre utilizzando GitHub, segnalando componenti mancanti, suggerendo errori e mettendo a disposizione di tutti i componenti già realizzati.
