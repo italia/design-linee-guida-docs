@@ -153,29 +153,33 @@ In caso di progettazione di progressive web apps ideate per essere usate princip
 I Web Kit per lo sviluppo dell’interfaccia
 ================================================================================
 
-Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa fase, il progetto Designers Italia ha supportato la realizzazione di alcune librerie *open source* di ausilio per lo sviluppo di interfacce e il mantenimento di un *design system* solido e coerente: Bootstrap Italia, Web Toolkit, React Kit e Angular Kit.
+Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa fase, il progetto Designers Italia ha supportato la creazione di alcune librerie *open source* di ausilio per lo sviluppo di interfacce e il mantenimento di un *design system* solido e coerente: Bootstrap Italia, Web Toolkit, React Kit e Angular Kit, oltre ad alcuni strumenti dedicati alla realizzazione di siti web per comuni e scuole.
 
-**Bootstrap Italia** è il punto di riferimento e il più moderno set di componenti disponibile per la costruzione di interfacce per servizi della PA, costruito sulle basi delle più recenti modifiche allo `UI Kit <./il-disegno-di-un-interfaccia-e-lo-ui-kit.html>`__ e sulla libreria `Bootstrap 4 <https://getbootstrap.com/>`_. Esso contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di tipografia, bottoni ed altri pattern di interfaccia conformi alle attuali Linee Guida.
+**Bootstrap Italia** è il principale punto di riferimento e il più moderno set di componenti disponibile per la costruzione di interfacce per servizi della PA, costruito sulle basi delle più recenti modifiche allo `UI Kit <./il-disegno-di-un-interfaccia-e-lo-ui-kit.html>`__ e sulla libreria `Bootstrap 4 <https://getbootstrap.com/>`_. Esso contiene codice HTML e CSS già pronto all’utilizzo per l’applicazione di tipografia, spaziature, design responsivo ed altri pattern di interfaccia conformi alle attuali Linee Guida. Bootstrap Italia recepisce le informazioni e i suggerimenti ricevuti e aggiorna il precedente `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_, secondo le nuove direttive introdotte nella più recente versione dello UI Kit e semplificando moltissimo lo sviluppo di un sito web conforme con le Linee Guida di Design.
 
-* Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
+* `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
 
-Il **Web Toolkit** è la libreria “storica” tra i kit per lo sviluppo web, con la quale sono stati costruiti alcuni siti di Enti centrali e locali. Essa è basata su una versione ormai obsoleta delle Linee Guida di design, per cui non ne è consigliata l’adozione per nuovi progetti.
+**React Kit** e **Angular Kit** (in lavorazione) contengono componenti programmati in linguaggio JavaScript, costruiti rispettivamente sulle basi di *React* e *AngularJS 6*, due librerie *open source* per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
 
-* Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
+* `React Kit <https://italia.github.io/design-react-kit/>`_
+* `Angular Kit <https://italia.github.io/design-angular-kit/>`_ (in lavorazione)
 
-**React Kit** e **Angular Kit** (in lavorazione) contengono componenti programmati in linguaggio JavaScript, costruiti rispettivamente sulle basi di *React* e *AngularJS*, due librerie *open source* per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
+Sulle fondamenta della libreria Bootstrap Italia, sono stati inoltre creati degli **strumenti in ausilio alla realizzazione di siti di comuni e scuole**, secondo i ripettivi modelli, frutto di una corposa fase di ricerca con diverse tipologie di utenti ed impiegati:
 
-* Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
-* Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
+* `Design dei siti web delle scuole italiane <https://docs.italia.it/italia/designers-italia/design-scuole-docs/>`_
+* `Design dei siti web dei comuni italiani <https://docs.italia.it/italia/designers-italia/design-comuni-docs/>`_
+
+Tali strumenti si concretizzano sotto forma di un tema WordPress per il modello di siti delle scuole, e di template HTML nel caso del modello per siti dei i comuni. Questi strumenti, oltre a fornire codice già pronto all’uso, implementano in modo puntuale l’architettura dell’informazione, l’organizzazione della navigazione e dei contenuti previsti dai modelli.
+
+* `Sito di progetto per i siti dei comuni <https://italia.github.io/design-comuni-prototipi/>`_ e `template HTML <https://italia.github.io/design-comuni-prototipi/it/kit.html#template-html>`_
+* `Tema WordPress per le scuole <https://github.com/italia/design-scuole-wordpress-theme>`_
 
 Bootstrap Italia
 --------------------------------------------------------------------------------
 
-Bootstrap Italia recepisce le informazioni ricevute e aggiorna il precedente Web Toolkit, secondo le nuove direttive introdotte nella più recente versione dello UI Kit, semplificando moltissimo lo sviluppo di un sito web conforme con le Linee Guida di Design.
+Bootstrap Italia contiene codice pronto all’uso, e descrive in dettaglio nella propria documentazione di progetto come iniziare ad utilizzare la libreria nel proprio sito, come aggiungere nuovi componenti, organizzare spazi e contenuti, ed altro ancora.
 
-Esso contiene codice pronto all’uso, e descrive in dettaglio nella propria documentazione di progetto come iniziare ad utilizzare la libreria nel proprio sito, come aggiungere nuovi componenti, organizzare spazi e contenuti, ed altro ancora.
-
-Bootstrap Italia permette di copiare il codice mostrato, ottenendo esattamente ciò che è mostrato nella `documentazione <https://italia.github.io/bootstrap-italia/docs/come-iniziare/introduzione/>`_ del progetto.
+Esso permette di copiare frammenti di codice ed ottenere esattamente ciò che è mostrato nella `documentazione del progetto <https://italia.github.io/bootstrap-italia/docs/come-iniziare/introduzione/>`_, al cui interno sono presenti informazioni sull’utilizzo, componenti, esempi e progetti già realizzati grazie all’utilizzo della libreria.
 
 Bottoni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -215,7 +219,7 @@ Bootstrap Italia recepisce anche scelte di design su componenti che non esistono
 React Kit e Angular Kit
 --------------------------------------------------------------------------------
 
-I kit React e Angular dipendono da Bootstrap Italia per quanto riguarda lo stile, ma espongono componenti già pronti all’utilizzo all’interno di applicazioni complesse basate su queste librerie. Entrambe le librerie sono disponibili come pacchetti ``npm``, per cui gli sviluppatori React ed Angular troveranno codice già ottimizzato per essere incluso come dipendenza nelle loro applicazioni web.
+I kit React e Angular dipendono da Bootstrap Italia per quanto riguarda lo stile, ma espongono componenti già pronti all’utilizzo per applicazioni ad alta interattività basate su queste librerie. Entrambe le librerie sono disponibili come pacchetti ``npm``, per cui gli sviluppatori React ed Angular troveranno codice già ottimizzato per essere incluso come dipendenza nelle loro applicazioni web.
 
 Bottoni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -242,12 +246,13 @@ Gli strumenti
 
 I Web Kit sono disponibili a tutti sui repository dedicati:
 
-* Vedi `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
-* Vedi il `Web Toolkit <https://italia.github.io/design-web-toolkit/>`_
-* Vedi il `React Kit <https://italia.github.io/design-react-kit/>`_
-* Vedi l’`Angular Kit <https://italia.github.io/design-angular-kit/>`_
+* `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
+* `React Kit <https://italia.github.io/design-react-kit/>`_
+* `Angular Kit <https://italia.github.io/design-angular-kit/>`_ (in lavorazione)
+* `Siti dei comuni: template HTML <https://italia.github.io/design-comuni-prototipi/it/kit.html#template-html>`_
+* `Siti delle scuole: tema WordPress <https://github.com/italia/design-scuole-wordpress-theme>`_
 
 
 I kit seguono un processo di evoluzione e miglioramento continuo, e sono aggiornati secondo le regole del `versionamento semantico <https://semver.org/lang/it/>`_.
 
-Puoi verificare lo stato di avanzamento e la *roadmap* di ogni kit all’interno del repo GitHub che lo ospita. Tutti i progetti della Pubblica Amministrazione sono tenuti a contribuire, sempre utilizzando GitHub, segnalando componenti mancanti, suggerendo errori e mettendo a disposizione di tutti i componenti già realizzate.
+Puoi verificare lo stato di avanzamento e la *roadmap* di ogni kit all’interno del repo GitHub che lo ospita o su `Designers Italia <https://designers.italia.it/roadmap/>`_. Tutti i progetti della Pubblica Amministrazione sono tenuti a contribuire, sempre utilizzando GitHub, segnalando componenti mancanti, suggerendo errori e mettendo a disposizione di tutti i componenti già realizzati.
