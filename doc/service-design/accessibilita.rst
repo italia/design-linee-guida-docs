@@ -38,10 +38,10 @@ configurazioni particolari.
 Nessun utente deve essere discriminato e deve quindi poter accedere alle
 informazioni e ai servizi digitali erogati dalla Pubblica amministrazione.
 
-Principi per l'accessibilità
+Principi per l’accessibilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L‘accessibilità è caratterizzata da quattro solidi principi:
+L’accessibilità è caratterizzata da quattro solidi principi:
 
 -  `percepibile <https://www.w3.org/Translations/WCAG21-it/#perceivable>`__
 -  `utilizzabile <https://www.w3.org/Translations/WCAG21-it/#operable>`__
@@ -114,7 +114,7 @@ Come rilasciare una dichiarazione
 Le PA hanno l’obbligo di **pubblicare una dichiarazione di accessibilità** per
 ciascun sito e applicazione mobile. A tale scopo, **l’Agenzia per l’Italia
 Digitale** ha predisposto una `procedura online
-<https://form.agid.gov.it/actions/>`__ conforme `all’Allegato A1
+<https://form.agid.gov.it/actions/>`__ conforme all’`Allegato 1
 <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/allegato-1/index.html>`__
 delle Linee Guida.
 
@@ -135,8 +135,8 @@ accessibilità”**:
   per quanto riguarda l’applicazione mobile.
 
 L’accesso alla piattaforma è possibile solo se la mail istituzionale del
-Responsabile della Transizione Digitale è correttamente indicizzata sul catalogo
-`IPA  <https://www.indicepa.gov.it/documentale/index.php>`__
+Responsabile della Transizione Digitale è correttamente indicizzata sul
+`catalogo IPA <https://www.indicepa.gov.it/documentale/index.php>`_.
 
 Meccanismo di feedback e procedura di attuazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -173,6 +173,6 @@ dell’`Agenzia per l’Italia digitale
 FAQ
 ~~~
 
-Sono disponibili ulteriori approfondimenti sull'accessibilità nella sezione FAQ
+Sono disponibili ulteriori approfondimenti sull’accessibilità nella sezione FAQ
 predisposta sul sito dell’`Agenzia per l’Italia digitale
 <https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0>`__.
