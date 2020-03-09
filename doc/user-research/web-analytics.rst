@@ -342,17 +342,32 @@ web analytics.
 
 Per un approfondimento sul tema, si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
 
-Gli strumenti (Matomo/Piwik e Google Analytics)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Strumenti di web analytics: Web Analytics Italia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Di seguito proponiamo una serie di link di approfondimento per
-comprendere come installare/configurare nella maniera corretta due fra
-le principali piattaforme di web analytics gratuite, **Matomo/Piwik**
-(piattaforma open source) e **Google Analytics** (piattaforma
-commerciale).
+In questa sezione puoi trovare informazioni e alcuni link di approfondimento che ti aiuteranno a comprendere come adottare uno strumento di web analytics per i tuoi siti e servizi digitali.
 
-Matomo/Piwik
-^^^^^^^^^^^^
+Tieni presente che a partire dalla prima metà del 2020, è disponibile gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://designers.italia.it/progetti/web-analytics-italia/>`__ (WAI).
+
+WAI ha lo scopo di: 
+
+- centralizzare e standardizzare la raccolta e l’elaborazione dei dati di traffico e comportamento utente dei siti e dei servizi digitali delle PA
+- facilitare per gli operatori l’accesso ai dati, la loro condivisione e la loro interpretazione grazie a risorse e reportistica ad hoc
+- garantire la massima aderenza alla norma GDPR in termini di privacy degli utenti tracciati, oltre che la completa proprietà e controllo del dato rilevato da parte dell’amministrazione
+- offrire una vista aggregata dei dati di traffico raccolti accessibile pubblicamente, in ottica di condivisione e trasparenza.
+
+Il servizio WAI si colloca nel contesto delle linee guida di design per i servizi digitali, oltre che del codice dell’amministrazione digitale.
+
+Per saperne di più su WAI puoi consultare il sito `Webanalytics.italia.it <https://webanalytics.italia.it/>`__ oltre che la `guida utente di riferimento <https://docs.italia.it/AgID/wai/wai-user-guide-docs/it/stabile/index.html>`__.
+
+Ricorda che la soluzione open source WAI è compatibile e può funzionare contemporaneamente a qualsiasi altro strumento di web analytics che stai già utilizzando.
+
+Nei paragrafi seguenti ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare due fra le principali piattaforme di web analytics, **Matomo** (piattaforma open source) e **Google Analytics** (piattaforma commerciale, nella sua versione free).
+
+
+
+Strumenti di web analytics: Matomo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  `Installazione e configurazione di Matomo/Piwik
    <https://piwik.org/docs/installation/>`__
@@ -369,8 +384,8 @@ Matomo/Piwik
 -  `Importare dati da GA a Matomo/Piwik
    <https://piwik.org/blog/2012/08/google-analytics-to-piwik/>`__
 
-Google Analytics
-^^^^^^^^^^^^^^^^
+Strumenti di web analytics: Google Analytics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  `Configurazione di Google Analytics
    <https://support.google.com/analytics/answer/1102154>`__
