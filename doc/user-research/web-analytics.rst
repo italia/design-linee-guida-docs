@@ -356,7 +356,7 @@ WAI ha lo scopo di:
 - garantire la massima aderenza alla norma GDPR in termini di privacy degli utenti tracciati, oltre che la completa proprietà e controllo del dato rilevato da parte dell’amministrazione
 - offrire una vista aggregata dei dati di traffico raccolti accessibile pubblicamente, in ottica di condivisione e trasparenza.
 
-Il servizio WAI si colloca nel contesto delle [Linee guida di design per i servizi digitali della PA](https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/) italiana, oltre che nel [Piano Triennale per l'Informatica nella PA](https://pianotriennale-ict.italia.it/). 
+Il servizio WAI si colloca nel contesto delle `Linee guida di design per i servizi digitali della PA <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/>`__ italiana, oltre che nel `Piano Triennale per l'Informatica nella PA <https://pianotriennale-ict.italia.it/>`__.
 
 Per saperne di più su WAI puoi consultare il sito `Webanalytics.italia.it <https://webanalytics.italia.it/>`__ oltre che la `guida utente di riferimento <https://docs.italia.it/AgID/wai/wai-user-guide-docs/it/stabile/index.html>`__.
 
