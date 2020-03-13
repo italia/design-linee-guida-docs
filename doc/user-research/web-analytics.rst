@@ -358,7 +358,7 @@ WAI ha lo scopo di:
 
 Il servizio WAI si colloca nel contesto delle `Linee guida di design per i servizi digitali della PA <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/>`__ italiana, oltre che nel `Piano Triennale per l'Informatica nella PA <https://pianotriennale-ict.italia.it/>`__.
 
-Per saperne di più su WAI puoi consultare il sito `Webanalytics.italia.it <https://webanalytics.italia.it/>`__ oltre che la `guida utente di riferimento <https://docs.italia.it/AgID/wai/wai-user-guide-docs/it/stabile/index.html>`__.
+Per saperne di più su WAI puoi consultare il sito `webanalytics.italia.it <https://webanalytics.italia.it/>`__ oltre che la `guida utente di riferimento <https://docs.italia.it/AgID/wai/wai-user-guide-docs/it/stabile/index.html>`__.
 
 Ricorda che la soluzione open source WAI è compatibile e può funzionare contemporaneamente a qualsiasi altro strumento di web analytics che stai già utilizzando.
 
