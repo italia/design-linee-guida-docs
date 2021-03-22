@@ -273,7 +273,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 
 .. _section-1:
 
-.. admonition::
+.. admonition:: deepening
    :class: admonition-deepening display-page
 
    **I testi come interfacce**
