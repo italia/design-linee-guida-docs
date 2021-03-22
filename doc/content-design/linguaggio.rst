@@ -243,7 +243,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 
 -  Il testo, le immagini e le interfacce sono accessibili? (Per
    approfondire: `Accessibilità e
-   inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusivita.html>`__
+   inclusione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/accessibilita-e-inclusione.html>`__)
 
 -  Hai utilizzato parole o termini discriminatori? (Per approfondire:
    `Accessibilità e
@@ -273,7 +273,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 
 .. _section-1:
 
-.. admonition:: deepening
+.. admonition::
    :class: admonition-deepening display-page
 
    **I testi come interfacce**
