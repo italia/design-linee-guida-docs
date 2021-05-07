@@ -1,6 +1,8 @@
 Introduzione alle linee guida di design
 ---------------------------------------
 
+.. include:: /banner.rst
+
 I cittadini al centro
 ~~~~~~~~~~~~~~~~~~~~~
 **Designers Italia** considera le effettive esigenze degli utenti come punto di partenza per pensare, costruire e migliorare i servizi digitali. Grazie all’approccio *human-centered* è possibile:

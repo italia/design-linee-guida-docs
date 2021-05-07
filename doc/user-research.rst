@@ -1,6 +1,8 @@
 User research
 =============
 
+.. include:: /banner.rst
+
 La *User Research* (Ricerca sull’Utente) pone le basi fondanti per la
 progettazione di un servizio web che si focalizzi sull’utente Cittadino
 e i suoi bisogni. Il primo capitolo della guida è dedicato

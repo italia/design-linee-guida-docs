@@ -1,6 +1,8 @@
 Prototipare un servizio
 =======================
 
+.. include:: /banner.rst
+
 Un **prototipo** è un modello sperimentale che permette di testare
 un’idea in maniera rapida ed economica, permettendo al team di rifinire
 il progetto o di valutare cambiamenti di approccio, se si rivelano

@@ -1,6 +1,8 @@
 Usabilità
 ---------
 
+.. include:: /banner.rst
+
 Definizione
 ~~~~~~~~~~~
 
@@ -112,7 +114,7 @@ Per approfondimenti
 ^^^^^^^^^^^^^^^^^^^
 
 `Allegato B del Decreto Ministeriale 8 luglio
-2005. <http://www.agid.gov.it/dm-8-luglio-2005-allegato-b>`__
+1.    <http://www.agid.gov.it/dm-8-luglio-2005-allegato-b>`__
 
 
 Usabilità come costrutto misurabile
@@ -239,7 +241,7 @@ Di seguito vengono descritte le diverse fasi nelle quali si articola la procedur
 2.     Esecuzione;
 3.     Analisi dei risultati.
 
-1. Preparazione
+4. Preparazione
 ^^^^^^^^^^^^^^^
 
 Questa fase prevede i seguenti aspetti:

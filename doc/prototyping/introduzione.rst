@@ -1,6 +1,8 @@
 Introduzione
 ============
 
+.. include:: /banner.rst
+
 La progettazione di un ambiente digitale si basa sui risultati delle
 attività di `user
 research <../../doc/user-research.html>`__

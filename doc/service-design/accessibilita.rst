@@ -1,6 +1,8 @@
 Accessibilità
 -------------
 
+.. include:: /banner.rst
+
 .. admonition:: SI DEVE
 
    I soggetti destinatari della  `legge n. 4/2004

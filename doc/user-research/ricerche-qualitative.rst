@@ -1,6 +1,8 @@
 Ricerche qualitative e quantitative
 -----------------------------------
 
+.. include:: /banner.rst
+
 La User Research (ricerca sugli utenti) ha come fine ultimo quello di studiare gli utenti per progettare servizi quanto più rispondenti alle loro effettive esigenze. Questo obiettivo si raggiunge attraverso approcci di ricerca di tipo qualitativo e/o quantitativo, che si differenziano per le caratteristiche del dato che si può ricavare e per l’analisi che se ne può fare. La ricerca qualitativa, in genere, ha come obiettivo cercare di comprendere le motivazioni sottese ad attitudini, comportamenti e atteggiamenti dell’utente, studiandone le attività, i contesti d’uso, le necessità ma anche gli errori e le frustrazioni. A differenza della ricerca quantitativa, non si basa solamente su quello che le persone dicono, ma cerca di guardare più in profondità, mappando quello che le persone dicono, fanno e pensano. La ricerca qualitativa:
 
 -  si fonda su campioni non numerosi;

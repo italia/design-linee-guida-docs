@@ -1,6 +1,8 @@
 Prototyping 
 ============
 
+.. include:: /banner.rst
+
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti

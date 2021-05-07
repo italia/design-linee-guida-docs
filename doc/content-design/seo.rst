@@ -1,6 +1,8 @@
 SEO
 ---
 
+.. include:: /banner.rst
+
 Premessa
 ~~~~~~~~
 
