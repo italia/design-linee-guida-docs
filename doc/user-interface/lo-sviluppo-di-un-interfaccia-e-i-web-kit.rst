@@ -2,6 +2,8 @@
 Lo sviluppo di un’interfaccia e i Web Kit
 ================================================================================
 
+.. include:: /banner.rst
+
 Alcune attività preliminari alla fase di sviluppo
 ================================================================================
 

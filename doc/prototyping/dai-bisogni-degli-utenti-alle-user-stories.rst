@@ -1,6 +1,8 @@
 Dai bisogni degli utenti alle user stories 
 ===========================================
 
+.. include:: /banner.rst
+
 In particolare, i punti di partenza da cui avviare l’attività di
 progettazione possono essere sintetizzati in alcuni strumenti operativi
 che abbiamo affrontato nel capitolo delle Linee Guida dedicato al

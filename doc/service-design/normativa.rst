@@ -1,6 +1,8 @@
 Normativa
 ---------
 
+.. include:: /banner.rst
+
 Codice dell’amministrazione digitale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

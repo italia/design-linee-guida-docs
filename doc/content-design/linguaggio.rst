@@ -2,6 +2,8 @@
 Linguaggio
 ==========
 
+.. include:: /banner.rst
+
 .. _scrivere-per-le-persone-1:
 
 Scrivere per le persone

@@ -1,6 +1,8 @@
 Linee guida di design per i servizi digitali della PA
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. include:: /banner.rst
+
 **Le linee guida per il design dei servizi digitali della Pubblica Amministrazione** sono uno strumento di lavoro per la Pubblica Amministrazione e i loro fornitori, e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al `service design <doc/service-design.html>`__ (progettazione dei servizi), al `content design <doc/content-design.html>`__ (progettazione dei contenuti), alla `user research <doc/user-research.html>`__ (ricerca con gli utenti), e alla `user interface <doc/user-interface.html>`__ (interfaccia utente).
 
 La versione stabile delle Linee Guida corrisponde a **2020.1**.

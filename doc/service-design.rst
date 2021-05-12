@@ -1,6 +1,8 @@
 Service design
 ==============
 
+.. include:: /banner.rst
+
 Con l’adozione delle metodologie di service design si intende migliorare
 la progettazione e quindi le caratteristiche di un servizio, orientando
 funzionalità, processi e componenti intorno alle effettive esigenze degli utenti.

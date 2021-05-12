@@ -1,6 +1,8 @@
 Principi di design dei servizi
 ------------------------------
 
+.. include:: /banner.rst
+
 Principi di service design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 

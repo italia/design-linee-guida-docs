@@ -1,6 +1,8 @@
 User interface
 ==============
 
+.. include:: /banner.rst
+
 L’interfaccia utente è tutto ciò che fa da ponte tra i servizi digitali e i
 loro destinatari. È l'insieme dei cosiddetti *touch point* di un servizio
 digitale. Non si tratta solo di una serie di elementi grafici e visuali, ma

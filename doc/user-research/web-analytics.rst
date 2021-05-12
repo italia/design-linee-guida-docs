@@ -1,6 +1,8 @@
 Web analytics
 -------------
 
+.. include:: /banner.rst
+
 Premessa
 ~~~~~~~~
 

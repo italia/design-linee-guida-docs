@@ -1,6 +1,8 @@
 Content design
 ==============
 
+.. include:: /banner.rst
+
 La sezione content design della guida affronta i temi legati agli
 ambienti informativi in cui si muove l’utente che fruisce servizi
 digitali. In particolare si occupa della search engine optimization, del
