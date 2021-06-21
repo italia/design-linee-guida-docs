@@ -1,5 +1,6 @@
-.. admonition:: Partecipa anche tu
+.. admonition:: Conclusa la fase di consultazione
 
-    Da mercoledì 12 maggio è ufficialmente aperta la fase di consultazione delle `nuove Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/design/lg-design-servizi-web>`_.
-    Condividi i tuoi suggerimenti, per partecipare c’è tempo fino al 14 giugno.
+    Lunedì 14 giugno si è chiusa ufficialmente la fase di consultazione delle `nuove Linee guida di design per i servizi web della Pubblica Amministrazione <https://docs.italia.it/italia/design/lg-design-servizi-web>`_.
+    
+    `Per approfondire <https://designers.italia.it/notizie/Conclusa-la-fase-di-consultazione-delle-Linee-Guida-di-design/>`_.
 
