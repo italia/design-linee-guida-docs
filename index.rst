@@ -7,7 +7,7 @@ Linee guida di design per i servizi digitali della PA
 
 La versione stabile delle Linee Guida corrisponde a **2020.1**.
 
-Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli obiettivi e delle azioni chiave che la pubblica amministrazione deve mettere in atto per progettare servizi orientati ai bisogni delle persone. In secondo luogo trova spazio un nuovo capitolo dedicato alla progettazione e alla prototipazione di un servizio digitale, pensato come punto di convergenza delle diverse competenze necessarie allo sviluppo di un servizio della pubblica amministrazione. Aggiornamenti significativi riguardano infine la sezione di architettura dell'informazione e quella relativa alla ricerca quantitativa.
+Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli obiettivi e delle azioni chiave che la Pubblica Amministrazione deve mettere in atto per progettare servizi orientati ai bisogni delle persone. In secondo luogo, trova spazio un nuovo capitolo dedicato alla progettazione e alla prototipazione di un servizio digitale, pensato come punto di convergenza delle diverse competenze necessarie allo sviluppo di un servizio della Pubblica Amministrazione. Aggiornamenti significativi riguardano, infine, la sezione di architettura dell'informazione e quella relativa alla ricerca quantitativa.
 
 .. toctree::
     :maxdepth: 3
