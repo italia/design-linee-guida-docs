@@ -398,7 +398,7 @@ Gli strumenti
 
 Lo UI Kit è disponibile a tutti in formato *Sketch* sul repository GitHub dedicato, un servizio di hosting dove è possibile commentare, caricare files e interagire tramite messaggi (*issue*) e contributi (*pull request*).
 
-- Vedi i `file sorgente dello UI Kit <https://https://github.com/italia/design-ui-kit>`_ oppure scopri com `caricare il kit come libreria esterna <https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries>`_ all’interno del tuo progetto
+- Vedi i `file sorgente dello UI Kit <https://github.com/italia/design-ui-kit>`_ oppure scopri com `caricare il kit come libreria esterna <https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries>`_ all’interno del tuo progetto
 
 Esso è inoltre pubblicato per consultazione su InVision:
 
