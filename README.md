@@ -1,4 +1,14 @@
-# Linee guida di design per i servizi digitali della PA
+# :warning: Questa versione delle linee guida è superata 
+
+I riferimenti più attuali sono:
+- le **[Linee guida di design per i siti internet e i servizi digitali della PA](https://docs.italia.it/italia/design/lg-design-servizi-web/)** ([repository GitHub](https://github.com/italia/lg-design-servizi-web/blob/versione-corrente/index.rst)) emesse a norma CAD ex. Art 71;
+- il **[Manuale operativo di design](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente)** ([repository GitHub](https://github.com/italia/manuale-operativo-design-docs)) e le altre risorse messe a disposizione come strumento a supporto della Pubblica Amministrazione e dei suoi fornitori dal progetto [Designers Italia](https://designers.italia.it).
+
+:hand:
+
+------
+
+## Linee guida di design per i servizi digitali della PA
 Questo repository contiene il testo delle *Linee guida di design per i servizi digitali della PA* in formato reStructredText.
 
 [Le linee guida per il design dei servizi digitali della Pubblica Amministrazione](http://design-italia.readthedocs.io/it/stable/index.html) sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al *service design*, alla *user research*, al *content design* e alla *user interface*. Per discutere sul design dei servizi pubblici [è disponibile il nostro forum](https://forum.italia.it/c/design). Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
