@@ -1,0 +1,10 @@
+version: "3.5"
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app
+      - /app/preview_build/
+      - ./preview_build/preview_configuration.py:/app/conf.py
+    ports:
+      - "8000:8000"

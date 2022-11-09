@@ -45,11 +45,32 @@ Le funzioni di hosting e di ricerca sono basate su [ReadTheDocs](https://readthe
 
 Tutti i documenti di *Docs Italia* possono essere fruiti anche in formato .epub e .pdf
 
-## Compilazione della documentazione
-I file contenuti in questo repository possono essere modificati sul proprio computer ed essere convertiti in formato HTML per validarne i cambiamenti. È necessario innanzitutto installare il tema di Docs Italia attraverso il seguente comando:
 
-`pip install -r requirements.txt`
+## Dipendenze
 
-Quindi lanciare il comando [Sphinx](http://www.sphinx-doc.org) per validare e generare la documentazione, che sarà consultabile all'indirizzo `./html/index.html`:
+Il repository è strutturato per essere compatibile con [Docs Italia](https://docs.italia.it/).
+La piattaforma accetta documenti in formato RST o MD.
+Per informazioni sulla struttura di questo repository visita il [repository
+dedicato](https://github.com/italia/docs-italia-starter-kit).
 
-`sphinx-build -n -W -T -b html . html`
+## Preview
+
+Per lavorare utilizzando una preview del documento è sufficiente lanciare Docker
+
+```shell
+docker-compose up
+```
+
+la preview sarà visibile all'indirizzo [http://localhost:8000/](http://localhost:8000/)
+
+## Come contribuire
+
+Ogni contributo è benvenuto!
+È possibile aprire delle issue per segnalare errori, problemi o per la
+richiesta di nuove funzionalità.
+Inoltre, è possibile aprire delle Pull Request per proporre direttamente delle
+modifiche.
+
+## Licenza
+
+Questo documento è rilasciato con una licenza CC BY 4.0.
