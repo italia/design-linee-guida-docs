@@ -1,3 +1,4 @@
 html/
 .venv
 .vscode
+_build
