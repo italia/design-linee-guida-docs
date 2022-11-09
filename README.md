@@ -1,4 +1,4 @@
-# :warning: Queste Linee guida sono superate, rimangono qui visionabili come memoria storica
+# :warning: Queste linee guida sono superate, rimangono qui visionabili come memoria storica
 
 I riferimenti attuali sono:
 - le **[Linee guida di design per i siti internet e i servizi digitali della PA](https://docs.italia.it/italia/design/lg-design-servizi-web/)** ([repository GitHub](https://github.com/italia/lg-design-servizi-web/)) emesse a norma CAD ex. Art 71;
