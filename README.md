@@ -1,8 +1,8 @@
 # :warning: Questa versione delle linee guida è superata 
 
 I riferimenti più attuali sono:
-- le **[Linee guida di design per i siti internet e i servizi digitali della PA](https://docs.italia.it/italia/design/lg-design-servizi-web/)** ([repository GitHub](https://github.com/italia/lg-design-servizi-web/blob/versione-corrente/index.rst)) emesse a norma CAD ex. Art 71;
-- il **[Manuale operativo di design](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/it/versione-corrente)** ([repository GitHub](https://github.com/italia/manuale-operativo-design-docs)) e le altre risorse messe a disposizione come strumento a supporto della Pubblica Amministrazione e dei suoi fornitori dal progetto [Designers Italia](https://designers.italia.it).
+- le **[Linee guida di design per i siti internet e i servizi digitali della PA](https://docs.italia.it/italia/design/lg-design-servizi-web/)** ([repository GitHub](https://github.com/italia/lg-design-servizi-web/)) emesse a norma CAD ex. Art 71;
+- il **[Manuale operativo di design](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs/)** ([repository GitHub](https://github.com/italia/manuale-operativo-design-docs)) e le altre risorse messe a disposizione come strumento a supporto della Pubblica Amministrazione e dei suoi fornitori dal progetto [Designers Italia](https://designers.italia.it).
 
 :hand:
 
