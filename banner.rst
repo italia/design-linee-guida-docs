@@ -1,4 +1,4 @@
-.. admonition:: Questa versione delle linee guida è superata 
+.. important:: Questa versione delle linee guida è superata 
 
     I riferimenti più attuali sono:
     - le **`Linee guida di design per i siti e i servizi digitali della PA<https://docs.italia.it/italia/design/lg-design-servizi-web>`_** emesse a norma CAD ex. Art 71;
