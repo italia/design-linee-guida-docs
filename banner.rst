@@ -1,5 +1,5 @@
 .. admonition:: Queste linee guida sono superate
-  :class error display-page
+  :class: error display-page
 
 
   I riferimenti attuali sono:
