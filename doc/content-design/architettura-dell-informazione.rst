@@ -204,7 +204,7 @@ Ontologie e standard
 ~~~~~~~~~~~~~~~~~~~~
 L’emergere del web come ambiente aperto di comunicazione e condivisione di informazioni ha favorito la nascita di un approccio alla modellazione dell’informazione più astratto rispetto allo specifico sistema (o punto di contatto con l’utente) che si sta progettando. Pensare ai contenuti come indipendenti dalla piattaforma che li ospita permette di renderli disponibili, per esempio attraverso API, per l’utilizzo da parte di altri o per la progettazione di altri punti di contatto con il cittadino (per esempio una app) utilizzando quanto previsto nelle `linee guida relative alla interoperabilità. <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/v2018.1/>`_
 
-Per questo motivo è bene costruire content type e sistemi di classificazione sulla base di strutture formali di rappresentazione della realtà più astratte, che possiamo esprimere in termini di **ontologie** e di **vocabolari controllati**. Facciamo un esempio: un sito della Pubblica Amministrazione prevede normalmente content type per definire un ufficio (es. Ufficio anagrafe), un luogo (es. Palazzo Chigi) o un ruolo (es. direttore dipartimento). Queste informazioni possono essere modellate utilizzando le ontologie relative a persone, organizzazioni e luoghi ( `vedi alcune ontologie già disponibili <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/>`_). L’ eventuale informazione relativa a un titolo di studio di una persona che lavora per la Pubblica Amministrazione può essere espressa attraverso un vocabolario controllato, `e anche in questo caso ne esiste già uno. <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/VocabolariControllati/classifications-for-people/education-level/>`_ 
+Per questo motivo è bene costruire content type e sistemi di classificazione sulla base di strutture formali di rappresentazione della realtà più astratte, che possiamo esprimere in termini di **ontologie** e di **vocabolari controllati**. Facciamo un esempio: un sito della Pubblica Amministrazione prevede normalmente content type per definire un ufficio (es. Ufficio anagrafe), un luogo (es. Palazzo Chigi) o un ruolo (es. direttore dipartimento). Queste informazioni possono essere modellate utilizzando le ontologie relative a persone, organizzazioni e luoghi ( `vedi alcune ontologie già disponibili <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/>`_). L’ eventuale informazione relativa a un titolo di studio di una persona che lavora per la Pubblica Amministrazione può essere espressa attraverso un vocabolario controllato, `e anche in questo caso ne esiste già uno. <https://github.com/italia/dati-semantic-assets/tree/master/VocabolariControllati/classifications-for-people/education-level/>`_ 
 
 Le ontologie
 ============
@@ -213,7 +213,7 @@ E’ in corso un progetto di modellazione  delle informazioni relative al settor
 
 `Vai agli standard per il patrimonio informativo pubblico <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#standard-di-riferimento/>`_ 
 
-`Ontologie disponibili <https://github.com/italia/daf-ontologie-vocabolari-controllati/tree/master/Ontologie/>`_ 
+`Ontologie disponibili <https://github.com/italia/dati-semantic-assets/tree/master/Ontologie/>`_ 
 
 
 Vocabolari controllati
